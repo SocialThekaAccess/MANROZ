@@ -60,8 +60,8 @@ const HappyCustomers = () => {
 
   // Two rows — row 2 scrolls in opposite direction for premium feel
   const row1 = [...customers, ...customers]; // doubled for seamless loop
-  const row2 = [...customers].reverse();
-  row2.push(...row2.slice()); // double
+  const row2 = [...customers].slice(4).concat([...customers].slice(0,4)); // offset by 4
+  const row2Loop = [...row2, ...row2];
 
   return (
     <section className="hc-section">
@@ -87,7 +87,7 @@ const HappyCustomers = () => {
       {/* ── Row 2 — right scroll (opposite) ── */}
       <div className="hc-belt-wrap" style={{ marginTop: '20px' }}>
         <div className="hc-belt hc-belt-right">
-          {row2.map((c, i) => <Card key={i} c={c} onClick={setLightbox} />)}
+          {row2Loop.map((c, i) => <Card key={i} c={c} onClick={setLightbox} />)}
         </div>
       </div>
 
