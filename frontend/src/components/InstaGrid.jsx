@@ -1,6 +1,7 @@
 import { useState, useCallback } from 'react';
 import { Link } from 'react-router-dom';
 import { useCart } from '../context/CartContext';
+import { WithHoverPopup } from './ProductHoverPopup';
 
 // fake like counts for realism
 const fakeLikes = [1243, 892, 2108, 567, 1876, 743, 1392, 488];
@@ -59,7 +60,8 @@ const InstaCard = ({ product, index }) => {
   };
 
   return (
-    <div className="ig-card">
+    <WithHoverPopup product={product}>
+      <div className="ig-card">
       {/* ── Header ── */}
       <div className="ig-header">
         <div className="ig-avatar">
@@ -185,10 +187,14 @@ const InstaCard = ({ product, index }) => {
         </Link>
       </div>
     </div>
+    </WithHoverPopup>
   );
 };
 
 const InstaGrid = ({ products }) => {
+  // Double for seamless infinite loop
+  const loopItems = [...products, ...products];
+
   return (
     <section className="ig-section">
       <div className="ig-section-header">
@@ -213,10 +219,13 @@ const InstaGrid = ({ products }) => {
         </a>
       </div>
 
-      <div className="ig-grid">
-        {products.map((p, i) => (
-          <InstaCard key={p.id} product={p} index={i} />
-        ))}
+      {/* Infinite scroll belt */}
+      <div className="ig-belt-wrap">
+        <div className="ig-belt">
+          {loopItems.map((p, i) => (
+            <InstaCard key={`${p.id}-${i}`} product={p} index={i % products.length} />
+          ))}
+        </div>
       </div>
     </section>
   );

@@ -227,7 +227,7 @@ const VideoCarousel = () => {
     if (paused) return;
     const timer = setInterval(() => {
       setActive((a) => (a + 1) % total);
-    }, 3500);
+    }, 2000);
     return () => clearInterval(timer);
   }, [paused, total]);
 
