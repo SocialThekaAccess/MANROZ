@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import { useState, useEffect, useRef } from 'react';
 import products from '../data/products';
 import ProductCard from '../components/ProductCard';
 import VideoCarousel from '../components/VideoCarousel';
@@ -8,32 +9,120 @@ import HappyCustomers from '../components/HappyCustomers';
 
 const featured = products.filter((p) => p.featured && p.status !== 'archived').slice(0, 4);
 
-const categories = [
+// Get multiple images per category for hover slideshow
+const getCatImages = (cat) => {
+  const catProducts = products.filter((p) => p.category === cat && p.images?.length);
+  if (cat === 'Lehenga') {
+    // Only show images from the first featured lehenga product
+    const first = catProducts.find((p) => p.featured) || catProducts[0];
+    return first ? first.images.slice(0, 6) : [];
+  }
+  // Coord Set & Suit: mix images from multiple products
+  return catProducts.flatMap((p) => p.images.slice(0, 2)).slice(0, 6);
+};
+
+const categoryData = [
   {
     name: 'Lehenga',
     label: 'Lehengas',
     subtitle: 'Wedding & Festive',
-    image: products.find((p) => p.category === 'Lehenga')?.images[0],
+    tag: 'New Season',
     count: products.filter((p) => p.category === 'Lehenga').length,
-    size: 'large', // takes more space
+    images: getCatImages('Lehenga'),
   },
   {
     name: 'Coord Set',
     label: 'Coord Sets',
     subtitle: 'Casual & Semi-formal',
-    image: products.find((p) => p.category === 'Coord Set')?.images[1],
+    tag: 'Best Sellers',
     count: products.filter((p) => p.category === 'Coord Set').length,
-    size: 'medium',
+    images: getCatImages('Coord Set'),
   },
   {
     name: 'Suit',
     label: 'Suits',
     subtitle: 'Elegant & Timeless',
-    image: products.find((p) => p.category === 'Suit')?.images[0],
+    tag: 'Premium',
     count: products.filter((p) => p.category === 'Suit').length,
-    size: 'medium',
+    images: getCatImages('Suit'),
   },
 ];
+
+// Single category card with hover image cycle
+const CatCard = ({ cat }) => {
+  const [imgIdx, setImgIdx] = useState(0);
+  const timerRef = useRef(null);
+
+  // Preload all images for this category on mount so hover is instant
+  useEffect(() => {
+    cat.images.forEach((src) => {
+      const img = new Image();
+      img.src = src;
+    });
+  }, [cat.images]);
+
+  const handleEnter = () => {
+    timerRef.current = setInterval(() => {
+      setImgIdx(i => (i + 1) % cat.images.length);
+    }, 800);
+  };
+  const handleLeave = () => {
+    clearInterval(timerRef.current);
+    setImgIdx(0);
+  };
+
+  return (
+    <Link
+      to={`/shop?category=${cat.name}`}
+      className="cat-card-new"
+      onMouseEnter={handleEnter}
+      onMouseLeave={handleLeave}
+    >
+      {/* Image */}
+      <div className="cat-card-img-wrap">
+        {cat.images.map((img, i) => (
+          <img
+            key={i}
+            src={img}
+            alt={cat.label}
+            className={`cat-card-img ${i === imgIdx ? 'active' : ''}`}
+            loading="eager"
+            fetchPriority={i === 0 ? 'high' : 'low'}
+            onError={e => { e.target.src = `https://placehold.co/500x650/1a1a1a/fff?text=${cat.label}`; }}
+          />
+        ))}
+        {/* Shimmer bar at bottom */}
+        <div className="cat-card-shimmer" />
+      </div>
+
+      {/* Content overlay */}
+      <div className="cat-card-content">
+        <span className="cat-card-tag">{cat.tag}</span>
+        <h3 className="cat-card-title">{cat.label}</h3>
+        <p className="cat-card-sub">{cat.subtitle}</p>
+        <div className="cat-card-footer">
+          <span className="cat-card-count">{cat.count} Styles</span>
+          <span className="cat-card-explore">
+            Explore
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <line x1="5" y1="12" x2="19" y2="12"/>
+              <polyline points="12 5 19 12 12 19"/>
+            </svg>
+          </span>
+        </div>
+      </div>
+
+      {/* Image dots */}
+      {cat.images.length > 1 && (
+        <div className="cat-card-dots">
+          {cat.images.slice(0, 6).map((_, i) => (
+            <span key={i} className={`cat-card-dot ${i === imgIdx ? 'active' : ''}`} />
+          ))}
+        </div>
+      )}
+    </Link>
+  );
+};
 
 const Home = () => {
   return (
@@ -44,41 +133,15 @@ const Home = () => {
       {/* Watch & Buy Video Carousel — right after HomeSection */}
       <VideoCarousel />
 
-      {/* Categories */}
+      {/* Categories — Redesigned */}
       <section className="cat-section">
         <div className="cat-header">
           <h2>Shop by Category</h2>
           <p>Find your perfect style</p>
         </div>
-        <div className="cat-grid">
-          {categories.map((cat) => (
-            <Link
-              key={cat.name}
-              to={`/shop?category=${cat.name}`}
-              className={`cat-card cat-${cat.size}`}
-            >
-              <img
-                src={cat.image}
-                alt={cat.label}
-                className="cat-img"
-                onError={(e) => {
-                  e.target.src = `https://placehold.co/600x800/1a1a1a/fff?text=${cat.label}`;
-                }}
-              />
-              <div className="cat-overlay" />
-              <div className="cat-content">
-                <span className="cat-subtitle">{cat.subtitle}</span>
-                <h3 className="cat-title">{cat.label}</h3>
-                <span className="cat-count">{cat.count} Styles</span>
-                <span className="cat-cta">
-                  Explore
-                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                    <line x1="5" y1="12" x2="19" y2="12" />
-                    <polyline points="12 5 19 12 12 19" />
-                  </svg>
-                </span>
-              </div>
-            </Link>
+        <div className="cat-grid-new">
+          {categoryData.map((cat) => (
+            <CatCard key={cat.name} cat={cat} />
           ))}
         </div>
       </section>
