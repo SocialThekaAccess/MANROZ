@@ -1,7 +1,6 @@
 import { useState, useCallback } from 'react';
 import { Link } from 'react-router-dom';
 import { useCart } from '../context/CartContext';
-import { WithHoverPopup } from './ProductHoverPopup';
 
 // fake like counts for realism
 const fakeLikes = [1243, 892, 2108, 567, 1876, 743, 1392, 488];
@@ -60,8 +59,7 @@ const InstaCard = ({ product, index }) => {
   };
 
   return (
-    <WithHoverPopup product={product}>
-      <div className="ig-card">
+    <div className="ig-card">
       {/* ── Header ── */}
       <div className="ig-header">
         <div className="ig-avatar">
@@ -187,7 +185,6 @@ const InstaCard = ({ product, index }) => {
         </Link>
       </div>
     </div>
-    </WithHoverPopup>
   );
 };
 
