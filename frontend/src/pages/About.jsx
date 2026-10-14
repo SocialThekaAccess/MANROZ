@@ -30,7 +30,7 @@ const categoryTiles = [
 ];
 
 // About split section image — Dark Blue Print Flowers Coord Set
-const ABOUT_IMG = 'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978071/manroz/products/dark-blue-coord-set-with-silver-stones/dark-blue-coord-set-with-silver-stones_1.jpg';
+const ABOUT_IMG = 'https://res.cloudinary.com/oaaxsftf/image/upload/w_1200,q_auto,f_auto/v1791978112/manroz/products/dark-blue-print-flowers-coord-set/dark-blue-print-flowers-coord-set_1.jpg';
 
 const About = () => {
   return (
