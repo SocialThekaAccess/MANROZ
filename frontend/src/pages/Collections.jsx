@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
-import collectionVideo from '../assets/ManrozVideo.mp4';
 import './Collections.css';
+
+const collectionVideo = '/ManrozVideo.mp4';
 
 const categories = [
   {
