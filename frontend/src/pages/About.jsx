@@ -8,7 +8,7 @@ const categoryTiles = [
     tag: 'FESTIVE GLAMOUR AWAITS',
     desc: 'Dazzle at every celebration with stunning lehengas.',
     link: '/shop?category=Lehenga',
-    img: 'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978017/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_1.jpg',
+    img: 'https://res.cloudinary.com/oaaxsftf/image/upload/w_1200,q_auto,f_auto/v1791978022/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_4.jpg',
     size: 'large',
   },
   {
@@ -70,11 +70,6 @@ const About = () => {
           </p>
           <Link to="/shop" className="ab-split-cta">EXPLORE MORE &rsaquo;</Link>
         </div>
-      </section>
-
-      {/* ── Hero — Full Image Banner ── */}
-      <section className="ab-hero">
-        <img src={aboutBanner} alt="Manroz — About Us" className="ab-hero-img" />
       </section>
 
       {/* ── Category Bento Grid ── */}
