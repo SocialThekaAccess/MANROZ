@@ -12,7 +12,7 @@
     featured: true,
     images: [
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978022/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_4.jpg',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/2_c7a4e85e-790e-4ecd-b9eb-cb7b1ac4310f.png?v=1746678488',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791979465/manroz/products/heavy-black-pink-lehnga/extra_1791979462822.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978017/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_1.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978018/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_2.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978020/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_3.jpg',
@@ -34,7 +34,7 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/11_48e64862-a50c-47c1-87a7-807f3018872e.png?v=1746678982',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791979466/manroz/products/purple-coord-set-with-jacket/extra_1791979465584.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978025/manroz/products/purple-coord-set-with-jacket/purple-coord-set-with-jacket_1.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978027/manroz/products/purple-coord-set-with-jacket/purple-coord-set-with-jacket_2.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978028/manroz/products/purple-coord-set-with-jacket/purple-coord-set-with-jacket_3.jpg'
@@ -55,7 +55,7 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/8_5c2d1a33-7b06-4167-81b9-3c398d0832fa.png?v=1746678841',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791979468/manroz/products/hot-pink-festive-suit/extra_1791979467118.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978030/manroz/products/hot-pink-festive-suit/hot-pink-festive-suit_1.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978031/manroz/products/hot-pink-festive-suit/hot-pink-festive-suit_2.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978033/manroz/products/hot-pink-festive-suit/hot-pink-festive-suit_3.jpg',
@@ -77,7 +77,7 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/23.png?v=1746679801',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791979469/manroz/products/three-piece-pink-festive-coord-set/extra_1791979468532.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978036/manroz/products/three-piece-pink-festive-coord-set/three-piece-pink-festive-coord-set_1.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978037/manroz/products/three-piece-pink-festive-coord-set/three-piece-pink-festive-coord-set_2.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978039/manroz/products/three-piece-pink-festive-coord-set/three-piece-pink-festive-coord-set_3.jpg',
@@ -100,7 +100,7 @@
     status: 'soldout',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/28.png?v=1746679977',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791979471/manroz/products/pink-kaftaan-with-potli/extra_1791979470180.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978043/manroz/products/pink-kaftaan-with-potli/pink-kaftaan-with-potli_1.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978045/manroz/products/pink-kaftaan-with-potli/pink-kaftaan-with-potli_2.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978046/manroz/products/pink-kaftaan-with-potli/pink-kaftaan-with-potli_3.jpg'
@@ -266,7 +266,7 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0411.jpg?v=1746681350',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791979473/manroz/products/pista-heavy-embroidery-coord-set/extra_1791979471813.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978098/manroz/products/pista-heavy-embroidery-coord-set/pista-heavy-embroidery-coord-set_1.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978100/manroz/products/pista-heavy-embroidery-coord-set/pista-heavy-embroidery-coord-set_2.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978101/manroz/products/pista-heavy-embroidery-coord-set/pista-heavy-embroidery-coord-set_3.jpg',
@@ -2603,7 +2603,7 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/30-1.webp?v=1727105330',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791979474/manroz/products/misc-product-1/extra_1791979473711.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978955/manroz/products/barbie-pink-cotton-floral-suit/barbie-pink-cotton-floral-suit_1.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978956/manroz/products/barbie-pink-cotton-floral-suit/barbie-pink-cotton-floral-suit_2.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978958/manroz/products/barbie-pink-cotton-floral-suit/barbie-pink-cotton-floral-suit_3.jpg',
@@ -2654,7 +2654,7 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/125.webp?v=1727105302',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791979476/manroz/products/misc-product-2/extra_1791979475226.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978968/manroz/products/anarkali-reddish-love-suit/anarkali-reddish-love-suit_1.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978970/manroz/products/anarkali-reddish-love-suit/anarkali-reddish-love-suit_2.jpg',
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978972/manroz/products/anarkali-reddish-love-suit/anarkali-reddish-love-suit_3.jpg',
