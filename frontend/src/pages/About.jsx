@@ -8,7 +8,7 @@ const categoryTiles = [
     tag: 'FESTIVE GLAMOUR AWAITS',
     desc: 'Dazzle at every celebration with stunning lehengas.',
     link: '/shop?category=Lehenga',
-    img: 'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A9984.jpg?v=1746678488',
+    img: 'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978017/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_1.jpg',
     size: 'large',
   },
   {
@@ -16,7 +16,7 @@ const categoryTiles = [
     tag: 'STYLE IN SYNC',
     desc: 'Ready-to-wear matching sets for effortless fashion.',
     link: '/shop?category=Coord Set',
-    img: 'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/11_48e64862-a50c-47c1-87a7-807f3018872e.png?v=1746678982',
+    img: 'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978036/manroz/products/three-piece-pink-festive-coord-set/three-piece-pink-festive-coord-set_1.jpg',
     size: 'small',
   },
   {
@@ -24,13 +24,13 @@ const categoryTiles = [
     tag: 'TRADITION WITH A TWIST',
     desc: 'Vibrant and minimal suit sets to elevate your wardrobe.',
     link: '/shop?category=Suit',
-    img: 'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0474.jpg?v=1746682016',
+    img: 'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978087/manroz/products/blue-heavy-embroided-suit-with-neck-work/blue-heavy-embroided-suit-with-neck-work_1.jpg',
     size: 'small',
   },
 ];
 
 // About split section image — Dark Blue Print Flowers Coord Set
-const ABOUT_IMG = 'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0413.jpg?v=1746681418';
+const ABOUT_IMG = 'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978071/manroz/products/dark-blue-coord-set-with-silver-stones/dark-blue-coord-set-with-silver-stones_1.jpg';
 
 const About = () => {
   return (
