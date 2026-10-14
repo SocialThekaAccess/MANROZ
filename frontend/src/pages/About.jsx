@@ -8,7 +8,7 @@ const categoryTiles = [
     tag: 'FESTIVE GLAMOUR AWAITS',
     desc: 'Dazzle at every celebration with stunning lehengas.',
     link: '/shop?category=Lehenga',
-    img: 'https://res.cloudinary.com/oaaxsftf/image/upload/w_1200,q_auto,f_auto/v1791978017/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_1.jpg',
+    img: 'https://res.cloudinary.com/oaaxsftf/image/upload/w_1600,q_100,f_auto/v1791978017/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_1.jpg',
     size: 'large',
   },
   {
