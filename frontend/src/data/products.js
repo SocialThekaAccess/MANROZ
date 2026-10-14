@@ -11,12 +11,12 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A9984.jpg?v=1746678488',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978022/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_4.jpg',
       'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/2_c7a4e85e-790e-4ecd-b9eb-cb7b1ac4310f.png?v=1746678488',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/1_66084b4d-a145-43dd-83d2-2389c32eeb6b.png?v=1746678488',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/3_3f15ca97-71bb-418c-ae9e-59d99160f9b2.png?v=1746678488',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/4_50af7ea6-029d-456f-99a6-f0d233b67aba.png?v=1746678488',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A9996.jpg?v=1746678559'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978017/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978018/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978020/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978024/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_5.jpg'
     ],
     variants: [
       { size: 'XL', price: 20000, compareAtPrice: 28599, inventory: 2 },
@@ -35,9 +35,9 @@
     featured: true,
     images: [
       'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/11_48e64862-a50c-47c1-87a7-807f3018872e.png?v=1746678982',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/12_a50dc5d7-bc7e-424d-9de2-355c86397b2c.png?v=1746678982',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/10_aae378d8-2034-4f2c-a9da-345bece38a10.png?v=1746678982',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/9_d5f93e94-01f0-457d-97b9-be081687f609.png?v=1746678982'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978025/manroz/products/purple-coord-set-with-jacket/purple-coord-set-with-jacket_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978027/manroz/products/purple-coord-set-with-jacket/purple-coord-set-with-jacket_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978028/manroz/products/purple-coord-set-with-jacket/purple-coord-set-with-jacket_3.jpg'
     ],
     variants: [
       { size: 'XL', price: 12000, compareAtPrice: 17149, inventory: 2 },
@@ -56,10 +56,10 @@
     featured: true,
     images: [
       'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/8_5c2d1a33-7b06-4167-81b9-3c398d0832fa.png?v=1746678841',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/5_304e61c4-d2f2-4c30-bd2b-44d3303a7cb9.png?v=1746678841',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/7_a327257f-be06-4fdb-ab62-0a6356b2f2d7.png?v=1746678841',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/6_4a33dd31-fde9-42c2-91e1-7eba72c2e2a1.png?v=1746678841',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0112.jpg?v=1746678841'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978030/manroz/products/hot-pink-festive-suit/hot-pink-festive-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978031/manroz/products/hot-pink-festive-suit/hot-pink-festive-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978033/manroz/products/hot-pink-festive-suit/hot-pink-festive-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978034/manroz/products/hot-pink-festive-suit/hot-pink-festive-suit_4.jpg'
     ],
     variants: [
       { size: 'XL', price: 10000, compareAtPrice: 14299, inventory: 0 },
@@ -78,11 +78,11 @@
     featured: true,
     images: [
       'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/23.png?v=1746679801',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/22.png?v=1746679801',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/21.png?v=1746679801',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/24_55c36c9a-9e21-436a-9558-dc9aa6f1f7b0.png?v=1746679801',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0235.webp?v=1746679801',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0239.webp?v=1746679801'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978036/manroz/products/three-piece-pink-festive-coord-set/three-piece-pink-festive-coord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978037/manroz/products/three-piece-pink-festive-coord-set/three-piece-pink-festive-coord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978039/manroz/products/three-piece-pink-festive-coord-set/three-piece-pink-festive-coord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978040/manroz/products/three-piece-pink-festive-coord-set/three-piece-pink-festive-coord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978042/manroz/products/three-piece-pink-festive-coord-set/three-piece-pink-festive-coord-set_5.jpg'
     ],
     variants: [
       { size: 'XL', price: 12000, compareAtPrice: 17149, inventory: 2 },
@@ -101,9 +101,9 @@
     featured: false,
     images: [
       'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/28.png?v=1746679977',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/27_23bd635b-6afb-4809-911a-f99f3ac2c30f.png?v=1746679977',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/26_be63a4a8-792c-4748-a06a-9f4048e31de3.png?v=1746679977',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/25_c0724091-21ce-4a23-9ed9-4cd2c1751fa1.png?v=1746679977'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978043/manroz/products/pink-kaftaan-with-potli/pink-kaftaan-with-potli_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978045/manroz/products/pink-kaftaan-with-potli/pink-kaftaan-with-potli_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978046/manroz/products/pink-kaftaan-with-potli/pink-kaftaan-with-potli_3.jpg'
     ],
     variants: [
       { size: 'L', price: 4000, compareAtPrice: 5719, inventory: 2 },
@@ -122,11 +122,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0272.jpg?v=1746680387',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0279.jpg?v=1746680397',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0278.jpg?v=1746680397',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0282.jpg?v=1746680241',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0290.jpg?v=1746680294'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978048/manroz/products/black-western-golden-shoulder-coord-set/black-western-golden-shoulder-coord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978050/manroz/products/black-western-golden-shoulder-coord-set/black-western-golden-shoulder-coord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978052/manroz/products/black-western-golden-shoulder-coord-set/black-western-golden-shoulder-coord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978054/manroz/products/black-western-golden-shoulder-coord-set/black-western-golden-shoulder-coord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978055/manroz/products/black-western-golden-shoulder-coord-set/black-western-golden-shoulder-coord-set_5.jpg'
     ],
     variants: [
       { size: 'M', price: 2099, compareAtPrice: 4199, inventory: 2 },
@@ -145,10 +145,10 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0519.jpg?v=1746680500',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0520.jpg?v=1746680527',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0523.jpg?v=1746680558',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0528.jpg?v=1746680582'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978057/manroz/products/green-coord-set-with-silver-stone/green-coord-set-with-silver-stone_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978058/manroz/products/green-coord-set-with-silver-stone/green-coord-set-with-silver-stone_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978060/manroz/products/green-coord-set-with-silver-stone/green-coord-set-with-silver-stone_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978062/manroz/products/green-coord-set-with-silver-stone/green-coord-set-with-silver-stone_4.jpg'
     ],
     variants: [
       { size: 'M', price: 1849, compareAtPrice: 3699, inventory: 2 },
@@ -169,11 +169,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0310.jpg?v=1746680630',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0315.jpg?v=1746680652',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0321.jpg?v=1746680670',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0322.jpg?v=1746680757',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0323.jpg?v=1746680714'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978063/manroz/products/cream-coord-set-with-a-line-cut/cream-coord-set-with-a-line-cut_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978065/manroz/products/cream-coord-set-with-a-line-cut/cream-coord-set-with-a-line-cut_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978066/manroz/products/cream-coord-set-with-a-line-cut/cream-coord-set-with-a-line-cut_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978068/manroz/products/cream-coord-set-with-a-line-cut/cream-coord-set-with-a-line-cut_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978070/manroz/products/cream-coord-set-with-a-line-cut/cream-coord-set-with-a-line-cut_5.jpg'
     ],
     variants: [
       { size: 'M', price: 1799, compareAtPrice: 3599, inventory: 2 },
@@ -193,10 +193,10 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0338.jpg?v=1746680851',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0327.jpg?v=1746680851',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0325.jpg?v=1746680851',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0330.jpg?v=1746680851'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978071/manroz/products/dark-blue-coord-set-with-silver-stones/dark-blue-coord-set-with-silver-stones_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978072/manroz/products/dark-blue-coord-set-with-silver-stones/dark-blue-coord-set-with-silver-stones_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978074/manroz/products/dark-blue-coord-set-with-silver-stones/dark-blue-coord-set-with-silver-stones_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978075/manroz/products/dark-blue-coord-set-with-silver-stones/dark-blue-coord-set-with-silver-stones_4.jpg'
     ],
     variants: [
       { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 2 },
@@ -217,12 +217,12 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0342.jpg?v=1746680883',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0341.jpg?v=1746680900',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0347.jpg?v=1746680916',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0349.jpg?v=1746680943',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0351.jpg?v=1746680989',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0357.jpg?v=1746681014'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978077/manroz/products/cream-coord-set/cream-coord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978078/manroz/products/cream-coord-set/cream-coord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978080/manroz/products/cream-coord-set/cream-coord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978081/manroz/products/cream-coord-set/cream-coord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978083/manroz/products/cream-coord-set/cream-coord-set_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978085/manroz/products/cream-coord-set/cream-coord-set_6.jpg'
     ],
     variants: [
       { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 2 },
@@ -243,12 +243,12 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0370.jpg?v=1746681178',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0376.jpg?v=1746681178',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0384.jpg?v=1746681178',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0361.jpg?v=1746681176',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0362.jpg?v=1746681176',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0364.jpg?v=1746681176'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978087/manroz/products/blue-heavy-embroided-suit-with-neck-work/blue-heavy-embroided-suit-with-neck-work_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978089/manroz/products/blue-heavy-embroided-suit-with-neck-work/blue-heavy-embroided-suit-with-neck-work_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978091/manroz/products/blue-heavy-embroided-suit-with-neck-work/blue-heavy-embroided-suit-with-neck-work_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978093/manroz/products/blue-heavy-embroided-suit-with-neck-work/blue-heavy-embroided-suit-with-neck-work_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978095/manroz/products/blue-heavy-embroided-suit-with-neck-work/blue-heavy-embroided-suit-with-neck-work_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978096/manroz/products/blue-heavy-embroided-suit-with-neck-work/blue-heavy-embroided-suit-with-neck-work_6.jpg'
     ],
     variants: [
       { size: 'XL', price: 10000, compareAtPrice: 14299, inventory: 0 },
@@ -267,13 +267,13 @@
     featured: true,
     images: [
       'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0411.jpg?v=1746681350',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0406.jpg?v=1746681350',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0401.jpg?v=1746681350',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0403.jpg?v=1746681269',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0405.jpg?v=1746681287',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0386.jpg?v=1746681304',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0394.jpg?v=1746681322',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0397.jpg?v=1746681337'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978098/manroz/products/pista-heavy-embroidery-coord-set/pista-heavy-embroidery-coord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978100/manroz/products/pista-heavy-embroidery-coord-set/pista-heavy-embroidery-coord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978101/manroz/products/pista-heavy-embroidery-coord-set/pista-heavy-embroidery-coord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978103/manroz/products/pista-heavy-embroidery-coord-set/pista-heavy-embroidery-coord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978105/manroz/products/pista-heavy-embroidery-coord-set/pista-heavy-embroidery-coord-set_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978108/manroz/products/pista-heavy-embroidery-coord-set/pista-heavy-embroidery-coord-set_6.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978110/manroz/products/pista-heavy-embroidery-coord-set/pista-heavy-embroidery-coord-set_7.jpg'
     ],
     variants: [
       { size: 'XL', price: 12000, compareAtPrice: 17149, inventory: 2 },
@@ -291,13 +291,13 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0413.jpg?v=1746681418',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0414.jpg?v=1746681435',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0416.jpg?v=1746681464',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0418.jpg?v=1746681495',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0421.jpg?v=1746681546',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0425.jpg?v=1746681603',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0430.jpg?v=1734075944'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978112/manroz/products/dark-blue-print-flowers-coord-set/dark-blue-print-flowers-coord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978113/manroz/products/dark-blue-print-flowers-coord-set/dark-blue-print-flowers-coord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978115/manroz/products/dark-blue-print-flowers-coord-set/dark-blue-print-flowers-coord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978116/manroz/products/dark-blue-print-flowers-coord-set/dark-blue-print-flowers-coord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978118/manroz/products/dark-blue-print-flowers-coord-set/dark-blue-print-flowers-coord-set_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978119/manroz/products/dark-blue-print-flowers-coord-set/dark-blue-print-flowers-coord-set_6.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978121/manroz/products/dark-blue-print-flowers-coord-set/dark-blue-print-flowers-coord-set_7.jpg'
     ],
     variants: [
       { size: 'S', price: 1699, compareAtPrice: 3399, inventory: 2 },
@@ -318,10 +318,10 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0431.jpg?v=1746681660',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0439.jpg?v=1746681744',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0436.jpg?v=1746681744',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0441.jpg?v=1746681736'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978123/manroz/products/green-print-coord-set/green-print-coord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978125/manroz/products/green-print-coord-set/green-print-coord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978126/manroz/products/green-print-coord-set/green-print-coord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978128/manroz/products/green-print-coord-set/green-print-coord-set_4.jpg'
     ],
     variants: [
       { size: 'Small', price: 1849, compareAtPrice: 3699, inventory: 1 },
@@ -342,12 +342,12 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0446.jpg?v=1746681777',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0447.jpg?v=1746681793',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0448.jpg?v=1746681813',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0449.jpg?v=1746681831',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0451.jpg?v=1746681850',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0452.jpg?v=1746681868'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978130/manroz/products/black-shimmery-designer-coord-set/black-shimmery-designer-coord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978132/manroz/products/black-shimmery-designer-coord-set/black-shimmery-designer-coord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978134/manroz/products/black-shimmery-designer-coord-set/black-shimmery-designer-coord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978136/manroz/products/black-shimmery-designer-coord-set/black-shimmery-designer-coord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978139/manroz/products/black-shimmery-designer-coord-set/black-shimmery-designer-coord-set_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978141/manroz/products/black-shimmery-designer-coord-set/black-shimmery-designer-coord-set_6.jpg'
     ],
     variants: [
       { size: 'Medium', price: 2099, compareAtPrice: 4199, inventory: 2 },
@@ -368,10 +368,10 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0464.jpg?v=1746681913',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0467.jpg?v=1746681983',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0470.jpg?v=1746681983',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0460.jpg?v=1746681983'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978143/manroz/products/purple-coord-set-with-leaf-cut/purple-coord-set-with-leaf-cut_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978145/manroz/products/purple-coord-set-with-leaf-cut/purple-coord-set-with-leaf-cut_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978147/manroz/products/purple-coord-set-with-leaf-cut/purple-coord-set-with-leaf-cut_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978149/manroz/products/purple-coord-set-with-leaf-cut/purple-coord-set-with-leaf-cut_4.jpg'
     ],
     variants: [
       { size: 'Small', price: 1699, compareAtPrice: 3399, inventory: 2 },
@@ -392,14 +392,14 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0474.jpg?v=1746682016',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0498.jpg?v=1746682156',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0496.jpg?v=1746682156',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0478.jpg?v=1746682156',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0482.jpg?v=1746682156',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0488.jpg?v=1746682156',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0492.jpg?v=1746682156',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0502.jpg?v=1746682140'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978151/manroz/products/red-shimmery-suit/red-shimmery-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978153/manroz/products/red-shimmery-suit/red-shimmery-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978155/manroz/products/red-shimmery-suit/red-shimmery-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978157/manroz/products/red-shimmery-suit/red-shimmery-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978160/manroz/products/red-shimmery-suit/red-shimmery-suit_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978162/manroz/products/red-shimmery-suit/red-shimmery-suit_6.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978165/manroz/products/red-shimmery-suit/red-shimmery-suit_7.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978167/manroz/products/red-shimmery-suit/red-shimmery-suit_8.jpg'
     ],
     variants: [
       { size: 'XL', price: 8000, compareAtPrice: 11429, inventory: 0 },
@@ -417,12 +417,12 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0504.jpg?v=1746682207',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0503.jpg?v=1746682331',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0511.jpg?v=1746682331',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0512.jpg?v=1746682278',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0514.jpg?v=1746682292',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0515.jpg?v=1746682323'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978169/manroz/products/purple-print-suit/purple-print-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978171/manroz/products/purple-print-suit/purple-print-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978173/manroz/products/purple-print-suit/purple-print-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978175/manroz/products/purple-print-suit/purple-print-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978177/manroz/products/purple-print-suit/purple-print-suit_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978179/manroz/products/purple-print-suit/purple-print-suit_6.jpg'
     ],
     variants: [
       { size: 'Small', price: 4000, compareAtPrice: 5719, inventory: 2 },
@@ -443,15 +443,15 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0538.jpg?v=1746682371',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0544.jpg?v=1746682544',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0539.jpg?v=1746682544',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0541.jpg?v=1746682544',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0546.jpg?v=1746682442',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0547.jpg?v=1746682457',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0549.jpg?v=1746682490',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0550.jpg?v=1746682516',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0554.jpg?v=1746682539'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978181/manroz/products/flower-coord-set-with-golden-neck-work/flower-coord-set-with-golden-neck-work_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978183/manroz/products/flower-coord-set-with-golden-neck-work/flower-coord-set-with-golden-neck-work_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978185/manroz/products/flower-coord-set-with-golden-neck-work/flower-coord-set-with-golden-neck-work_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978187/manroz/products/flower-coord-set-with-golden-neck-work/flower-coord-set-with-golden-neck-work_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978190/manroz/products/flower-coord-set-with-golden-neck-work/flower-coord-set-with-golden-neck-work_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978192/manroz/products/flower-coord-set-with-golden-neck-work/flower-coord-set-with-golden-neck-work_6.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978194/manroz/products/flower-coord-set-with-golden-neck-work/flower-coord-set-with-golden-neck-work_7.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978196/manroz/products/flower-coord-set-with-golden-neck-work/flower-coord-set-with-golden-neck-work_8.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978198/manroz/products/flower-coord-set-with-golden-neck-work/flower-coord-set-with-golden-neck-work_9.jpg'
     ],
     variants: [
       { size: 'Small', price: 1999, compareAtPrice: 3999, inventory: 2 },
@@ -472,11 +472,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0555.jpg?v=1746682574',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0561.jpg?v=1746682589',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0563.jpg?v=1746682604',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0567.jpg?v=1746682620',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0570.jpg?v=1746682642'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978201/manroz/products/black-coord-set-with-pink-neck-work/black-coord-set-with-pink-neck-work_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978203/manroz/products/black-coord-set-with-pink-neck-work/black-coord-set-with-pink-neck-work_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978205/manroz/products/black-coord-set-with-pink-neck-work/black-coord-set-with-pink-neck-work_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978207/manroz/products/black-coord-set-with-pink-neck-work/black-coord-set-with-pink-neck-work_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978208/manroz/products/black-coord-set-with-pink-neck-work/black-coord-set-with-pink-neck-work_5.jpg'
     ],
     variants: [
       { size: 'M', price: 1599, compareAtPrice: 3199, inventory: 4 },
@@ -497,11 +497,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0578.jpg?v=1746682774',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0572.jpg?v=1746682774',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0580.jpg?v=1746682774',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0576.jpg?v=1746682774',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0584.jpg?v=1746682767'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978210/manroz/products/black-coord-set-with-white-neck-button-flower/black-coord-set-with-white-neck-button-flower_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978213/manroz/products/black-coord-set-with-white-neck-button-flower/black-coord-set-with-white-neck-button-flower_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978215/manroz/products/black-coord-set-with-white-neck-button-flower/black-coord-set-with-white-neck-button-flower_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978217/manroz/products/black-coord-set-with-white-neck-button-flower/black-coord-set-with-white-neck-button-flower_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978219/manroz/products/black-coord-set-with-white-neck-button-flower/black-coord-set-with-white-neck-button-flower_5.jpg'
     ],
     variants: [
       { size: 'M', price: 1649, compareAtPrice: 3299, inventory: 4 },
@@ -522,12 +522,12 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0601.jpg?v=1746682903',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0599.jpg?v=1746682903',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0597.jpg?v=1746682903',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0593.jpg?v=1746682903',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0588.jpg?v=1746682903',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0591.jpg?v=1746682903'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978221/manroz/products/dark-green-coord-set-with-neck-work/dark-green-coord-set-with-neck-work_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978223/manroz/products/dark-green-coord-set-with-neck-work/dark-green-coord-set-with-neck-work_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978226/manroz/products/dark-green-coord-set-with-neck-work/dark-green-coord-set-with-neck-work_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978228/manroz/products/dark-green-coord-set-with-neck-work/dark-green-coord-set-with-neck-work_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978230/manroz/products/dark-green-coord-set-with-neck-work/dark-green-coord-set-with-neck-work_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978232/manroz/products/dark-green-coord-set-with-neck-work/dark-green-coord-set-with-neck-work_6.jpg'
     ],
     variants: [
       { size: 'Medium', price: 1699, compareAtPrice: 3399, inventory: 2 },
@@ -547,12 +547,12 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0609.jpg?v=1746683089',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0604.jpg?v=1746683089',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0606.jpg?v=1746683089',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0610.jpg?v=1746682983',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0612.jpg?v=1746683000',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0615.jpg?v=1746683018'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978234/manroz/products/beige-coord-set/beige-coord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978237/manroz/products/beige-coord-set/beige-coord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978240/manroz/products/beige-coord-set/beige-coord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978242/manroz/products/beige-coord-set/beige-coord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978245/manroz/products/beige-coord-set/beige-coord-set_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978247/manroz/products/beige-coord-set/beige-coord-set_6.jpg'
     ],
     variants: [
       { size: 'Small', price: 1499, compareAtPrice: 2999, inventory: 4 },
@@ -573,10 +573,10 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0626.jpg?v=1746683175',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0627.jpg?v=1746683175',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0619.jpg?v=1746683175',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0624.jpg?v=1746683175'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978248/manroz/products/red-coord-set-with-leaf-cut/red-coord-set-with-leaf-cut_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978250/manroz/products/red-coord-set-with-leaf-cut/red-coord-set-with-leaf-cut_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978252/manroz/products/red-coord-set-with-leaf-cut/red-coord-set-with-leaf-cut_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978253/manroz/products/red-coord-set-with-leaf-cut/red-coord-set-with-leaf-cut_4.jpg'
     ],
     variants: [
       { size: 'Medium', price: 2099, compareAtPrice: 4199, inventory: 2 },
@@ -597,13 +597,13 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0633.jpg?v=1746683204',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0642.jpg?v=1746683338',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0637.jpg?v=1746683338',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0640.jpg?v=1746683338',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0643.jpg?v=1746683299',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0645.jpg?v=1746683318',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0646.jpg?v=1746683334'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978255/manroz/products/white-coord-set-with-black-lining/white-coord-set-with-black-lining_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978257/manroz/products/white-coord-set-with-black-lining/white-coord-set-with-black-lining_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978259/manroz/products/white-coord-set-with-black-lining/white-coord-set-with-black-lining_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978261/manroz/products/white-coord-set-with-black-lining/white-coord-set-with-black-lining_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978263/manroz/products/white-coord-set-with-black-lining/white-coord-set-with-black-lining_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978265/manroz/products/white-coord-set-with-black-lining/white-coord-set-with-black-lining_6.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978267/manroz/products/white-coord-set-with-black-lining/white-coord-set-with-black-lining_7.jpg'
     ],
     variants: [
       { size: 'Medium', price: 1599, compareAtPrice: 3199, inventory: 2 },
@@ -624,12 +624,12 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0647.jpg?v=1746683390',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0653.jpg?v=1746683503',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0648.jpg?v=1746683503',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0649.jpg?v=1746683503',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0656.jpg?v=1746683495',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0659.jpg?v=1746683474'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978268/manroz/products/maroon-golden-coord-set/maroon-golden-coord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978270/manroz/products/maroon-golden-coord-set/maroon-golden-coord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978272/manroz/products/maroon-golden-coord-set/maroon-golden-coord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978274/manroz/products/maroon-golden-coord-set/maroon-golden-coord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978276/manroz/products/maroon-golden-coord-set/maroon-golden-coord-set_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978278/manroz/products/maroon-golden-coord-set/maroon-golden-coord-set_6.jpg'
     ],
     variants: [
       { size: 'Medium', price: 1549, compareAtPrice: 3099, inventory: 2 },
@@ -650,12 +650,12 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0666.jpg?v=1746683538',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0665.jpg?v=1746683552',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0668.jpg?v=1746683566',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0669.jpg?v=1746683581',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0673.jpg?v=1746683605',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0676.jpg?v=1746683622'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978280/manroz/products/light-blue-coord-set/light-blue-coord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978282/manroz/products/light-blue-coord-set/light-blue-coord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978283/manroz/products/light-blue-coord-set/light-blue-coord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978285/manroz/products/light-blue-coord-set/light-blue-coord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978287/manroz/products/light-blue-coord-set/light-blue-coord-set_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978289/manroz/products/light-blue-coord-set/light-blue-coord-set_6.jpg'
     ],
     variants: [
       { size: 'Small', price: 1699, compareAtPrice: 3399, inventory: 2 },
@@ -676,15 +676,15 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0679.jpg?v=1746683653',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0687.jpg?v=1746683879',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0680.jpg?v=1746683879',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0683.jpg?v=1746683879',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0684.jpg?v=1746683879',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0685.jpg?v=1746683879',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0686.jpg?v=1746683879',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0688.jpg?v=1746683852',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0689.jpg?v=1746683870'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978292/manroz/products/white-coord-set-with-black-thread-flowers/white-coord-set-with-black-thread-flowers_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978294/manroz/products/white-coord-set-with-black-thread-flowers/white-coord-set-with-black-thread-flowers_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978295/manroz/products/white-coord-set-with-black-thread-flowers/white-coord-set-with-black-thread-flowers_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978297/manroz/products/white-coord-set-with-black-thread-flowers/white-coord-set-with-black-thread-flowers_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978298/manroz/products/white-coord-set-with-black-thread-flowers/white-coord-set-with-black-thread-flowers_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978300/manroz/products/white-coord-set-with-black-thread-flowers/white-coord-set-with-black-thread-flowers_6.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978302/manroz/products/white-coord-set-with-black-thread-flowers/white-coord-set-with-black-thread-flowers_7.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978304/manroz/products/white-coord-set-with-black-thread-flowers/white-coord-set-with-black-thread-flowers_8.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978306/manroz/products/white-coord-set-with-black-thread-flowers/white-coord-set-with-black-thread-flowers_9.jpg'
     ],
     variants: [
       { size: 'Medium', price: 1499, compareAtPrice: 2999, inventory: 2 },
@@ -705,13 +705,13 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0691.jpg?v=1746683912',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0697.jpg?v=1746684025',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0695.jpg?v=1746684025',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0699.jpg?v=1746683966',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0705.jpg?v=1746683982',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0706.jpg?v=1746683999',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0707.jpg?v=1746684017'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978308/manroz/products/white-black-coord-set/white-black-coord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978310/manroz/products/white-black-coord-set/white-black-coord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978312/manroz/products/white-black-coord-set/white-black-coord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978314/manroz/products/white-black-coord-set/white-black-coord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978315/manroz/products/white-black-coord-set/white-black-coord-set_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978317/manroz/products/white-black-coord-set/white-black-coord-set_6.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978319/manroz/products/white-black-coord-set/white-black-coord-set_7.jpg'
     ],
     variants: [
       { size: 'Medium', price: 1999, compareAtPrice: 3999, inventory: 2 },
@@ -732,14 +732,14 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0717.jpg?v=1746684214',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0714.jpg?v=1746684214',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0711.jpg?v=1746684214',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0709.jpg?v=1746684214',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0712.jpg?v=1746684214',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0718.jpg?v=1746684154',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0719.jpg?v=1746684172',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0721.jpg?v=1746684196'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978320/manroz/products/green-coord-set/green-coord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978322/manroz/products/green-coord-set/green-coord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978324/manroz/products/green-coord-set/green-coord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978326/manroz/products/green-coord-set/green-coord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978327/manroz/products/green-coord-set/green-coord-set_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978329/manroz/products/green-coord-set/green-coord-set_6.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978331/manroz/products/green-coord-set/green-coord-set_7.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978333/manroz/products/green-coord-set/green-coord-set_8.jpg'
     ],
     variants: [
       { size: 'Medium', price: 1849, compareAtPrice: 3699, inventory: 2 },
@@ -760,12 +760,12 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0726.jpg?v=1746684380',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/11zon_resized.jpg?v=1746684380',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0727.jpg?v=1746684380',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0724.jpg?v=1746684380',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0725.jpg?v=1746684380',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0735_11zon.jpg?v=1746684369'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978334/manroz/products/black-white-neck-coord-set/black-white-neck-coord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978336/manroz/products/black-white-neck-coord-set/black-white-neck-coord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978338/manroz/products/black-white-neck-coord-set/black-white-neck-coord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978340/manroz/products/black-white-neck-coord-set/black-white-neck-coord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978342/manroz/products/black-white-neck-coord-set/black-white-neck-coord-set_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978343/manroz/products/black-white-neck-coord-set/black-white-neck-coord-set_6.jpg'
     ],
     variants: [
       { size: 'Medium', price: 2049, compareAtPrice: 4099, inventory: 2 },
@@ -786,11 +786,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0739.jpg?v=1746684422',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0742.jpg?v=1746684518',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0740.jpg?v=1746684518',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0741.jpg?v=1746684518',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0743.jpg?v=1746684494'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978345/manroz/products/red-print-coord-set/red-print-coord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978347/manroz/products/red-print-coord-set/red-print-coord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978348/manroz/products/red-print-coord-set/red-print-coord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978350/manroz/products/red-print-coord-set/red-print-coord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978352/manroz/products/red-print-coord-set/red-print-coord-set_5.jpg'
     ],
     variants: [
       { size: 'Small', price: 2099, compareAtPrice: 4199, inventory: 2 },
@@ -811,13 +811,13 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0751.jpg?v=1746684648',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0757.jpg?v=1746684648',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0761.jpg?v=1746684648',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0762_1.jpg?v=1746684648',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0754.jpg?v=1746684648',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0749.jpg?v=1746684647',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0759.jpg?v=1746684647'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978353/manroz/products/purple-emborided-coord-set/purple-emborided-coord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978354/manroz/products/purple-emborided-coord-set/purple-emborided-coord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978356/manroz/products/purple-emborided-coord-set/purple-emborided-coord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978358/manroz/products/purple-emborided-coord-set/purple-emborided-coord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978359/manroz/products/purple-emborided-coord-set/purple-emborided-coord-set_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978361/manroz/products/purple-emborided-coord-set/purple-emborided-coord-set_6.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978363/manroz/products/purple-emborided-coord-set/purple-emborided-coord-set_7.jpg'
     ],
     variants: [
       { size: 'Medium', price: 3000, compareAtPrice: 4289, inventory: 2 },
@@ -838,11 +838,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/70-1.webp?v=1727106293',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/69-1.webp?v=1727106293',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/68-1.webp?v=1727106293',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/67-1.webp?v=1727106293',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/66-1.webp?v=1727106293'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978364/manroz/products/wine-embroided-cord-set/wine-embroided-cord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978366/manroz/products/wine-embroided-cord-set/wine-embroided-cord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978368/manroz/products/wine-embroided-cord-set/wine-embroided-cord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978370/manroz/products/wine-embroided-cord-set/wine-embroided-cord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978372/manroz/products/wine-embroided-cord-set/wine-embroided-cord-set_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1749, compareAtPrice: 3499, inventory: 2 },
@@ -862,11 +862,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/621.webp?v=1727106280',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/65-1.webp?v=1727106280',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/641.webp?v=1727106280',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/631.webp?v=1727106280',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/611.webp?v=1727106280'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978373/manroz/products/white-with-blue-flowers-a-line-kurti/white-with-blue-flowers-a-line-kurti_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978375/manroz/products/white-with-blue-flowers-a-line-kurti/white-with-blue-flowers-a-line-kurti_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978376/manroz/products/white-with-blue-flowers-a-line-kurti/white-with-blue-flowers-a-line-kurti_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978378/manroz/products/white-with-blue-flowers-a-line-kurti/white-with-blue-flowers-a-line-kurti_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978380/manroz/products/white-with-blue-flowers-a-line-kurti/white-with-blue-flowers-a-line-kurti_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1199, compareAtPrice: 2399, inventory: 0 },
@@ -887,12 +887,12 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/115.webp?v=1727106267',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/116.webp?v=1727106267',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/117.webp?v=1727106267',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/118.webp?v=1727106267',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/119.webp?v=1727106267',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/120.webp?v=1727106267'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978381/manroz/products/white-lehnga-with-designer-choli/white-lehnga-with-designer-choli_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978382/manroz/products/white-lehnga-with-designer-choli/white-lehnga-with-designer-choli_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978384/manroz/products/white-lehnga-with-designer-choli/white-lehnga-with-designer-choli_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978385/manroz/products/white-lehnga-with-designer-choli/white-lehnga-with-designer-choli_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978387/manroz/products/white-lehnga-with-designer-choli/white-lehnga-with-designer-choli_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978389/manroz/products/white-lehnga-with-designer-choli/white-lehnga-with-designer-choli_6.jpg'
     ],
     variants: [
       { size: 'XL', price: 20000, compareAtPrice: 28579, inventory: 0 },
@@ -910,14 +910,14 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/191.webp?v=1727106253',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/192.webp?v=1746684689',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/194.webp?v=1746684689',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/198.webp?v=1746684689',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/196.webp?v=1746684689',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/193.webp?v=1727106253',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/197.webp?v=1727106253',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/195.webp?v=1727106253'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978390/manroz/products/white-gotta-patti-suit/white-gotta-patti-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978391/manroz/products/white-gotta-patti-suit/white-gotta-patti-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978393/manroz/products/white-gotta-patti-suit/white-gotta-patti-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978394/manroz/products/white-gotta-patti-suit/white-gotta-patti-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978396/manroz/products/white-gotta-patti-suit/white-gotta-patti-suit_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978397/manroz/products/white-gotta-patti-suit/white-gotta-patti-suit_6.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978399/manroz/products/white-gotta-patti-suit/white-gotta-patti-suit_7.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978401/manroz/products/white-gotta-patti-suit/white-gotta-patti-suit_8.jpg'
     ],
     variants: [
       { size: '2XL', price: 4200, compareAtPrice: 6000, inventory: 0 },
@@ -935,11 +935,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/591.webp?v=1727106236',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/601.webp?v=1727106236',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/581.webp?v=1727106236',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/571.webp?v=1727106236',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/561.webp?v=1727106236'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978404/manroz/products/turqoise-blue-muslin-suit-with-flower-neckline/turqoise-blue-muslin-suit-with-flower-neckline_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978405/manroz/products/turqoise-blue-muslin-suit-with-flower-neckline/turqoise-blue-muslin-suit-with-flower-neckline_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978407/manroz/products/turqoise-blue-muslin-suit-with-flower-neckline/turqoise-blue-muslin-suit-with-flower-neckline_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978409/manroz/products/turqoise-blue-muslin-suit-with-flower-neckline/turqoise-blue-muslin-suit-with-flower-neckline_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978411/manroz/products/turqoise-blue-muslin-suit-with-flower-neckline/turqoise-blue-muslin-suit-with-flower-neckline_5.jpg'
     ],
     variants: [
       { size: 'S', price: 4500, compareAtPrice: 6429, inventory: 0 },
@@ -960,11 +960,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/551.webp?v=1727106223',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/541.webp?v=1727106223',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/531.webp?v=1727106223',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/521.webp?v=1727106223',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/511.webp?v=1727106223'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978413/manroz/products/skyblue-block-print-cotton-suit/skyblue-block-print-cotton-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978414/manroz/products/skyblue-block-print-cotton-suit/skyblue-block-print-cotton-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978416/manroz/products/skyblue-block-print-cotton-suit/skyblue-block-print-cotton-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978417/manroz/products/skyblue-block-print-cotton-suit/skyblue-block-print-cotton-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978419/manroz/products/skyblue-block-print-cotton-suit/skyblue-block-print-cotton-suit_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 0 },
@@ -986,11 +986,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/188.webp?v=1727106210',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/190.webp?v=1727106210',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/189.webp?v=1727106210',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/187.webp?v=1727106210',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/186.webp?v=1727106210'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978420/manroz/products/sky-blue-flower-suit/sky-blue-flower-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978422/manroz/products/sky-blue-flower-suit/sky-blue-flower-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978423/manroz/products/sky-blue-flower-suit/sky-blue-flower-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978425/manroz/products/sky-blue-flower-suit/sky-blue-flower-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978426/manroz/products/sky-blue-flower-suit/sky-blue-flower-suit_5.jpg'
     ],
     variants: [
       { size: 'M', price: 4400, compareAtPrice: 6289, inventory: 0 },
@@ -1009,10 +1009,10 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/501.webp?v=1727106198',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/481.webp?v=1727106198',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/471.webp?v=1727106198',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/461.webp?v=1727106198'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978428/manroz/products/sea-breeze-v-neckline-muslin-suit/sea-breeze-v-neckline-muslin-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978429/manroz/products/sea-breeze-v-neckline-muslin-suit/sea-breeze-v-neckline-muslin-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978431/manroz/products/sea-breeze-v-neckline-muslin-suit/sea-breeze-v-neckline-muslin-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978432/manroz/products/sea-breeze-v-neckline-muslin-suit/sea-breeze-v-neckline-muslin-suit_4.jpg'
     ],
     variants: [
       { size: 'S', price: 3000, compareAtPrice: 4289, inventory: 0 },
@@ -1033,8 +1033,8 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/441.webp?v=1727106187',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/411.webp?v=1727106187'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978434/manroz/products/royal-blue-cotton-floral-suit-with-emborided-pockets/royal-blue-cotton-floral-suit-with-emborided-pockets_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978435/manroz/products/royal-blue-cotton-floral-suit-with-emborided-pockets/royal-blue-cotton-floral-suit-with-emborided-pockets_2.jpg'
     ],
     variants: [
       { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 0 },
@@ -1056,13 +1056,13 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/183.webp?v=1727106178',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/185.webp?v=1727106178',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/184.webp?v=1727106178',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/182.webp?v=1727106178',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/181.webp?v=1727106178',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/180.webp?v=1727106178',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/179.webp?v=1727106178'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978437/manroz/products/red-leaf-flower-suit/red-leaf-flower-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978439/manroz/products/red-leaf-flower-suit/red-leaf-flower-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978440/manroz/products/red-leaf-flower-suit/red-leaf-flower-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978442/manroz/products/red-leaf-flower-suit/red-leaf-flower-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978443/manroz/products/red-leaf-flower-suit/red-leaf-flower-suit_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978445/manroz/products/red-leaf-flower-suit/red-leaf-flower-suit_6.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978447/manroz/products/red-leaf-flower-suit/red-leaf-flower-suit_7.jpg'
     ],
     variants: [
       { size: 'M', price: 5650, compareAtPrice: 8069, inventory: 0 },
@@ -1082,11 +1082,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/401.webp?v=1727106162',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/391.webp?v=1727106162',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/381.webp?v=1727106162',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/371.webp?v=1727106162',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/361.webp?v=1727106162'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978449/manroz/products/red-chinon-suit-with-gottapatti-neck-line/red-chinon-suit-with-gottapatti-neck-line_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978450/manroz/products/red-chinon-suit-with-gottapatti-neck-line/red-chinon-suit-with-gottapatti-neck-line_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978452/manroz/products/red-chinon-suit-with-gottapatti-neck-line/red-chinon-suit-with-gottapatti-neck-line_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978453/manroz/products/red-chinon-suit-with-gottapatti-neck-line/red-chinon-suit-with-gottapatti-neck-line_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978454/manroz/products/red-chinon-suit-with-gottapatti-neck-line/red-chinon-suit-with-gottapatti-neck-line_5.jpg'
     ],
     variants: [
       { size: 'S', price: 3000, compareAtPrice: 4289, inventory: 0 },
@@ -1106,12 +1106,12 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/113.webp?v=1727106150',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/109.webp?v=1727106150',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/110.webp?v=1727106150',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/111.webp?v=1727106150',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/112.webp?v=1727106150',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/114.webp?v=1727106150'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978456/manroz/products/red-a-line-chinon-suit/red-a-line-chinon-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978458/manroz/products/red-a-line-chinon-suit/red-a-line-chinon-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978459/manroz/products/red-a-line-chinon-suit/red-a-line-chinon-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978461/manroz/products/red-a-line-chinon-suit/red-a-line-chinon-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978463/manroz/products/red-a-line-chinon-suit/red-a-line-chinon-suit_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978464/manroz/products/red-a-line-chinon-suit/red-a-line-chinon-suit_6.jpg'
     ],
     variants: [
       { size: 'L', price: 6000, compareAtPrice: 8589, inventory: 0 },
@@ -1129,12 +1129,12 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/103.webp?v=1727106135',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/104.webp?v=1727106135',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/105.webp?v=1727106135',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/106.webp?v=1727106135',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/107.webp?v=1727106135',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/108.webp?v=1727106135'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978466/manroz/products/purple-work-lehnga/purple-work-lehnga_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978467/manroz/products/purple-work-lehnga/purple-work-lehnga_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978469/manroz/products/purple-work-lehnga/purple-work-lehnga_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978470/manroz/products/purple-work-lehnga/purple-work-lehnga_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978472/manroz/products/purple-work-lehnga/purple-work-lehnga_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978473/manroz/products/purple-work-lehnga/purple-work-lehnga_6.jpg'
     ],
     variants: [
       { size: 'XL', price: 11000, compareAtPrice: 15719, inventory: 0 },
@@ -1152,11 +1152,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/351.webp?v=1727106121',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/341.webp?v=1727106121',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/331.webp?v=1727106121',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/321.webp?v=1727106121',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/311.webp?v=1727106121'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978475/manroz/products/purple-cord-set-with-golden-handwork/purple-cord-set-with-golden-handwork_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978476/manroz/products/purple-cord-set-with-golden-handwork/purple-cord-set-with-golden-handwork_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978478/manroz/products/purple-cord-set-with-golden-handwork/purple-cord-set-with-golden-handwork_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978479/manroz/products/purple-cord-set-with-golden-handwork/purple-cord-set-with-golden-handwork_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978481/manroz/products/purple-cord-set-with-golden-handwork/purple-cord-set-with-golden-handwork_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1749, compareAtPrice: 3499, inventory: 0 },
@@ -1177,11 +1177,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/291.webp?v=1727106109',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/301.webp?v=1727106109',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/281.webp?v=1727106109',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/271.webp?v=1727106109',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/261.webp?v=1727106109'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978482/manroz/products/printed-black-cotton-suit-with-embroided-neck/printed-black-cotton-suit-with-embroided-neck_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978484/manroz/products/printed-black-cotton-suit-with-embroided-neck/printed-black-cotton-suit-with-embroided-neck_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978485/manroz/products/printed-black-cotton-suit-with-embroided-neck/printed-black-cotton-suit-with-embroided-neck_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978487/manroz/products/printed-black-cotton-suit-with-embroided-neck/printed-black-cotton-suit-with-embroided-neck_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978490/manroz/products/printed-black-cotton-suit-with-embroided-neck/printed-black-cotton-suit-with-embroided-neck_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 0 },
@@ -1200,12 +1200,12 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/99.webp?v=1727106096',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/97.webp?v=1727106096',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/98.webp?v=1727106096',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/100.webp?v=1727106096',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/101.webp?v=1727106096',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/102.webp?v=1727106096'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978492/manroz/products/pista-mirror-work-lehnga/pista-mirror-work-lehnga_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978494/manroz/products/pista-mirror-work-lehnga/pista-mirror-work-lehnga_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978495/manroz/products/pista-mirror-work-lehnga/pista-mirror-work-lehnga_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978497/manroz/products/pista-mirror-work-lehnga/pista-mirror-work-lehnga_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978499/manroz/products/pista-mirror-work-lehnga/pista-mirror-work-lehnga_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978500/manroz/products/pista-mirror-work-lehnga/pista-mirror-work-lehnga_6.jpg'
     ],
     variants: [
       { size: 'L', price: 15000, compareAtPrice: 21429, inventory: 0 },
@@ -1223,11 +1223,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/201.webp?v=1727106082',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/191-1.webp?v=1727106082',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/181-1.webp?v=1727106082',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/171-1.webp?v=1727106082',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/161-1.webp?v=1727106082'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978502/manroz/products/pink-with-white-flower-cotton-kurti/pink-with-white-flower-cotton-kurti_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978503/manroz/products/pink-with-white-flower-cotton-kurti/pink-with-white-flower-cotton-kurti_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978505/manroz/products/pink-with-white-flower-cotton-kurti/pink-with-white-flower-cotton-kurti_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978506/manroz/products/pink-with-white-flower-cotton-kurti/pink-with-white-flower-cotton-kurti_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978508/manroz/products/pink-with-white-flower-cotton-kurti/pink-with-white-flower-cotton-kurti_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1099, compareAtPrice: 2199, inventory: 0 },
@@ -1247,11 +1247,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/151-1.webp?v=1727106069',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/141-1.webp?v=1727106069',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/131-1.webp?v=1727106069',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/121-2.webp?v=1727106069',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/111-1.webp?v=1727106069'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978510/manroz/products/pink-fushia-pink-floral-muslin-suit/pink-fushia-pink-floral-muslin-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978511/manroz/products/pink-fushia-pink-floral-muslin-suit/pink-fushia-pink-floral-muslin-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978513/manroz/products/pink-fushia-pink-floral-muslin-suit/pink-fushia-pink-floral-muslin-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978514/manroz/products/pink-fushia-pink-floral-muslin-suit/pink-fushia-pink-floral-muslin-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978516/manroz/products/pink-fushia-pink-floral-muslin-suit/pink-fushia-pink-floral-muslin-suit_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1799, compareAtPrice: 3599, inventory: 4 },
@@ -1273,11 +1273,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/93.webp?v=1727106057',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/96.webp?v=1727106057',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/95.webp?v=1727106057',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/94.webp?v=1727106057',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/92.webp?v=1727106057'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978517/manroz/products/pink-frock-cotton-suit/pink-frock-cotton-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978519/manroz/products/pink-frock-cotton-suit/pink-frock-cotton-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978521/manroz/products/pink-frock-cotton-suit/pink-frock-cotton-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978522/manroz/products/pink-frock-cotton-suit/pink-frock-cotton-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978524/manroz/products/pink-frock-cotton-suit/pink-frock-cotton-suit_5.jpg'
     ],
     variants: [
       { size: 'M', price: 1999, compareAtPrice: 3999, inventory: 0 },
@@ -1296,10 +1296,10 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/177.webp?v=1727106045',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/176.webp?v=1727106045',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/175.webp?v=1727106045',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/178.webp?v=1727106045'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978526/manroz/products/pink-floral-georgette-suit/pink-floral-georgette-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978527/manroz/products/pink-floral-georgette-suit/pink-floral-georgette-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978529/manroz/products/pink-floral-georgette-suit/pink-floral-georgette-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978530/manroz/products/pink-floral-georgette-suit/pink-floral-georgette-suit_4.jpg'
     ],
     variants: [
       { size: 'M', price: 5850, compareAtPrice: 8359, inventory: 0 },
@@ -1318,11 +1318,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/87.webp?v=1727106033',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/88.webp?v=1727106033',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/89.webp?v=1727106033',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/90.webp?v=1727106033',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/91.webp?v=1727106033'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978532/manroz/products/pink-and-sky-blue-cotton-frock-suit/pink-and-sky-blue-cotton-frock-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978533/manroz/products/pink-and-sky-blue-cotton-frock-suit/pink-and-sky-blue-cotton-frock-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978535/manroz/products/pink-and-sky-blue-cotton-frock-suit/pink-and-sky-blue-cotton-frock-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978536/manroz/products/pink-and-sky-blue-cotton-frock-suit/pink-and-sky-blue-cotton-frock-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978538/manroz/products/pink-and-sky-blue-cotton-frock-suit/pink-and-sky-blue-cotton-frock-suit_5.jpg'
     ],
     variants: [
       { size: 'S', price: 4200, compareAtPrice: 6000, inventory: 4 },
@@ -1341,11 +1341,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/101-1.webp?v=1727106021',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/91-1.webp?v=1727106021',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/81-1.webp?v=1727106021',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/71-1.webp?v=1727106021',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/61-1.webp?v=1727106021'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978539/manroz/products/pink-white-cord-set-with-embroided-pocket-collar/pink-white-cord-set-with-embroided-pocket-collar_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978541/manroz/products/pink-white-cord-set-with-embroided-pocket-collar/pink-white-cord-set-with-embroided-pocket-collar_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978543/manroz/products/pink-white-cord-set-with-embroided-pocket-collar/pink-white-cord-set-with-embroided-pocket-collar_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978544/manroz/products/pink-white-cord-set-with-embroided-pocket-collar/pink-white-cord-set-with-embroided-pocket-collar_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978546/manroz/products/pink-white-cord-set-with-embroided-pocket-collar/pink-white-cord-set-with-embroided-pocket-collar_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1749, compareAtPrice: 3499, inventory: 4 },
@@ -1366,11 +1366,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/84.webp?v=1727106008',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/86.webp?v=1727106008',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/85.webp?v=1727106008',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/82.webp?v=1727106008',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/83.webp?v=1727106008'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978547/manroz/products/pakistani-muslin-peacock-printed-blue-suit/pakistani-muslin-peacock-printed-blue-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978549/manroz/products/pakistani-muslin-peacock-printed-blue-suit/pakistani-muslin-peacock-printed-blue-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978550/manroz/products/pakistani-muslin-peacock-printed-blue-suit/pakistani-muslin-peacock-printed-blue-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978552/manroz/products/pakistani-muslin-peacock-printed-blue-suit/pakistani-muslin-peacock-printed-blue-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978553/manroz/products/pakistani-muslin-peacock-printed-blue-suit/pakistani-muslin-peacock-printed-blue-suit_5.jpg'
     ],
     variants: [
       { size: 'M', price: 5200, compareAtPrice: 7429, inventory: 4 },
@@ -1389,11 +1389,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/79.webp?v=1727105995',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/81.webp?v=1727105995',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/80.webp?v=1727105995',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/78.webp?v=1727105995',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/77.webp?v=1727105995'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978556/manroz/products/pakistani-hot-pink-digital-print-muslin-suit/pakistani-hot-pink-digital-print-muslin-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978561/manroz/products/pakistani-hot-pink-digital-print-muslin-suit/pakistani-hot-pink-digital-print-muslin-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978563/manroz/products/pakistani-hot-pink-digital-print-muslin-suit/pakistani-hot-pink-digital-print-muslin-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978565/manroz/products/pakistani-hot-pink-digital-print-muslin-suit/pakistani-hot-pink-digital-print-muslin-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978566/manroz/products/pakistani-hot-pink-digital-print-muslin-suit/pakistani-hot-pink-digital-print-muslin-suit_5.jpg'
     ],
     variants: [
       { size: 'L', price: 5000, compareAtPrice: 7149, inventory: 4 },
@@ -1412,11 +1412,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/76.webp?v=1727105983',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/75.webp?v=1727105983',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/74.webp?v=1727105983',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/72.webp?v=1727105983',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/73.webp?v=1727105983'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978567/manroz/products/orange-maroon-chikungari-lehnga/orange-maroon-chikungari-lehnga_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978569/manroz/products/orange-maroon-chikungari-lehnga/orange-maroon-chikungari-lehnga_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978570/manroz/products/orange-maroon-chikungari-lehnga/orange-maroon-chikungari-lehnga_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978572/manroz/products/orange-maroon-chikungari-lehnga/orange-maroon-chikungari-lehnga_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978574/manroz/products/orange-maroon-chikungari-lehnga/orange-maroon-chikungari-lehnga_5.jpg'
     ],
     variants: [
       { size: 'XL', price: 15000, compareAtPrice: 21429, inventory: 2 },
@@ -1434,11 +1434,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/173.webp?v=1727105970',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/174.webp?v=1727105970',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/172.webp?v=1727105970',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/171.webp?v=1727105970',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/170.webp?v=1727105970'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978575/manroz/products/navy-blue-embroidery-coord-set/navy-blue-embroidery-coord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978577/manroz/products/navy-blue-embroidery-coord-set/navy-blue-embroidery-coord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978578/manroz/products/navy-blue-embroidery-coord-set/navy-blue-embroidery-coord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978580/manroz/products/navy-blue-embroidery-coord-set/navy-blue-embroidery-coord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978582/manroz/products/navy-blue-embroidery-coord-set/navy-blue-embroidery-coord-set_5.jpg'
     ],
     variants: [
       { size: 'M', price: 1999, compareAtPrice: 3999, inventory: 4 },
@@ -1459,11 +1459,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/121-1.webp?v=1727105957',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/125-1.webp?v=1727105957',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/124-1.webp?v=1727105957',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/123-1.webp?v=1727105957',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/122-1.webp?v=1727105957'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978583/manroz/products/navy-blue-embroider-suit/navy-blue-embroider-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978585/manroz/products/navy-blue-embroider-suit/navy-blue-embroider-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978586/manroz/products/navy-blue-embroider-suit/navy-blue-embroider-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978588/manroz/products/navy-blue-embroider-suit/navy-blue-embroider-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978589/manroz/products/navy-blue-embroider-suit/navy-blue-embroider-suit_5.jpg'
     ],
     variants: [
       { size: 'M', price: 5200, compareAtPrice: 7429, inventory: 4 },
@@ -1484,10 +1484,10 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/143-1.webp?v=1727105944',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/145-1.webp?v=1727105944',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/144-1.webp?v=1727105944',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/141-2.webp?v=1727105944'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978591/manroz/products/navy-blue-embroided-cort-set/navy-blue-embroided-cort-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978592/manroz/products/navy-blue-embroided-cort-set/navy-blue-embroided-cort-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978594/manroz/products/navy-blue-embroided-cort-set/navy-blue-embroided-cort-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978595/manroz/products/navy-blue-embroided-cort-set/navy-blue-embroided-cort-set_4.jpg'
     ],
     variants: [
       { size: 'S', price: 1399, compareAtPrice: 2799, inventory: 4 },
@@ -1508,11 +1508,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/138-1.webp?v=1727105933',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/140-1.webp?v=1727105933',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/139-1.webp?v=1727105933',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/137-1.webp?v=1727105933',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/136-1.webp?v=1727105933'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978597/manroz/products/navy-blue-digital-print-suit-with-pearl-neck/navy-blue-digital-print-suit-with-pearl-neck_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978598/manroz/products/navy-blue-digital-print-suit-with-pearl-neck/navy-blue-digital-print-suit-with-pearl-neck_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978600/manroz/products/navy-blue-digital-print-suit-with-pearl-neck/navy-blue-digital-print-suit-with-pearl-neck_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978601/manroz/products/navy-blue-digital-print-suit-with-pearl-neck/navy-blue-digital-print-suit-with-pearl-neck_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978603/manroz/products/navy-blue-digital-print-suit-with-pearl-neck/navy-blue-digital-print-suit-with-pearl-neck_5.jpg'
     ],
     variants: [
       { size: 'S', price: 4500, compareAtPrice: 6429, inventory: 4 },
@@ -1533,11 +1533,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/131-2.webp?v=1727105920',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/135-1.webp?v=1727105920',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/134-1.webp?v=1727105920',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/133-1.webp?v=1727105920',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/132-1.webp?v=1727105920'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978605/manroz/products/navy-blue-cotton-suit-with-grey-flowers/navy-blue-cotton-suit-with-grey-flowers_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978606/manroz/products/navy-blue-cotton-suit-with-grey-flowers/navy-blue-cotton-suit-with-grey-flowers_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978608/manroz/products/navy-blue-cotton-suit-with-grey-flowers/navy-blue-cotton-suit-with-grey-flowers_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978610/manroz/products/navy-blue-cotton-suit-with-grey-flowers/navy-blue-cotton-suit-with-grey-flowers_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978611/manroz/products/navy-blue-cotton-suit-with-grey-flowers/navy-blue-cotton-suit-with-grey-flowers_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 4 },
@@ -1559,11 +1559,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/67.webp?v=1727105907',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/68.webp?v=1727105907',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/69.webp?v=1727105907',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/70.webp?v=1727105907',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/71.webp?v=1727105907'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978613/manroz/products/navy-blue-cotton-flower-leaf-print-suit/navy-blue-cotton-flower-leaf-print-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978614/manroz/products/navy-blue-cotton-flower-leaf-print-suit/navy-blue-cotton-flower-leaf-print-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978616/manroz/products/navy-blue-cotton-flower-leaf-print-suit/navy-blue-cotton-flower-leaf-print-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978617/manroz/products/navy-blue-cotton-flower-leaf-print-suit/navy-blue-cotton-flower-leaf-print-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978619/manroz/products/navy-blue-cotton-flower-leaf-print-suit/navy-blue-cotton-flower-leaf-print-suit_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 4 },
@@ -1583,13 +1583,13 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/163.webp?v=1727105894',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/164.webp?v=1727105894',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/165.webp?v=1727105894',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/166.webp?v=1727105894',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/167.webp?v=1727105894',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/168.webp?v=1727105894',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/169.webp?v=1727105894'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978620/manroz/products/mustard-organza-suit/mustard-organza-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978622/manroz/products/mustard-organza-suit/mustard-organza-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978624/manroz/products/mustard-organza-suit/mustard-organza-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978625/manroz/products/mustard-organza-suit/mustard-organza-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978626/manroz/products/mustard-organza-suit/mustard-organza-suit_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978628/manroz/products/mustard-organza-suit/mustard-organza-suit_6.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978629/manroz/products/mustard-organza-suit/mustard-organza-suit_7.jpg'
     ],
     variants: [
       { size: 'M', price: 5200, compareAtPrice: 7429, inventory: 4 },
@@ -1610,12 +1610,12 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/64.webp?v=1727105879',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/66.webp?v=1727105879',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/65.webp?v=1727105879',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/61.webp?v=1727105879',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/62.webp?v=1727105879',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/63.webp?v=1727105879'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978631/manroz/products/mehndi-foral-a-line-frock-suit/mehndi-foral-a-line-frock-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978633/manroz/products/mehndi-foral-a-line-frock-suit/mehndi-foral-a-line-frock-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978635/manroz/products/mehndi-foral-a-line-frock-suit/mehndi-foral-a-line-frock-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978637/manroz/products/mehndi-foral-a-line-frock-suit/mehndi-foral-a-line-frock-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978638/manroz/products/mehndi-foral-a-line-frock-suit/mehndi-foral-a-line-frock-suit_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978640/manroz/products/mehndi-foral-a-line-frock-suit/mehndi-foral-a-line-frock-suit_6.jpg'
     ],
     variants: [
       { size: 'L', price: 6000, compareAtPrice: 8579, inventory: 0 },
@@ -1633,12 +1633,12 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/56.webp?v=1727105865',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/60.webp?v=1727105865',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/59.webp?v=1727105865',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/58.webp?v=1727105865',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/57.webp?v=1727105865',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/55.webp?v=1727105865'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978642/manroz/products/mauve-work-lehnga/mauve-work-lehnga_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978643/manroz/products/mauve-work-lehnga/mauve-work-lehnga_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978645/manroz/products/mauve-work-lehnga/mauve-work-lehnga_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978646/manroz/products/mauve-work-lehnga/mauve-work-lehnga_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978648/manroz/products/mauve-work-lehnga/mauve-work-lehnga_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978649/manroz/products/mauve-work-lehnga/mauve-work-lehnga_6.jpg'
     ],
     variants: [
       { size: 'XL', price: 14000, compareAtPrice: 20000, inventory: 2 },
@@ -1656,11 +1656,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/124-2.webp?v=1727105850',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/125-2.webp?v=1727105850',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/123-2.webp?v=1727105850',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/122-2.webp?v=1727105850',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/121-3.webp?v=1727105850'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978651/manroz/products/magenta-pink-floral-georgette-suit/magenta-pink-floral-georgette-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978652/manroz/products/magenta-pink-floral-georgette-suit/magenta-pink-floral-georgette-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978654/manroz/products/magenta-pink-floral-georgette-suit/magenta-pink-floral-georgette-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978655/manroz/products/magenta-pink-floral-georgette-suit/magenta-pink-floral-georgette-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978657/manroz/products/magenta-pink-floral-georgette-suit/magenta-pink-floral-georgette-suit_5.jpg'
     ],
     variants: [
       { size: 'S', price: 4500, compareAtPrice: 6429, inventory: 0 },
@@ -1681,13 +1681,13 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/158.webp?v=1727105838',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/162.webp?v=1727105838',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/161.webp?v=1727105838',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/157.webp?v=1727105838',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/159.webp?v=1727105838',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/160.webp?v=1727105838',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/156.webp?v=1727105838'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978659/manroz/products/magenta-frock-suit/magenta-frock-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978661/manroz/products/magenta-frock-suit/magenta-frock-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978662/manroz/products/magenta-frock-suit/magenta-frock-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978664/manroz/products/magenta-frock-suit/magenta-frock-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978665/manroz/products/magenta-frock-suit/magenta-frock-suit_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978667/manroz/products/magenta-frock-suit/magenta-frock-suit_6.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978669/manroz/products/magenta-frock-suit/magenta-frock-suit_7.jpg'
     ],
     variants: [
       { size: 'M', price: 6000, compareAtPrice: 8579, inventory: 0 },
@@ -1706,8 +1706,8 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/155.webp?v=1727105822',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/154.webp?v=1727105822'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978671/manroz/products/magenta-collar-cord-set/magenta-collar-cord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978673/manroz/products/magenta-collar-cord-set/magenta-collar-cord-set_2.jpg'
     ],
     variants: [
       { size: 'M', price: 1799, compareAtPrice: 3599, inventory: 2 },
@@ -1728,11 +1728,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/119-1.webp?v=1727105814',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/116-1.webp?v=1727105814',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/120-1.webp?v=1727105814',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/117-1.webp?v=1727105814',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/118-1.webp?v=1727105814'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978675/manroz/products/lavander-pearl-embroidery-with-afghani-cord-set/lavander-pearl-embroidery-with-afghani-cord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978676/manroz/products/lavander-pearl-embroidery-with-afghani-cord-set/lavander-pearl-embroidery-with-afghani-cord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978678/manroz/products/lavander-pearl-embroidery-with-afghani-cord-set/lavander-pearl-embroidery-with-afghani-cord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978679/manroz/products/lavander-pearl-embroidery-with-afghani-cord-set/lavander-pearl-embroidery-with-afghani-cord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978681/manroz/products/lavander-pearl-embroidery-with-afghani-cord-set/lavander-pearl-embroidery-with-afghani-cord-set_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1499, compareAtPrice: 2999, inventory: 2 },
@@ -1753,11 +1753,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/53.webp?v=1727105801',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/54.webp?v=1727105801',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/50.webp?v=1727105801',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/51.webp?v=1727105801',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/52.webp?v=1727105801'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978683/manroz/products/hot-pink-plazo-set-with-jacket/hot-pink-plazo-set-with-jacket_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978684/manroz/products/hot-pink-plazo-set-with-jacket/hot-pink-plazo-set-with-jacket_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978685/manroz/products/hot-pink-plazo-set-with-jacket/hot-pink-plazo-set-with-jacket_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978687/manroz/products/hot-pink-plazo-set-with-jacket/hot-pink-plazo-set-with-jacket_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978688/manroz/products/hot-pink-plazo-set-with-jacket/hot-pink-plazo-set-with-jacket_5.jpg'
     ],
     variants: [
       { size: 'XL', price: 12000, compareAtPrice: 17149, inventory: 2 },
@@ -1775,10 +1775,10 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/115-1.webp?v=1727105788',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/114-1.webp?v=1727105788',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/112-1.webp?v=1727105789',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/111-2.webp?v=1727105789'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978690/manroz/products/hot-pink-cotton-suit/hot-pink-cotton-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978691/manroz/products/hot-pink-cotton-suit/hot-pink-cotton-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978693/manroz/products/hot-pink-cotton-suit/hot-pink-cotton-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978694/manroz/products/hot-pink-cotton-suit/hot-pink-cotton-suit_4.jpg'
     ],
     variants: [
       { size: 'S', price: 1699, compareAtPrice: 3399, inventory: 2 },
@@ -1800,11 +1800,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/109-1.webp?v=1727105777',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/107-1.webp?v=1727105777',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/106-1.webp?v=1727105777',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/108-1.webp?v=1727105777',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/110-1.webp?v=1727105777'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978696/manroz/products/handwork-on-neckline-pocket-multicolored-cord-set/handwork-on-neckline-pocket-multicolored-cord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978697/manroz/products/handwork-on-neckline-pocket-multicolored-cord-set/handwork-on-neckline-pocket-multicolored-cord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978699/manroz/products/handwork-on-neckline-pocket-multicolored-cord-set/handwork-on-neckline-pocket-multicolored-cord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978700/manroz/products/handwork-on-neckline-pocket-multicolored-cord-set/handwork-on-neckline-pocket-multicolored-cord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978702/manroz/products/handwork-on-neckline-pocket-multicolored-cord-set/handwork-on-neckline-pocket-multicolored-cord-set_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1749, compareAtPrice: 3499, inventory: 2 },
@@ -1825,11 +1825,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/47.webp?v=1727105763',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/49.webp?v=1727105763',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/48.webp?v=1727105763',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/46.webp?v=1727105763',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/45.webp?v=1727105763'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978704/manroz/products/haldi-multi-color-lehnga/haldi-multi-color-lehnga_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978705/manroz/products/haldi-multi-color-lehnga/haldi-multi-color-lehnga_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978706/manroz/products/haldi-multi-color-lehnga/haldi-multi-color-lehnga_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978708/manroz/products/haldi-multi-color-lehnga/haldi-multi-color-lehnga_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978709/manroz/products/haldi-multi-color-lehnga/haldi-multi-color-lehnga_5.jpg'
     ],
     variants: [
       { size: '2XL', price: 13000, compareAtPrice: 18579, inventory: 2 },
@@ -1847,11 +1847,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/105-1.webp?v=1727105751',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/104-1.webp?v=1727105751',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/103-1.webp?v=1727105751',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/101-2.webp?v=1727105751',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/102-1.webp?v=1727105751'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978711/manroz/products/haldi-cord-set-with-golden-handwork/haldi-cord-set-with-golden-handwork_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978712/manroz/products/haldi-cord-set-with-golden-handwork/haldi-cord-set-with-golden-handwork_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978714/manroz/products/haldi-cord-set-with-golden-handwork/haldi-cord-set-with-golden-handwork_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978715/manroz/products/haldi-cord-set-with-golden-handwork/haldi-cord-set-with-golden-handwork_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978717/manroz/products/haldi-cord-set-with-golden-handwork/haldi-cord-set-with-golden-handwork_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1749, compareAtPrice: 3499, inventory: 2 },
@@ -1871,11 +1871,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/100-1.webp?v=1727105738',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/99-1.webp?v=1727105738',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/98-1.webp?v=1727105738',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/97-1.webp?v=1727105738',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/96-1.webp?v=1727105738'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978718/manroz/products/greyish-blue-cord-set-with-full-handwork/greyish-blue-cord-set-with-full-handwork_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978720/manroz/products/greyish-blue-cord-set-with-full-handwork/greyish-blue-cord-set-with-full-handwork_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978721/manroz/products/greyish-blue-cord-set-with-full-handwork/greyish-blue-cord-set-with-full-handwork_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978723/manroz/products/greyish-blue-cord-set-with-full-handwork/greyish-blue-cord-set-with-full-handwork_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978724/manroz/products/greyish-blue-cord-set-with-full-handwork/greyish-blue-cord-set-with-full-handwork_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1749, compareAtPrice: 3499, inventory: 2 },
@@ -1896,11 +1896,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/93-1.webp?v=1727105724',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/95-1.webp?v=1727105724',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/94-1.webp?v=1727105724',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/91-2.webp?v=1727105724',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/92-1.webp?v=1727105724'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978726/manroz/products/grey-cotton-suit-with-blue-flowers/grey-cotton-suit-with-blue-flowers_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978728/manroz/products/grey-cotton-suit-with-blue-flowers/grey-cotton-suit-with-blue-flowers_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978730/manroz/products/grey-cotton-suit-with-blue-flowers/grey-cotton-suit-with-blue-flowers_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978731/manroz/products/grey-cotton-suit-with-blue-flowers/grey-cotton-suit-with-blue-flowers_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978733/manroz/products/grey-cotton-suit-with-blue-flowers/grey-cotton-suit-with-blue-flowers_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 2 },
@@ -1922,12 +1922,12 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/39.webp?v=1727105711',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/40.webp?v=1727105711',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/41.webp?v=1727105711',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/42.webp?v=1727105711',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/43.webp?v=1727105711',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/44.webp?v=1727105711'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978734/manroz/products/greenish-blue-kadhai-suit/greenish-blue-kadhai-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978736/manroz/products/greenish-blue-kadhai-suit/greenish-blue-kadhai-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978737/manroz/products/greenish-blue-kadhai-suit/greenish-blue-kadhai-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978739/manroz/products/greenish-blue-kadhai-suit/greenish-blue-kadhai-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978740/manroz/products/greenish-blue-kadhai-suit/greenish-blue-kadhai-suit_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978742/manroz/products/greenish-blue-kadhai-suit/greenish-blue-kadhai-suit_6.jpg'
     ],
     variants: [
       { size: 'M', price: 5000, compareAtPrice: 7149, inventory: 2 },
@@ -1946,10 +1946,10 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/89-1.webp?v=1727105696',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/90-1.webp?v=1727105696',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/88-1.webp?v=1727105696',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/86-1.webp?v=1727105696'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978743/manroz/products/greenish-blue-digital-print-suit-with-pink-pearl-flowers/greenish-blue-digital-print-suit-with-pink-pearl-flowers_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978745/manroz/products/greenish-blue-digital-print-suit-with-pink-pearl-flowers/greenish-blue-digital-print-suit-with-pink-pearl-flowers_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978746/manroz/products/greenish-blue-digital-print-suit-with-pink-pearl-flowers/greenish-blue-digital-print-suit-with-pink-pearl-flowers_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978747/manroz/products/greenish-blue-digital-print-suit-with-pink-pearl-flowers/greenish-blue-digital-print-suit-with-pink-pearl-flowers_4.jpg'
     ],
     variants: [
       { size: 'S', price: 4200, compareAtPrice: 6000, inventory: 2 },
@@ -1970,11 +1970,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/85-1.webp?v=1727105684',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/84-1.webp?v=1727105685',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/83-1.webp?v=1727105685',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/82-1.webp?v=1727105685',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/81-2.webp?v=1727105685'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978749/manroz/products/greenish-blue-cord-set-with-embroided-neckline-a-pocket/greenish-blue-cord-set-with-embroided-neckline-a-pocket_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978751/manroz/products/greenish-blue-cord-set-with-embroided-neckline-a-pocket/greenish-blue-cord-set-with-embroided-neckline-a-pocket_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978752/manroz/products/greenish-blue-cord-set-with-embroided-neckline-a-pocket/greenish-blue-cord-set-with-embroided-neckline-a-pocket_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978754/manroz/products/greenish-blue-cord-set-with-embroided-neckline-a-pocket/greenish-blue-cord-set-with-embroided-neckline-a-pocket_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978756/manroz/products/greenish-blue-cord-set-with-embroided-neckline-a-pocket/greenish-blue-cord-set-with-embroided-neckline-a-pocket_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1749, compareAtPrice: 3499, inventory: 2 },
@@ -1995,10 +1995,10 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/19-1.webp?v=1727105672',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/20-1.webp?v=1727105672',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/18-1.webp?v=1727105672',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/17-1.webp?v=1727105672'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978757/manroz/products/green-with-white-flower-cotton-kurti/green-with-white-flower-cotton-kurti_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978759/manroz/products/green-with-white-flower-cotton-kurti/green-with-white-flower-cotton-kurti_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978761/manroz/products/green-with-white-flower-cotton-kurti/green-with-white-flower-cotton-kurti_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978762/manroz/products/green-with-white-flower-cotton-kurti/green-with-white-flower-cotton-kurti_4.jpg'
     ],
     variants: [
       { size: 'S', price: 999, compareAtPrice: 1999, inventory: 2 },
@@ -2018,11 +2018,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/36.webp?v=1727105661',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/38.webp?v=1727105661',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/37.webp?v=1727105661',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/35.webp?v=1727105661',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/34.webp?v=1727105661'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978764/manroz/products/gotapatti-suit-turquoise-blue-with-tissue-dupatta/gotapatti-suit-turquoise-blue-with-tissue-dupatta_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978765/manroz/products/gotapatti-suit-turquoise-blue-with-tissue-dupatta/gotapatti-suit-turquoise-blue-with-tissue-dupatta_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978767/manroz/products/gotapatti-suit-turquoise-blue-with-tissue-dupatta/gotapatti-suit-turquoise-blue-with-tissue-dupatta_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978769/manroz/products/gotapatti-suit-turquoise-blue-with-tissue-dupatta/gotapatti-suit-turquoise-blue-with-tissue-dupatta_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978770/manroz/products/gotapatti-suit-turquoise-blue-with-tissue-dupatta/gotapatti-suit-turquoise-blue-with-tissue-dupatta_5.jpg'
     ],
     variants: [
       { size: 'XL', price: 6000, compareAtPrice: 8569, inventory: 2 },
@@ -2041,11 +2041,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/29.webp?v=1727105648',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/30.webp?v=1727105648',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/31.webp?v=1727105648',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/32.webp?v=1727105648',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/33.webp?v=1727105648'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978772/manroz/products/georgette-handwork-bluish-grey-suit/georgette-handwork-bluish-grey-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978773/manroz/products/georgette-handwork-bluish-grey-suit/georgette-handwork-bluish-grey-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978775/manroz/products/georgette-handwork-bluish-grey-suit/georgette-handwork-bluish-grey-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978776/manroz/products/georgette-handwork-bluish-grey-suit/georgette-handwork-bluish-grey-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978778/manroz/products/georgette-handwork-bluish-grey-suit/georgette-handwork-bluish-grey-suit_5.jpg'
     ],
     variants: [
       { size: 'XL', price: 5000, compareAtPrice: 7149, inventory: 2 },
@@ -2063,13 +2063,13 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/148.webp?v=1727105635',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/147.webp?v=1727105635',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/149.webp?v=1727105635',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/150.webp?v=1727105635',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/151.webp?v=1727105635',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/152.webp?v=1727105635',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/153.webp?v=1727105635'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978779/manroz/products/embroidery-cream-collar-cord-set/embroidery-cream-collar-cord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978781/manroz/products/embroidery-cream-collar-cord-set/embroidery-cream-collar-cord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978783/manroz/products/embroidery-cream-collar-cord-set/embroidery-cream-collar-cord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978785/manroz/products/embroidery-cream-collar-cord-set/embroidery-cream-collar-cord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978786/manroz/products/embroidery-cream-collar-cord-set/embroidery-cream-collar-cord-set_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978788/manroz/products/embroidery-cream-collar-cord-set/embroidery-cream-collar-cord-set_6.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978790/manroz/products/embroidery-cream-collar-cord-set/embroidery-cream-collar-cord-set_7.jpg'
     ],
     variants: [
       { size: 'M', price: 1749, compareAtPrice: 3499, inventory: 2 },
@@ -2090,11 +2090,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/146.webp?v=1727105620',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/145.webp?v=1727105620',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/144.webp?v=1727105620',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/142.webp?v=1727105620',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/143.webp?v=1727105620'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978791/manroz/products/embroidery-blue-collar-cord-set/embroidery-blue-collar-cord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978793/manroz/products/embroidery-blue-collar-cord-set/embroidery-blue-collar-cord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978794/manroz/products/embroidery-blue-collar-cord-set/embroidery-blue-collar-cord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978796/manroz/products/embroidery-blue-collar-cord-set/embroidery-blue-collar-cord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978797/manroz/products/embroidery-blue-collar-cord-set/embroidery-blue-collar-cord-set_5.jpg'
     ],
     variants: [
       { size: 'M', price: 1749, compareAtPrice: 3499, inventory: 2 },
@@ -2115,11 +2115,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/15-1.webp?v=1727105606',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/14-1.webp?v=1727105606',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/13-1.webp?v=1727105606',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/12-1.webp?v=1727105606',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/11-2.webp?v=1727105606'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978798/manroz/products/dark-green-cotton-cord-set/dark-green-cotton-cord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978800/manroz/products/dark-green-cotton-cord-set/dark-green-cotton-cord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978801/manroz/products/dark-green-cotton-cord-set/dark-green-cotton-cord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978803/manroz/products/dark-green-cotton-cord-set/dark-green-cotton-cord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978804/manroz/products/dark-green-cotton-cord-set/dark-green-cotton-cord-set_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1199, compareAtPrice: 2399, inventory: 2 },
@@ -2140,11 +2140,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/79-1.webp?v=1727105592',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/80-1.webp?v=1727105592',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/78-1.webp?v=1727105592',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/76-1.webp?v=1727105592',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/77-1.webp?v=1727105593'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978806/manroz/products/cream-pink-muslin-suit/cream-pink-muslin-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978807/manroz/products/cream-pink-muslin-suit/cream-pink-muslin-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978809/manroz/products/cream-pink-muslin-suit/cream-pink-muslin-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978810/manroz/products/cream-pink-muslin-suit/cream-pink-muslin-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978811/manroz/products/cream-pink-muslin-suit/cream-pink-muslin-suit_5.jpg'
     ],
     variants: [
       { size: 'S', price: 3000, compareAtPrice: 4289, inventory: 2 },
@@ -2166,11 +2166,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/73-1.webp?v=1727105579',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/75-1.webp?v=1727105579',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/74-1.webp?v=1727105579',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/71-2.webp?v=1727105579',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/72-1.webp?v=1727105579'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978813/manroz/products/cream-peach-floral-suit/cream-peach-floral-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978815/manroz/products/cream-peach-floral-suit/cream-peach-floral-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978816/manroz/products/cream-peach-floral-suit/cream-peach-floral-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978818/manroz/products/cream-peach-floral-suit/cream-peach-floral-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978819/manroz/products/cream-peach-floral-suit/cream-peach-floral-suit_5.jpg'
     ],
     variants: [
       { size: 'S', price: 2500, compareAtPrice: 3569, inventory: 2 },
@@ -2191,11 +2191,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/25.webp?v=1727105565',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/28.webp?v=1727105565',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/27.webp?v=1727105565',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/26.webp?v=1727105565',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/24.webp?v=1727105565'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978821/manroz/products/chinnon-hot-pink-with-orange-leaves/chinnon-hot-pink-with-orange-leaves_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978823/manroz/products/chinnon-hot-pink-with-orange-leaves/chinnon-hot-pink-with-orange-leaves_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978824/manroz/products/chinnon-hot-pink-with-orange-leaves/chinnon-hot-pink-with-orange-leaves_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978826/manroz/products/chinnon-hot-pink-with-orange-leaves/chinnon-hot-pink-with-orange-leaves_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978827/manroz/products/chinnon-hot-pink-with-orange-leaves/chinnon-hot-pink-with-orange-leaves_5.jpg'
     ],
     variants: [
       { size: 'XL', price: 3800, compareAtPrice: 5429, inventory: 2 },
@@ -2214,11 +2214,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/139.webp?v=1727105552',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/141.webp?v=1727105552',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/140.webp?v=1727105552',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/138.webp?v=1727105552',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/137.webp?v=1727105552'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978828/manroz/products/cherry-red-frock-suit/cherry-red-frock-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978830/manroz/products/cherry-red-frock-suit/cherry-red-frock-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978831/manroz/products/cherry-red-frock-suit/cherry-red-frock-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978833/manroz/products/cherry-red-frock-suit/cherry-red-frock-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978834/manroz/products/cherry-red-frock-suit/cherry-red-frock-suit_5.jpg'
     ],
     variants: [
       { size: 'XL', price: 6000, compareAtPrice: 8569, inventory: 0 },
@@ -2236,11 +2236,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/1-2.webp?v=1727105538',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/2-2.webp?v=1727105538',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/3-2.webp?v=1727105538',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/4-2.webp?v=1727105539',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/5-2.webp?v=1727105539'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978836/manroz/products/cherry-red-cotton-suit-with-mirror-work-neckline/cherry-red-cotton-suit-with-mirror-work-neckline_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978837/manroz/products/cherry-red-cotton-suit-with-mirror-work-neckline/cherry-red-cotton-suit-with-mirror-work-neckline_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978839/manroz/products/cherry-red-cotton-suit-with-mirror-work-neckline/cherry-red-cotton-suit-with-mirror-work-neckline_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978841/manroz/products/cherry-red-cotton-suit-with-mirror-work-neckline/cherry-red-cotton-suit-with-mirror-work-neckline_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978842/manroz/products/cherry-red-cotton-suit-with-mirror-work-neckline/cherry-red-cotton-suit-with-mirror-work-neckline_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1499, compareAtPrice: 2999, inventory: 2 },
@@ -2261,10 +2261,10 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/63-1.webp?v=1727105526',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/64-1.webp?v=1727105526',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/62-1.webp?v=1727105526',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/61-2.webp?v=1727105526'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978844/manroz/products/bottle-green-digital-print-muslin-suit/bottle-green-digital-print-muslin-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978845/manroz/products/bottle-green-digital-print-muslin-suit/bottle-green-digital-print-muslin-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978847/manroz/products/bottle-green-digital-print-muslin-suit/bottle-green-digital-print-muslin-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978849/manroz/products/bottle-green-digital-print-muslin-suit/bottle-green-digital-print-muslin-suit_4.jpg'
     ],
     variants: [
       { size: 'S', price: 4500, compareAtPrice: 6429, inventory: 2 },
@@ -2285,11 +2285,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/60-1.webp?v=1727105514',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/59-1.webp?v=1727105514',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/57-1.webp?v=1727105514',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/58-1.webp?v=1727105514',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/56-1.webp?v=1727105514'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978850/manroz/products/blue-jaipuri-a-cut-shirt-with-afghani-dupatta/blue-jaipuri-a-cut-shirt-with-afghani-dupatta_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978852/manroz/products/blue-jaipuri-a-cut-shirt-with-afghani-dupatta/blue-jaipuri-a-cut-shirt-with-afghani-dupatta_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978853/manroz/products/blue-jaipuri-a-cut-shirt-with-afghani-dupatta/blue-jaipuri-a-cut-shirt-with-afghani-dupatta_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978855/manroz/products/blue-jaipuri-a-cut-shirt-with-afghani-dupatta/blue-jaipuri-a-cut-shirt-with-afghani-dupatta_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978857/manroz/products/blue-jaipuri-a-cut-shirt-with-afghani-dupatta/blue-jaipuri-a-cut-shirt-with-afghani-dupatta_5.jpg'
     ],
     variants: [
       { size: 'S', price: 2750, compareAtPrice: 3929, inventory: 2 },
@@ -2311,11 +2311,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/53-1.webp?v=1727105501',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/55-1.webp?v=1727105501',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/54-1.webp?v=1727105501',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/52-1.webp?v=1727105501',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/51-2.webp?v=1727105501'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978858/manroz/products/blue-golden-cord-set-with-afghani/blue-golden-cord-set-with-afghani_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978859/manroz/products/blue-golden-cord-set-with-afghani/blue-golden-cord-set-with-afghani_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978861/manroz/products/blue-golden-cord-set-with-afghani/blue-golden-cord-set-with-afghani_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978863/manroz/products/blue-golden-cord-set-with-afghani/blue-golden-cord-set-with-afghani_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978864/manroz/products/blue-golden-cord-set-with-afghani/blue-golden-cord-set-with-afghani_5.jpg'
     ],
     variants: [
       { size: 'M', price: 1749, compareAtPrice: 3499, inventory: 2 },
@@ -2335,11 +2335,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/19.webp?v=1727105487',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/20.webp?v=1727105487',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/21.webp?v=1727105487',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/22.webp?v=1727105487',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/23.webp?v=1727105487'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978866/manroz/products/black-work-suit-with-white-pants/black-work-suit-with-white-pants_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978867/manroz/products/black-work-suit-with-white-pants/black-work-suit-with-white-pants_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978868/manroz/products/black-work-suit-with-white-pants/black-work-suit-with-white-pants_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978870/manroz/products/black-work-suit-with-white-pants/black-work-suit-with-white-pants_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978872/manroz/products/black-work-suit-with-white-pants/black-work-suit-with-white-pants_5.jpg'
     ],
     variants: [
       { size: 'M', price: 5500, compareAtPrice: 7859, inventory: 2 },
@@ -2358,11 +2358,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/10-1.webp?v=1727105473',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/9-1.webp?v=1727105473',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/8-1.webp?v=1727105473',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/7-1.webp?v=1727105473',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/6-1.webp?v=1727105473'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978873/manroz/products/black-with-golden-cotton-kurti/black-with-golden-cotton-kurti_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978875/manroz/products/black-with-golden-cotton-kurti/black-with-golden-cotton-kurti_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978876/manroz/products/black-with-golden-cotton-kurti/black-with-golden-cotton-kurti_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978878/manroz/products/black-with-golden-cotton-kurti/black-with-golden-cotton-kurti_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978879/manroz/products/black-with-golden-cotton-kurti/black-with-golden-cotton-kurti_5.jpg'
     ],
     variants: [
       { size: 'S', price: 999, compareAtPrice: 1999, inventory: 2 },
@@ -2382,11 +2382,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/132.webp?v=1727105460',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/136.webp?v=1727105460',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/135.webp?v=1727105460',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/133.webp?v=1727105460',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/134.webp?v=1727105460'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978881/manroz/products/black-thread-cord-set/black-thread-cord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978882/manroz/products/black-thread-cord-set/black-thread-cord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978884/manroz/products/black-thread-cord-set/black-thread-cord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978885/manroz/products/black-thread-cord-set/black-thread-cord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978886/manroz/products/black-thread-cord-set/black-thread-cord-set_5.jpg'
     ],
     variants: [
       { size: 'M', price: 1299, compareAtPrice: 2599, inventory: 0 },
@@ -2407,12 +2407,12 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/14.webp?v=1727105447',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/18.webp?v=1727105447',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/17.webp?v=1727105447',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/16.webp?v=1727105447',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/15.webp?v=1727105447',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/13.webp?v=1727105447'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978888/manroz/products/black-lehnga-with-jacket/black-lehnga-with-jacket_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978889/manroz/products/black-lehnga-with-jacket/black-lehnga-with-jacket_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978891/manroz/products/black-lehnga-with-jacket/black-lehnga-with-jacket_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978893/manroz/products/black-lehnga-with-jacket/black-lehnga-with-jacket_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978894/manroz/products/black-lehnga-with-jacket/black-lehnga-with-jacket_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978896/manroz/products/black-lehnga-with-jacket/black-lehnga-with-jacket_6.jpg'
     ],
     variants: [
       { size: 'L', price: 16000, compareAtPrice: 22859, inventory: 0 },
@@ -2430,11 +2430,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/11.webp?v=1727105433',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/8.webp?v=1727105433',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/9.webp?v=1727105433',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/10.webp?v=1727105433',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/12.webp?v=1727105433'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978897/manroz/products/black-georgette-party-wear-dress/black-georgette-party-wear-dress_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978899/manroz/products/black-georgette-party-wear-dress/black-georgette-party-wear-dress_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978900/manroz/products/black-georgette-party-wear-dress/black-georgette-party-wear-dress_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978902/manroz/products/black-georgette-party-wear-dress/black-georgette-party-wear-dress_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978904/manroz/products/black-georgette-party-wear-dress/black-georgette-party-wear-dress_5.jpg'
     ],
     variants: [
       { size: 'L', price: 8500, compareAtPrice: 12149, inventory: 0 },
@@ -2452,12 +2452,12 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/131.webp?v=1727105419',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/130.webp?v=1727105419',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/129.webp?v=1727105419',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/128.webp?v=1727105419',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/127.webp?v=1727105419',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/126.webp?v=1727105419'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978905/manroz/products/black-cotton-kurta-with-afgani/black-cotton-kurta-with-afgani_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978907/manroz/products/black-cotton-kurta-with-afgani/black-cotton-kurta-with-afgani_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978908/manroz/products/black-cotton-kurta-with-afgani/black-cotton-kurta-with-afgani_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978910/manroz/products/black-cotton-kurta-with-afgani/black-cotton-kurta-with-afgani_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978911/manroz/products/black-cotton-kurta-with-afgani/black-cotton-kurta-with-afgani_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978913/manroz/products/black-cotton-kurta-with-afgani/black-cotton-kurta-with-afgani_6.jpg'
     ],
     variants: [
       { size: 'L', price: 1299, compareAtPrice: 2599, inventory: 2 },
@@ -2477,11 +2477,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/45-1.webp?v=1727105403',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/44-1.webp?v=1727105403',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/43-1.webp?v=1727105403',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/42-1.webp?v=1727105403',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/41-2.webp?v=1727105404'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978914/manroz/products/black-white-jaipuri-print-cotton-suit/black-white-jaipuri-print-cotton-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978916/manroz/products/black-white-jaipuri-print-cotton-suit/black-white-jaipuri-print-cotton-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978917/manroz/products/black-white-jaipuri-print-cotton-suit/black-white-jaipuri-print-cotton-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978919/manroz/products/black-white-jaipuri-print-cotton-suit/black-white-jaipuri-print-cotton-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978920/manroz/products/black-white-jaipuri-print-cotton-suit/black-white-jaipuri-print-cotton-suit_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 4 },
@@ -2502,11 +2502,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/5-1.webp?v=1727105389',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/4-1.webp?v=1727105389',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/3-1.webp?v=1727105389',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/2-1.webp?v=1727105389',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/1-1.webp?v=1727105389'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978922/manroz/products/black-white-cotton-cord-set/black-white-cotton-cord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978923/manroz/products/black-white-cotton-cord-set/black-white-cotton-cord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978925/manroz/products/black-white-cotton-cord-set/black-white-cotton-cord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978926/manroz/products/black-white-cotton-cord-set/black-white-cotton-cord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978928/manroz/products/black-white-cotton-cord-set/black-white-cotton-cord-set_5.jpg'
     ],
     variants: [
       { size: 'S', price: 1099, compareAtPrice: 2199, inventory: 4 },
@@ -2528,11 +2528,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/40-1.webp?v=1727105375',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/39-1.webp?v=1727105375',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/38-1.webp?v=1727105375',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/37-1.webp?v=1727105375',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/36-1.webp?v=1727105375'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978929/manroz/products/black-red-georgette-frock-suit/black-red-georgette-frock-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978931/manroz/products/black-red-georgette-frock-suit/black-red-georgette-frock-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978932/manroz/products/black-red-georgette-frock-suit/black-red-georgette-frock-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978934/manroz/products/black-red-georgette-frock-suit/black-red-georgette-frock-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978935/manroz/products/black-red-georgette-frock-suit/black-red-georgette-frock-suit_5.jpg'
     ],
     variants: [
       { size: 'S', price: 4000, compareAtPrice: 5719, inventory: 4 },
@@ -2553,11 +2553,11 @@
     status: 'active',
     featured: false,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/34-1.webp?v=1727105361',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/35-1.webp?v=1727105361',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/33-1.webp?v=1727105361',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/32-1.webp?v=1727105361',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/31-2.webp?v=1727105361'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978937/manroz/products/black-brown-cotton-cord-set/black-brown-cotton-cord-set_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978938/manroz/products/black-brown-cotton-cord-set/black-brown-cotton-cord-set_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978940/manroz/products/black-brown-cotton-cord-set/black-brown-cotton-cord-set_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978941/manroz/products/black-brown-cotton-cord-set/black-brown-cotton-cord-set_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978943/manroz/products/black-brown-cotton-cord-set/black-brown-cotton-cord-set_5.jpg'
     ],
     variants: [
       { size: 'S', price: 999, compareAtPrice: 1999, inventory: 4 },
@@ -2579,13 +2579,13 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/6.webp?v=1727105347',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/7.webp?v=1727105347',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/5.webp?v=1727105347',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/4.webp?v=1727105347',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/1.webp?v=1727105347',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/2.webp?v=1727105347',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/3.webp?v=1727105347'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978944/manroz/products/beige-gharara-suit-with-net-dupatta/beige-gharara-suit-with-net-dupatta_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978946/manroz/products/beige-gharara-suit-with-net-dupatta/beige-gharara-suit-with-net-dupatta_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978947/manroz/products/beige-gharara-suit-with-net-dupatta/beige-gharara-suit-with-net-dupatta_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978949/manroz/products/beige-gharara-suit-with-net-dupatta/beige-gharara-suit-with-net-dupatta_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978951/manroz/products/beige-gharara-suit-with-net-dupatta/beige-gharara-suit-with-net-dupatta_5.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978952/manroz/products/beige-gharara-suit-with-net-dupatta/beige-gharara-suit-with-net-dupatta_6.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978953/manroz/products/beige-gharara-suit-with-net-dupatta/beige-gharara-suit-with-net-dupatta_7.jpg'
     ],
     variants: [
       { size: 'XL', price: 6500, compareAtPrice: 9289, inventory: 0 },
@@ -2604,10 +2604,10 @@
     featured: false,
     images: [
       'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/30-1.webp?v=1727105330',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/29-1.webp?v=1727105330',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/28-1.webp?v=1727105330',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/27-1.webp?v=1727105330',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/26-1.webp?v=1727105330'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978955/manroz/products/barbie-pink-cotton-floral-suit/barbie-pink-cotton-floral-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978956/manroz/products/barbie-pink-cotton-floral-suit/barbie-pink-cotton-floral-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978958/manroz/products/barbie-pink-cotton-floral-suit/barbie-pink-cotton-floral-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978959/manroz/products/barbie-pink-cotton-floral-suit/barbie-pink-cotton-floral-suit_4.jpg'
     ],
     variants: [
       { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 2 },
@@ -2629,11 +2629,11 @@
     status: 'active',
     featured: true,
     images: [
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/25-1.webp?v=1727105316',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/24-1.webp?v=1727105316',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/23-1.webp?v=1727105316',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/22-1.webp?v=1727105316',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/21-2.webp?v=1727105316'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978961/manroz/products/baige-embroidery-digital-print-muslin-suit/baige-embroidery-digital-print-muslin-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978962/manroz/products/baige-embroidery-digital-print-muslin-suit/baige-embroidery-digital-print-muslin-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978964/manroz/products/baige-embroidery-digital-print-muslin-suit/baige-embroidery-digital-print-muslin-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978965/manroz/products/baige-embroidery-digital-print-muslin-suit/baige-embroidery-digital-print-muslin-suit_4.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978967/manroz/products/baige-embroidery-digital-print-muslin-suit/baige-embroidery-digital-print-muslin-suit_5.jpg'
     ],
     variants: [
       { size: 'S', price: 4500, compareAtPrice: 6429, inventory: 2 },
@@ -2655,10 +2655,10 @@
     featured: true,
     images: [
       'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/125.webp?v=1727105302',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/124.webp?v=1727105302',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/121.webp?v=1727105302',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/122.webp?v=1727105302',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/123.webp?v=1727105302'
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978968/manroz/products/anarkali-reddish-love-suit/anarkali-reddish-love-suit_1.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978970/manroz/products/anarkali-reddish-love-suit/anarkali-reddish-love-suit_2.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978972/manroz/products/anarkali-reddish-love-suit/anarkali-reddish-love-suit_3.jpg',
+      'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978974/manroz/products/anarkali-reddish-love-suit/anarkali-reddish-love-suit_4.jpg'
     ],
     variants: [
       { size: 'M', price: 6000, compareAtPrice: 8569, inventory: 0 },
