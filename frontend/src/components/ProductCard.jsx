@@ -1,7 +1,6 @@
 import { Link } from 'react-router-dom';
 import { useCart } from '../context/CartContext';
 import { useState } from 'react';
-import { WithHoverPopup } from './ProductHoverPopup';
 
 const ProductCardInner = ({ product }) => {
   const { addToCart } = useCart();
@@ -67,9 +66,7 @@ const ProductCardInner = ({ product }) => {
 };
 
 const ProductCard = ({ product }) => (
-  <WithHoverPopup product={product}>
-    <ProductCardInner product={product} />
-  </WithHoverPopup>
+  <ProductCardInner product={product} />
 );
 
 export default ProductCard;
