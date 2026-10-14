@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import festiveBanner from '../assets/FestiveSeasonSale.png';
 import './HomeSection.css';
 
@@ -16,12 +15,12 @@ const bottomItems = [
 const HomeSection = () => {
   return (
     <>
-      {/* Festive Sale Banner */}
+      {/* Single Banner */}
       <div className="hs-festive-banner">
         <img
           src={festiveBanner}
           alt="Festive Season Sale — Flat 50% Off"
-          className="hs-festive-img"
+          className="hs-festive-img hs-banner-active"
           loading="eager"
         />
       </div>

@@ -12,6 +12,7 @@ import Cart from './pages/Cart';
 import Login from './pages/Login';
 import Register from './pages/Register';
 import About from './pages/About';
+import Collections from './pages/Collections';
 import Contact from './pages/Contact';
 import './App.css';
 
@@ -34,6 +35,7 @@ const App = () => {
                 <Route path="/login" element={<Login />} />
                 <Route path="/register" element={<Register />} />
                 <Route path="/about" element={<About />} />
+                <Route path="/collections" element={<Collections />} />
                 <Route path="/contact" element={<Contact />} />
               </Routes>
             </div>

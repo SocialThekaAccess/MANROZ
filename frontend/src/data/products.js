@@ -11,11 +11,11 @@
     status: 'active',
     featured: true,
     images: [
+      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A9984.jpg?v=1746678488',
       'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/2_c7a4e85e-790e-4ecd-b9eb-cb7b1ac4310f.png?v=1746678488',
       'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/1_66084b4d-a145-43dd-83d2-2389c32eeb6b.png?v=1746678488',
       'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/3_3f15ca97-71bb-418c-ae9e-59d99160f9b2.png?v=1746678488',
       'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/4_50af7ea6-029d-456f-99a6-f0d233b67aba.png?v=1746678488',
-      'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A9984.jpg?v=1746678488',
       'https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A9996.jpg?v=1746678559'
     ],
     variants: [

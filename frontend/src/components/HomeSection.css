@@ -66,11 +66,6 @@
   display: block;
   object-fit: cover;
   object-position: center top;
-  transition: transform 0.6s ease;
-}
-
-.hs-festive-banner:hover .hs-festive-img {
-  transform: scale(1.01);
 }
 
 /* Bottom marquee (below banner) */
@@ -116,17 +111,7 @@
     object-position: left top;
   }
 
-  .hs-festive-cta {
-    bottom: 16px;
-    right: 50%;
-    transform: translateX(50%);
-    padding: 11px 22px;
-    font-size: 0.72rem;
-  }
-
-  .hs-festive-cta:hover {
-    transform: translateX(50%) translateY(-2px);
-  }
+  .hs-banner-dots { bottom: 10px; }
 
   .hs-marquee-item {
     padding: 0 20px;
@@ -135,9 +120,7 @@
 }
 
 @media (max-width: 480px) {
-  .hs-festive-img {
-    max-height: 220px;
-  }
+  .hs-festive-img { max-height: 220px; }
   .hs-marquee-bar { height: 36px; }
   .hs-bottom-marquee { height: 32px; }
 }
