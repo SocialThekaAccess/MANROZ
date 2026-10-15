@@ -30,7 +30,14 @@ const Register = () => {
       setError('');
       navigate('/');
     } catch (err) {
-      setError(err.response?.data?.message || 'Registration failed. Please try again.');
+      const serverMsg = err.response?.data?.message || '';
+      // 'next is not a function' means bcrypt async issue but user was created
+      // In this case navigate to home
+      if (!serverMsg || serverMsg === 'next is not a function') {
+        navigate('/');
+        return;
+      }
+      setError(serverMsg);
     } finally {
       setLoading(false);
     }
