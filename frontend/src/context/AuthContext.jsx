@@ -3,6 +3,11 @@ import axios from 'axios';
 
 const AuthContext = createContext();
 
+const API_URL = import.meta.env.VITE_API_URL || 'https://backend-gilt-three-74.vercel.app';
+axios.defaults.baseURL = API_URL;
+
+const AuthContext = createContext();
+
 export const AuthProvider = ({ children }) => {
   const [user, setUser] = useState(null);
   const [loading, setLoading] = useState(true);
