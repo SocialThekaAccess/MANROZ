@@ -7,7 +7,7 @@
     type: 'lehnga',
     category: 'Lehenga',
     basePrice: 20000,
-    compareAtPrice: 28599,
+    compareAtPrice: 40000,
     status: 'active',
     featured: true,
     images: [
@@ -19,7 +19,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978024/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_5.jpg'
     ],
     variants: [
-      { size: 'XL', price: 20000, compareAtPrice: 28599, inventory: 2 },
+      { size: 'XL', price: 20000, compareAtPrice: 40000, inventory: 2 },
     ],
   },
   {
@@ -30,7 +30,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 12000,
-    compareAtPrice: 17149,
+    compareAtPrice: 24000,
     status: 'active',
     featured: true,
     images: [
@@ -40,7 +40,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978028/manroz/products/purple-coord-set-with-jacket/purple-coord-set-with-jacket_3.jpg'
     ],
     variants: [
-      { size: 'XL', price: 12000, compareAtPrice: 17149, inventory: 2 },
+      { size: 'XL', price: 12000, compareAtPrice: 24000, inventory: 2 },
     ],
   },
   {
@@ -51,7 +51,7 @@
     type: 'Coord Set',
     category: 'Suit',
     basePrice: 10000,
-    compareAtPrice: 14299,
+    compareAtPrice: 20000,
     status: 'active',
     featured: true,
     images: [
@@ -62,7 +62,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978034/manroz/products/hot-pink-festive-suit/hot-pink-festive-suit_4.jpg'
     ],
     variants: [
-      { size: 'XL', price: 10000, compareAtPrice: 14299, inventory: 0 },
+      { size: 'XL', price: 10000, compareAtPrice: 20000, inventory: 0 },
     ],
   },
   {
@@ -73,7 +73,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 12000,
-    compareAtPrice: 17149,
+    compareAtPrice: 24000,
     status: 'active',
     featured: true,
     images: [
@@ -85,7 +85,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978042/manroz/products/three-piece-pink-festive-coord-set/three-piece-pink-festive-coord-set_5.jpg'
     ],
     variants: [
-      { size: 'XL', price: 12000, compareAtPrice: 17149, inventory: 2 },
+      { size: 'XL', price: 12000, compareAtPrice: 24000, inventory: 2 },
     ],
   },
   {
@@ -96,7 +96,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 4000,
-    compareAtPrice: 5719,
+    compareAtPrice: 8000,
     status: 'soldout',
     featured: false,
     images: [
@@ -106,8 +106,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978046/manroz/products/pink-kaftaan-with-potli/pink-kaftaan-with-potli_3.jpg'
     ],
     variants: [
-      { size: 'L', price: 4000, compareAtPrice: 5719, inventory: 2 },
-      { size: 'XL', price: 4000, compareAtPrice: 5719, inventory: 2 },
+      { size: 'L', price: 4000, compareAtPrice: 8000, inventory: 2 },
+      { size: 'XL', price: 4000, compareAtPrice: 8000, inventory: 2 },
     ],
   },
   {
@@ -118,7 +118,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 2099,
-    compareAtPrice: 4199,
+    compareAtPrice: 4198,
     status: 'active',
     featured: false,
     images: [
@@ -129,8 +129,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978055/manroz/products/black-western-golden-shoulder-coord-set/black-western-golden-shoulder-coord-set_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 2099, compareAtPrice: 4199, inventory: 2 },
-      { size: 'L', price: 2099, compareAtPrice: 4199, inventory: 2 },
+      { size: 'M', price: 2099, compareAtPrice: 4198, inventory: 2 },
+      { size: 'L', price: 2099, compareAtPrice: 4198, inventory: 2 },
     ],
   },
   {
@@ -141,7 +141,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 1849,
-    compareAtPrice: 3699,
+    compareAtPrice: 3698,
     status: 'active',
     featured: false,
     images: [
@@ -151,10 +151,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978062/manroz/products/green-coord-set-with-silver-stone/green-coord-set-with-silver-stone_4.jpg'
     ],
     variants: [
-      { size: 'M', price: 1849, compareAtPrice: 3699, inventory: 2 },
-      { size: 'L', price: 1849, compareAtPrice: 3699, inventory: 2 },
-      { size: 'XL', price: 1849, compareAtPrice: 3699, inventory: 2 },
-      { size: 'XXL', price: 1849, compareAtPrice: 3699, inventory: 2 },
+      { size: 'M', price: 1849, compareAtPrice: 3698, inventory: 2 },
+      { size: 'L', price: 1849, compareAtPrice: 3698, inventory: 2 },
+      { size: 'XL', price: 1849, compareAtPrice: 3698, inventory: 2 },
+      { size: 'XXL', price: 1849, compareAtPrice: 3698, inventory: 2 },
     ],
   },
   {
@@ -165,7 +165,7 @@
     type: 'Coord Set',
     category: 'Suit',
     basePrice: 1799,
-    compareAtPrice: 3599,
+    compareAtPrice: 3598,
     status: 'active',
     featured: false,
     images: [
@@ -176,9 +176,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978070/manroz/products/cream-coord-set-with-a-line-cut/cream-coord-set-with-a-line-cut_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 1799, compareAtPrice: 3599, inventory: 2 },
-      { size: 'L', price: 1799, compareAtPrice: 3599, inventory: 2 },
-      { size: 'XL', price: 1799, compareAtPrice: 3599, inventory: 2 },
+      { size: 'M', price: 1799, compareAtPrice: 3598, inventory: 2 },
+      { size: 'L', price: 1799, compareAtPrice: 3598, inventory: 2 },
+      { size: 'XL', price: 1799, compareAtPrice: 3598, inventory: 2 },
     ],
   },
   {
@@ -189,7 +189,7 @@
     type: 'Coord Set',
     category: 'Suit',
     basePrice: 1999,
-    compareAtPrice: 3999,
+    compareAtPrice: 3998,
     status: 'active',
     featured: false,
     images: [
@@ -199,10 +199,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978075/manroz/products/dark-blue-coord-set-with-silver-stones/dark-blue-coord-set-with-silver-stones_4.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: 'M', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: 'L', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: 'XL', price: 1999, compareAtPrice: 3999, inventory: 2 },
+      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 2 },
     ],
   },
   {
@@ -213,7 +213,7 @@
     type: 'Coord Set',
     category: 'Suit',
     basePrice: 1999,
-    compareAtPrice: 3999,
+    compareAtPrice: 3998,
     status: 'active',
     featured: false,
     images: [
@@ -225,10 +225,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978085/manroz/products/cream-coord-set/cream-coord-set_6.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: 'M', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: 'L', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: 'XL', price: 1999, compareAtPrice: 3999, inventory: 2 },
+      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 2 },
     ],
   },
   {
@@ -239,7 +239,7 @@
     type: 'Suit',
     category: 'Suit',
     basePrice: 10000,
-    compareAtPrice: 14299,
+    compareAtPrice: 20000,
     status: 'active',
     featured: true,
     images: [
@@ -251,7 +251,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978096/manroz/products/blue-heavy-embroided-suit-with-neck-work/blue-heavy-embroided-suit-with-neck-work_6.jpg'
     ],
     variants: [
-      { size: 'XL', price: 10000, compareAtPrice: 14299, inventory: 0 },
+      { size: 'XL', price: 10000, compareAtPrice: 20000, inventory: 0 },
     ],
   },
   {
@@ -262,7 +262,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 12000,
-    compareAtPrice: 17149,
+    compareAtPrice: 24000,
     status: 'active',
     featured: true,
     images: [
@@ -276,7 +276,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978110/manroz/products/pista-heavy-embroidery-coord-set/pista-heavy-embroidery-coord-set_7.jpg'
     ],
     variants: [
-      { size: 'XL', price: 12000, compareAtPrice: 17149, inventory: 2 },
+      { size: 'XL', price: 12000, compareAtPrice: 24000, inventory: 2 },
     ],
   },
   {
@@ -287,7 +287,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 1699,
-    compareAtPrice: 3399,
+    compareAtPrice: 3398,
     status: 'active',
     featured: false,
     images: [
@@ -300,10 +300,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978121/manroz/products/dark-blue-print-flowers-coord-set/dark-blue-print-flowers-coord-set_7.jpg'
     ],
     variants: [
-      { size: 'S', price: 1699, compareAtPrice: 3399, inventory: 2 },
-      { size: 'M', price: 1699, compareAtPrice: 3399, inventory: 2 },
-      { size: 'L', price: 1699, compareAtPrice: 3399, inventory: 2 },
-      { size: 'XL', price: 1699, compareAtPrice: 3399, inventory: 2 },
+      { size: 'S', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'M', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'L', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'XL', price: 1699, compareAtPrice: 3398, inventory: 2 },
     ],
   },
   {
@@ -314,7 +314,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 1849,
-    compareAtPrice: 3699,
+    compareAtPrice: 3698,
     status: 'active',
     featured: false,
     images: [
@@ -324,10 +324,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978128/manroz/products/green-print-coord-set/green-print-coord-set_4.jpg'
     ],
     variants: [
-      { size: 'Small', price: 1849, compareAtPrice: 3699, inventory: 1 },
-      { size: 'M', price: 1849, compareAtPrice: 3699, inventory: 2 },
-      { size: 'L', price: 1849, compareAtPrice: 3699, inventory: 2 },
-      { size: 'XL', price: 1849, compareAtPrice: 3699, inventory: 2 },
+      { size: 'Small', price: 1849, compareAtPrice: 3698, inventory: 1 },
+      { size: 'M', price: 1849, compareAtPrice: 3698, inventory: 2 },
+      { size: 'L', price: 1849, compareAtPrice: 3698, inventory: 2 },
+      { size: 'XL', price: 1849, compareAtPrice: 3698, inventory: 2 },
     ],
   },
   {
@@ -338,7 +338,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 2099,
-    compareAtPrice: 4199,
+    compareAtPrice: 4198,
     status: 'active',
     featured: false,
     images: [
@@ -350,10 +350,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978141/manroz/products/black-shimmery-designer-coord-set/black-shimmery-designer-coord-set_6.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 2099, compareAtPrice: 4199, inventory: 2 },
-      { size: 'Large', price: 2099, compareAtPrice: 4199, inventory: 1 },
-      { size: 'XL', price: 2099, compareAtPrice: 4199, inventory: 2 },
-      { size: 'XXL', price: 2099, compareAtPrice: 4199, inventory: 2 },
+      { size: 'Medium', price: 2099, compareAtPrice: 4198, inventory: 2 },
+      { size: 'Large', price: 2099, compareAtPrice: 4198, inventory: 1 },
+      { size: 'XL', price: 2099, compareAtPrice: 4198, inventory: 2 },
+      { size: 'XXL', price: 2099, compareAtPrice: 4198, inventory: 2 },
     ],
   },
   {
@@ -364,7 +364,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 1699,
-    compareAtPrice: 3399,
+    compareAtPrice: 3398,
     status: 'active',
     featured: false,
     images: [
@@ -374,10 +374,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978149/manroz/products/purple-coord-set-with-leaf-cut/purple-coord-set-with-leaf-cut_4.jpg'
     ],
     variants: [
-      { size: 'Small', price: 1699, compareAtPrice: 3399, inventory: 2 },
-      { size: 'Medium', price: 1699, compareAtPrice: 3399, inventory: 2 },
-      { size: 'Large', price: 1699, compareAtPrice: 3399, inventory: 2 },
-      { size: 'XL', price: 1699, compareAtPrice: 3399, inventory: 2 },
+      { size: 'Small', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'Medium', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'Large', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'XL', price: 1699, compareAtPrice: 3398, inventory: 2 },
     ],
   },
   {
@@ -388,7 +388,7 @@
     type: 'Suit',
     category: 'Suit',
     basePrice: 8000,
-    compareAtPrice: 11429,
+    compareAtPrice: 16000,
     status: 'active',
     featured: true,
     images: [
@@ -402,7 +402,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978167/manroz/products/red-shimmery-suit/red-shimmery-suit_8.jpg'
     ],
     variants: [
-      { size: 'XL', price: 8000, compareAtPrice: 11429, inventory: 0 },
+      { size: 'XL', price: 8000, compareAtPrice: 16000, inventory: 0 },
     ],
   },
   {
@@ -413,7 +413,7 @@
     type: 'Suit',
     category: 'Suit',
     basePrice: 4000,
-    compareAtPrice: 5719,
+    compareAtPrice: 8000,
     status: 'active',
     featured: true,
     images: [
@@ -425,10 +425,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978179/manroz/products/purple-print-suit/purple-print-suit_6.jpg'
     ],
     variants: [
-      { size: 'Small', price: 4000, compareAtPrice: 5719, inventory: 2 },
-      { size: 'Medium', price: 4000, compareAtPrice: 5719, inventory: 2 },
-      { size: 'Large', price: 4000, compareAtPrice: 5719, inventory: 2 },
-      { size: 'XL', price: 4000, compareAtPrice: 5719, inventory: 2 },
+      { size: 'Small', price: 4000, compareAtPrice: 8000, inventory: 2 },
+      { size: 'Medium', price: 4000, compareAtPrice: 8000, inventory: 2 },
+      { size: 'Large', price: 4000, compareAtPrice: 8000, inventory: 2 },
+      { size: 'XL', price: 4000, compareAtPrice: 8000, inventory: 2 },
     ],
   },
   {
@@ -439,7 +439,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 1999,
-    compareAtPrice: 3999,
+    compareAtPrice: 3998,
     status: 'active',
     featured: false,
     images: [
@@ -454,10 +454,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978198/manroz/products/flower-coord-set-with-golden-neck-work/flower-coord-set-with-golden-neck-work_9.jpg'
     ],
     variants: [
-      { size: 'Small', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: 'Medium', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: 'Large', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: 'XL', price: 1999, compareAtPrice: 3999, inventory: 2 },
+      { size: 'Small', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'Medium', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'Large', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 2 },
     ],
   },
   {
@@ -468,7 +468,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 1599,
-    compareAtPrice: 3199,
+    compareAtPrice: 3198,
     status: 'active',
     featured: false,
     images: [
@@ -479,10 +479,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978208/manroz/products/black-coord-set-with-pink-neck-work/black-coord-set-with-pink-neck-work_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 1599, compareAtPrice: 3199, inventory: 4 },
-      { size: 'L', price: 1599, compareAtPrice: 3199, inventory: 4 },
-      { size: 'XL', price: 1599, compareAtPrice: 3199, inventory: 4 },
-      { size: 'XXL', price: 1599, compareAtPrice: 3199, inventory: 4 },
+      { size: 'M', price: 1599, compareAtPrice: 3198, inventory: 4 },
+      { size: 'L', price: 1599, compareAtPrice: 3198, inventory: 4 },
+      { size: 'XL', price: 1599, compareAtPrice: 3198, inventory: 4 },
+      { size: 'XXL', price: 1599, compareAtPrice: 3198, inventory: 4 },
     ],
   },
   {
@@ -493,7 +493,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 1649,
-    compareAtPrice: 3299,
+    compareAtPrice: 3298,
     status: 'active',
     featured: false,
     images: [
@@ -504,10 +504,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978219/manroz/products/black-coord-set-with-white-neck-button-flower/black-coord-set-with-white-neck-button-flower_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 1649, compareAtPrice: 3299, inventory: 4 },
-      { size: 'L', price: 1649, compareAtPrice: 3299, inventory: 4 },
-      { size: 'XL', price: 1649, compareAtPrice: 3299, inventory: 4 },
-      { size: 'XXL', price: 1649, compareAtPrice: 3299, inventory: 4 },
+      { size: 'M', price: 1649, compareAtPrice: 3298, inventory: 4 },
+      { size: 'L', price: 1649, compareAtPrice: 3298, inventory: 4 },
+      { size: 'XL', price: 1649, compareAtPrice: 3298, inventory: 4 },
+      { size: 'XXL', price: 1649, compareAtPrice: 3298, inventory: 4 },
     ],
   },
   {
@@ -518,7 +518,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 1699,
-    compareAtPrice: 3399,
+    compareAtPrice: 3398,
     status: 'active',
     featured: false,
     images: [
@@ -530,9 +530,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978232/manroz/products/dark-green-coord-set-with-neck-work/dark-green-coord-set-with-neck-work_6.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 1699, compareAtPrice: 3399, inventory: 2 },
-      { size: 'Large', price: 1699, compareAtPrice: 3399, inventory: 2 },
-      { size: 'XL', price: 1699, compareAtPrice: 3399, inventory: 2 },
+      { size: 'Medium', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'Large', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'XL', price: 1699, compareAtPrice: 3398, inventory: 2 },
     ],
   },
   {
@@ -543,7 +543,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 1499,
-    compareAtPrice: 2999,
+    compareAtPrice: 2998,
     status: 'active',
     featured: false,
     images: [
@@ -555,10 +555,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978247/manroz/products/beige-coord-set/beige-coord-set_6.jpg'
     ],
     variants: [
-      { size: 'Small', price: 1499, compareAtPrice: 2999, inventory: 4 },
-      { size: 'Medium', price: 1499, compareAtPrice: 2999, inventory: 4 },
-      { size: 'Large', price: 1499, compareAtPrice: 2999, inventory: 4 },
-      { size: 'XL', price: 1499, compareAtPrice: 2999, inventory: 4 },
+      { size: 'Small', price: 1499, compareAtPrice: 2998, inventory: 4 },
+      { size: 'Medium', price: 1499, compareAtPrice: 2998, inventory: 4 },
+      { size: 'Large', price: 1499, compareAtPrice: 2998, inventory: 4 },
+      { size: 'XL', price: 1499, compareAtPrice: 2998, inventory: 4 },
     ],
   },
   {
@@ -569,7 +569,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 2099,
-    compareAtPrice: 4199,
+    compareAtPrice: 4198,
     status: 'active',
     featured: false,
     images: [
@@ -579,10 +579,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978253/manroz/products/red-coord-set-with-leaf-cut/red-coord-set-with-leaf-cut_4.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 2099, compareAtPrice: 4199, inventory: 2 },
-      { size: 'Large', price: 2099, compareAtPrice: 4199, inventory: 2 },
-      { size: 'XL', price: 2099, compareAtPrice: 4199, inventory: 2 },
-      { size: 'XXL', price: 2099, compareAtPrice: 4199, inventory: 2 },
+      { size: 'Medium', price: 2099, compareAtPrice: 4198, inventory: 2 },
+      { size: 'Large', price: 2099, compareAtPrice: 4198, inventory: 2 },
+      { size: 'XL', price: 2099, compareAtPrice: 4198, inventory: 2 },
+      { size: 'XXL', price: 2099, compareAtPrice: 4198, inventory: 2 },
     ],
   },
   {
@@ -593,7 +593,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 1599,
-    compareAtPrice: 3199,
+    compareAtPrice: 3198,
     status: 'active',
     featured: false,
     images: [
@@ -606,10 +606,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978267/manroz/products/white-coord-set-with-black-lining/white-coord-set-with-black-lining_7.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 1599, compareAtPrice: 3199, inventory: 2 },
-      { size: 'Large', price: 1599, compareAtPrice: 3199, inventory: 2 },
-      { size: 'XL', price: 1599, compareAtPrice: 3199, inventory: 2 },
-      { size: 'XXL', price: 1599, compareAtPrice: 3199, inventory: 2 },
+      { size: 'Medium', price: 1599, compareAtPrice: 3198, inventory: 2 },
+      { size: 'Large', price: 1599, compareAtPrice: 3198, inventory: 2 },
+      { size: 'XL', price: 1599, compareAtPrice: 3198, inventory: 2 },
+      { size: 'XXL', price: 1599, compareAtPrice: 3198, inventory: 2 },
     ],
   },
   {
@@ -620,7 +620,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 1549,
-    compareAtPrice: 3099,
+    compareAtPrice: 3098,
     status: 'active',
     featured: false,
     images: [
@@ -632,10 +632,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978278/manroz/products/maroon-golden-coord-set/maroon-golden-coord-set_6.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 1549, compareAtPrice: 3099, inventory: 2 },
-      { size: 'Large', price: 1549, compareAtPrice: 3099, inventory: 2 },
-      { size: 'XL', price: 1549, compareAtPrice: 3099, inventory: 2 },
-      { size: 'XXL', price: 1549, compareAtPrice: 3099, inventory: 2 },
+      { size: 'Medium', price: 1549, compareAtPrice: 3098, inventory: 2 },
+      { size: 'Large', price: 1549, compareAtPrice: 3098, inventory: 2 },
+      { size: 'XL', price: 1549, compareAtPrice: 3098, inventory: 2 },
+      { size: 'XXL', price: 1549, compareAtPrice: 3098, inventory: 2 },
     ],
   },
   {
@@ -646,7 +646,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 1699,
-    compareAtPrice: 3399,
+    compareAtPrice: 3398,
     status: 'active',
     featured: false,
     images: [
@@ -658,10 +658,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978289/manroz/products/light-blue-coord-set/light-blue-coord-set_6.jpg'
     ],
     variants: [
-      { size: 'Small', price: 1699, compareAtPrice: 3399, inventory: 2 },
-      { size: 'Medium', price: 1699, compareAtPrice: 3399, inventory: 2 },
-      { size: 'Large', price: 1699, compareAtPrice: 3399, inventory: 2 },
-      { size: 'XL', price: 1699, compareAtPrice: 3399, inventory: 2 },
+      { size: 'Small', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'Medium', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'Large', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'XL', price: 1699, compareAtPrice: 3398, inventory: 2 },
     ],
   },
   {
@@ -672,7 +672,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 1499,
-    compareAtPrice: 2999,
+    compareAtPrice: 2998,
     status: 'active',
     featured: false,
     images: [
@@ -687,10 +687,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978306/manroz/products/white-coord-set-with-black-thread-flowers/white-coord-set-with-black-thread-flowers_9.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 1499, compareAtPrice: 2999, inventory: 2 },
-      { size: 'Large', price: 1499, compareAtPrice: 2999, inventory: 2 },
-      { size: 'XL', price: 1499, compareAtPrice: 2999, inventory: 2 },
-      { size: 'XXL', price: 1499, compareAtPrice: 2999, inventory: 2 },
+      { size: 'Medium', price: 1499, compareAtPrice: 2998, inventory: 2 },
+      { size: 'Large', price: 1499, compareAtPrice: 2998, inventory: 2 },
+      { size: 'XL', price: 1499, compareAtPrice: 2998, inventory: 2 },
+      { size: 'XXL', price: 1499, compareAtPrice: 2998, inventory: 2 },
     ],
   },
   {
@@ -701,7 +701,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 1999,
-    compareAtPrice: 3999,
+    compareAtPrice: 3998,
     status: 'active',
     featured: false,
     images: [
@@ -714,10 +714,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978319/manroz/products/white-black-coord-set/white-black-coord-set_7.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: 'Large', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: 'XL', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: 'XXL', price: 1999, compareAtPrice: 3999, inventory: 2 },
+      { size: 'Medium', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'Large', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'XXL', price: 1999, compareAtPrice: 3998, inventory: 2 },
     ],
   },
   {
@@ -728,7 +728,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 1849,
-    compareAtPrice: 3699,
+    compareAtPrice: 3698,
     status: 'active',
     featured: false,
     images: [
@@ -742,10 +742,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978333/manroz/products/green-coord-set/green-coord-set_8.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 1849, compareAtPrice: 3699, inventory: 2 },
-      { size: 'Large', price: 1849, compareAtPrice: 3699, inventory: 2 },
-      { size: 'XL', price: 1849, compareAtPrice: 3699, inventory: 2 },
-      { size: 'XXL', price: 1849, compareAtPrice: 3699, inventory: 2 },
+      { size: 'Medium', price: 1849, compareAtPrice: 3698, inventory: 2 },
+      { size: 'Large', price: 1849, compareAtPrice: 3698, inventory: 2 },
+      { size: 'XL', price: 1849, compareAtPrice: 3698, inventory: 2 },
+      { size: 'XXL', price: 1849, compareAtPrice: 3698, inventory: 2 },
     ],
   },
   {
@@ -756,7 +756,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 2049,
-    compareAtPrice: 4099,
+    compareAtPrice: 4098,
     status: 'active',
     featured: false,
     images: [
@@ -768,10 +768,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978343/manroz/products/black-white-neck-coord-set/black-white-neck-coord-set_6.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 2049, compareAtPrice: 4099, inventory: 2 },
-      { size: 'Large', price: 2049, compareAtPrice: 4099, inventory: 2 },
-      { size: 'XL', price: 2049, compareAtPrice: 4099, inventory: 2 },
-      { size: 'XXL', price: 20490, compareAtPrice: 4099, inventory: 2 },
+      { size: 'Medium', price: 2049, compareAtPrice: 4098, inventory: 2 },
+      { size: 'Large', price: 2049, compareAtPrice: 4098, inventory: 2 },
+      { size: 'XL', price: 2049, compareAtPrice: 4098, inventory: 2 },
+      { size: 'XXL', price: 20490, compareAtPrice: 40980, inventory: 2 },
     ],
   },
   {
@@ -782,7 +782,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 2099,
-    compareAtPrice: 4199,
+    compareAtPrice: 4198,
     status: 'active',
     featured: false,
     images: [
@@ -793,10 +793,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978352/manroz/products/red-print-coord-set/red-print-coord-set_5.jpg'
     ],
     variants: [
-      { size: 'Small', price: 2099, compareAtPrice: 4199, inventory: 2 },
-      { size: 'Medium', price: 2099, compareAtPrice: 4199, inventory: 2 },
-      { size: 'Large', price: 2099, compareAtPrice: 4199, inventory: 2 },
-      { size: 'XL', price: 2099, compareAtPrice: 4199, inventory: 2 },
+      { size: 'Small', price: 2099, compareAtPrice: 4198, inventory: 2 },
+      { size: 'Medium', price: 2099, compareAtPrice: 4198, inventory: 2 },
+      { size: 'Large', price: 2099, compareAtPrice: 4198, inventory: 2 },
+      { size: 'XL', price: 2099, compareAtPrice: 4198, inventory: 2 },
     ],
   },
   {
@@ -807,7 +807,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 3000,
-    compareAtPrice: 4289,
+    compareAtPrice: 6000,
     status: 'active',
     featured: false,
     images: [
@@ -820,10 +820,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978363/manroz/products/purple-emborided-coord-set/purple-emborided-coord-set_7.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 3000, compareAtPrice: 4289, inventory: 2 },
-      { size: 'Large', price: 3000, compareAtPrice: 4289, inventory: 2 },
-      { size: 'XL', price: 3000, compareAtPrice: 4289, inventory: 2 },
-      { size: 'XXL', price: 3000, compareAtPrice: 4289, inventory: 2 },
+      { size: 'Medium', price: 3000, compareAtPrice: 6000, inventory: 2 },
+      { size: 'Large', price: 3000, compareAtPrice: 6000, inventory: 2 },
+      { size: 'XL', price: 3000, compareAtPrice: 6000, inventory: 2 },
+      { size: 'XXL', price: 3000, compareAtPrice: 6000, inventory: 2 },
     ],
   },
   {
@@ -834,7 +834,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 1749,
-    compareAtPrice: 3499,
+    compareAtPrice: 3498,
     status: 'active',
     featured: false,
     images: [
@@ -845,9 +845,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978372/manroz/products/wine-embroided-cord-set/wine-embroided-cord-set_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'L', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'XL', price: 1749, compareAtPrice: 3499, inventory: 2 },
+      { size: 'S', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
     ],
   },
   {
@@ -858,7 +858,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 1199,
-    compareAtPrice: 2399,
+    compareAtPrice: 2398,
     status: 'active',
     featured: false,
     images: [
@@ -869,10 +869,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978380/manroz/products/white-with-blue-flowers-a-line-kurti/white-with-blue-flowers-a-line-kurti_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1199, compareAtPrice: 2399, inventory: 0 },
-      { size: 'M', price: 1199, compareAtPrice: 2399, inventory: 0 },
-      { size: 'L', price: 1199, compareAtPrice: 2399, inventory: 0 },
-      { size: 'XL', price: 1199, compareAtPrice: 2399, inventory: 0 },
+      { size: 'S', price: 1199, compareAtPrice: 2398, inventory: 0 },
+      { size: 'M', price: 1199, compareAtPrice: 2398, inventory: 0 },
+      { size: 'L', price: 1199, compareAtPrice: 2398, inventory: 0 },
+      { size: 'XL', price: 1199, compareAtPrice: 2398, inventory: 0 },
     ],
   },
   {
@@ -883,7 +883,7 @@
     type: '',
     category: 'Lehenga',
     basePrice: 20000,
-    compareAtPrice: 28579,
+    compareAtPrice: 40000,
     status: 'active',
     featured: true,
     images: [
@@ -895,7 +895,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978389/manroz/products/white-lehnga-with-designer-choli/white-lehnga-with-designer-choli_6.jpg'
     ],
     variants: [
-      { size: 'XL', price: 20000, compareAtPrice: 28579, inventory: 0 },
+      { size: 'XL', price: 20000, compareAtPrice: 40000, inventory: 0 },
     ],
   },
   {
@@ -906,7 +906,7 @@
     type: '',
     category: 'Suit',
     basePrice: 4200,
-    compareAtPrice: 6000,
+    compareAtPrice: 8400,
     status: 'active',
     featured: true,
     images: [
@@ -920,7 +920,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978401/manroz/products/white-gotta-patti-suit/white-gotta-patti-suit_8.jpg'
     ],
     variants: [
-      { size: '2XL', price: 4200, compareAtPrice: 6000, inventory: 0 },
+      { size: '2XL', price: 4200, compareAtPrice: 8400, inventory: 0 },
     ],
   },
   {
@@ -931,7 +931,7 @@
     type: '',
     category: 'Suit',
     basePrice: 4500,
-    compareAtPrice: 6429,
+    compareAtPrice: 9000,
     status: 'active',
     featured: true,
     images: [
@@ -942,10 +942,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978411/manroz/products/turqoise-blue-muslin-suit-with-flower-neckline/turqoise-blue-muslin-suit-with-flower-neckline_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 4500, compareAtPrice: 6429, inventory: 0 },
-      { size: 'M', price: 4500, compareAtPrice: 6429, inventory: 0 },
-      { size: 'L', price: 4500, compareAtPrice: 6429, inventory: 0 },
-      { size: 'XL', price: 4500, compareAtPrice: 6429, inventory: 0 },
+      { size: 'S', price: 4500, compareAtPrice: 9000, inventory: 0 },
+      { size: 'M', price: 4500, compareAtPrice: 9000, inventory: 0 },
+      { size: 'L', price: 4500, compareAtPrice: 9000, inventory: 0 },
+      { size: 'XL', price: 4500, compareAtPrice: 9000, inventory: 0 },
     ],
   },
   {
@@ -956,7 +956,7 @@
     type: '',
     category: 'Suit',
     basePrice: 1999,
-    compareAtPrice: 3999,
+    compareAtPrice: 3998,
     status: 'active',
     featured: false,
     images: [
@@ -967,11 +967,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978419/manroz/products/skyblue-block-print-cotton-suit/skyblue-block-print-cotton-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 0 },
-      { size: 'M', price: 1999, compareAtPrice: 3999, inventory: 0 },
-      { size: 'L', price: 1999, compareAtPrice: 3999, inventory: 0 },
-      { size: 'XL', price: 1999, compareAtPrice: 3999, inventory: 0 },
-      { size: '2XL', price: 1999, compareAtPrice: 3999, inventory: 0 },
+      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: '2XL', price: 1999, compareAtPrice: 3998, inventory: 0 },
     ],
   },
   {
@@ -982,7 +982,7 @@
     type: '',
     category: 'Suit',
     basePrice: 4400,
-    compareAtPrice: 6289,
+    compareAtPrice: 8800,
     status: 'active',
     featured: true,
     images: [
@@ -993,8 +993,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978426/manroz/products/sky-blue-flower-suit/sky-blue-flower-suit_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 4400, compareAtPrice: 6289, inventory: 0 },
-      { size: 'XL', price: 4400, compareAtPrice: 6289, inventory: 0 },
+      { size: 'M', price: 4400, compareAtPrice: 8800, inventory: 0 },
+      { size: 'XL', price: 4400, compareAtPrice: 8800, inventory: 0 },
     ],
   },
   {
@@ -1005,7 +1005,7 @@
     type: '',
     category: 'Suit',
     basePrice: 3000,
-    compareAtPrice: 4289,
+    compareAtPrice: 6000,
     status: 'active',
     featured: false,
     images: [
@@ -1015,10 +1015,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978432/manroz/products/sea-breeze-v-neckline-muslin-suit/sea-breeze-v-neckline-muslin-suit_4.jpg'
     ],
     variants: [
-      { size: 'S', price: 3000, compareAtPrice: 4289, inventory: 0 },
-      { size: 'M', price: 3000, compareAtPrice: 4289, inventory: 0 },
-      { size: 'L', price: 3000, compareAtPrice: 4289, inventory: 0 },
-      { size: 'XL', price: 3000, compareAtPrice: 4289, inventory: 0 },
+      { size: 'S', price: 3000, compareAtPrice: 6000, inventory: 0 },
+      { size: 'M', price: 3000, compareAtPrice: 6000, inventory: 0 },
+      { size: 'L', price: 3000, compareAtPrice: 6000, inventory: 0 },
+      { size: 'XL', price: 3000, compareAtPrice: 6000, inventory: 0 },
     ],
   },
   {
@@ -1029,7 +1029,7 @@
     type: '',
     category: 'Suit',
     basePrice: 1999,
-    compareAtPrice: 3999,
+    compareAtPrice: 3998,
     status: 'active',
     featured: false,
     images: [
@@ -1037,11 +1037,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978435/manroz/products/royal-blue-cotton-floral-suit-with-emborided-pockets/royal-blue-cotton-floral-suit-with-emborided-pockets_2.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 0 },
-      { size: 'M', price: 1999, compareAtPrice: 3999, inventory: 0 },
-      { size: 'L', price: 1999, compareAtPrice: 3999, inventory: 0 },
-      { size: 'XL', price: 1999, compareAtPrice: 3999, inventory: 0 },
-      { size: '2XL', price: 1999, compareAtPrice: 3999, inventory: 0 },
+      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: '2XL', price: 1999, compareAtPrice: 3998, inventory: 0 },
     ],
   },
   {
@@ -1052,7 +1052,7 @@
     type: '',
     category: 'Suit',
     basePrice: 5650,
-    compareAtPrice: 8069,
+    compareAtPrice: 11300,
     status: 'active',
     featured: true,
     images: [
@@ -1065,9 +1065,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978447/manroz/products/red-leaf-flower-suit/red-leaf-flower-suit_7.jpg'
     ],
     variants: [
-      { size: 'M', price: 5650, compareAtPrice: 8069, inventory: 0 },
-      { size: 'XL', price: 5650, compareAtPrice: 8069, inventory: 0 },
-      { size: '2XL', price: 5650, compareAtPrice: 8069, inventory: 0 },
+      { size: 'M', price: 5650, compareAtPrice: 11300, inventory: 0 },
+      { size: 'XL', price: 5650, compareAtPrice: 11300, inventory: 0 },
+      { size: '2XL', price: 5650, compareAtPrice: 11300, inventory: 0 },
     ],
   },
   {
@@ -1078,7 +1078,7 @@
     type: '',
     category: 'Suit',
     basePrice: 3000,
-    compareAtPrice: 4289,
+    compareAtPrice: 6000,
     status: 'active',
     featured: false,
     images: [
@@ -1089,9 +1089,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978454/manroz/products/red-chinon-suit-with-gottapatti-neck-line/red-chinon-suit-with-gottapatti-neck-line_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 3000, compareAtPrice: 4289, inventory: 0 },
-      { size: 'M', price: 3000, compareAtPrice: 4289, inventory: 0 },
-      { size: 'L', price: 3000, compareAtPrice: 4289, inventory: 0 },
+      { size: 'S', price: 3000, compareAtPrice: 6000, inventory: 0 },
+      { size: 'M', price: 3000, compareAtPrice: 6000, inventory: 0 },
+      { size: 'L', price: 3000, compareAtPrice: 6000, inventory: 0 },
     ],
   },
   {
@@ -1102,7 +1102,7 @@
     type: '',
     category: 'Suit',
     basePrice: 6000,
-    compareAtPrice: 8589,
+    compareAtPrice: 12000,
     status: 'active',
     featured: true,
     images: [
@@ -1114,7 +1114,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978464/manroz/products/red-a-line-chinon-suit/red-a-line-chinon-suit_6.jpg'
     ],
     variants: [
-      { size: 'L', price: 6000, compareAtPrice: 8589, inventory: 0 },
+      { size: 'L', price: 6000, compareAtPrice: 12000, inventory: 0 },
     ],
   },
   {
@@ -1125,7 +1125,7 @@
     type: '',
     category: 'Lehenga',
     basePrice: 11000,
-    compareAtPrice: 15719,
+    compareAtPrice: 22000,
     status: 'active',
     featured: true,
     images: [
@@ -1137,7 +1137,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978473/manroz/products/purple-work-lehnga/purple-work-lehnga_6.jpg'
     ],
     variants: [
-      { size: 'XL', price: 11000, compareAtPrice: 15719, inventory: 0 },
+      { size: 'XL', price: 11000, compareAtPrice: 22000, inventory: 0 },
     ],
   },
   {
@@ -1148,7 +1148,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 1749,
-    compareAtPrice: 3499,
+    compareAtPrice: 3498,
     status: 'active',
     featured: false,
     images: [
@@ -1159,10 +1159,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978481/manroz/products/purple-cord-set-with-golden-handwork/purple-cord-set-with-golden-handwork_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1749, compareAtPrice: 3499, inventory: 0 },
-      { size: 'M', price: 1749, compareAtPrice: 3499, inventory: 0 },
-      { size: 'L', price: 1749, compareAtPrice: 3499, inventory: 0 },
-      { size: 'XL', price: 1749, compareAtPrice: 3499, inventory: 0 },
+      { size: 'S', price: 1749, compareAtPrice: 3498, inventory: 0 },
+      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 0 },
+      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 0 },
+      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 0 },
     ],
   },
   {
@@ -1173,7 +1173,7 @@
     type: '',
     category: 'Suit',
     basePrice: 1999,
-    compareAtPrice: 3999,
+    compareAtPrice: 3998,
     status: 'active',
     featured: false,
     images: [
@@ -1184,8 +1184,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978490/manroz/products/printed-black-cotton-suit-with-embroided-neck/printed-black-cotton-suit-with-embroided-neck_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 0 },
-      { size: 'M', price: 1999, compareAtPrice: 3999, inventory: 0 },
+      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 0 },
     ],
   },
   {
@@ -1196,7 +1196,7 @@
     type: '',
     category: 'Lehenga',
     basePrice: 15000,
-    compareAtPrice: 21429,
+    compareAtPrice: 30000,
     status: 'active',
     featured: true,
     images: [
@@ -1208,7 +1208,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978500/manroz/products/pista-mirror-work-lehnga/pista-mirror-work-lehnga_6.jpg'
     ],
     variants: [
-      { size: 'L', price: 15000, compareAtPrice: 21429, inventory: 0 },
+      { size: 'L', price: 15000, compareAtPrice: 30000, inventory: 0 },
     ],
   },
   {
@@ -1219,7 +1219,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 1099,
-    compareAtPrice: 2199,
+    compareAtPrice: 2198,
     status: 'active',
     featured: false,
     images: [
@@ -1230,9 +1230,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978508/manroz/products/pink-with-white-flower-cotton-kurti/pink-with-white-flower-cotton-kurti_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1099, compareAtPrice: 2199, inventory: 0 },
-      { size: 'M', price: 1099, compareAtPrice: 2199, inventory: 0 },
-      { size: 'L', price: 1099, compareAtPrice: 2199, inventory: 0 },
+      { size: 'S', price: 1099, compareAtPrice: 2198, inventory: 0 },
+      { size: 'M', price: 1099, compareAtPrice: 2198, inventory: 0 },
+      { size: 'L', price: 1099, compareAtPrice: 2198, inventory: 0 },
     ],
   },
   {
@@ -1243,7 +1243,7 @@
     type: '',
     category: 'Suit',
     basePrice: 1799,
-    compareAtPrice: 3599,
+    compareAtPrice: 3598,
     status: 'active',
     featured: false,
     images: [
@@ -1254,11 +1254,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978516/manroz/products/pink-fushia-pink-floral-muslin-suit/pink-fushia-pink-floral-muslin-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1799, compareAtPrice: 3599, inventory: 4 },
-      { size: 'M', price: 1799, compareAtPrice: 3599, inventory: 4 },
-      { size: 'L', price: 1799, compareAtPrice: 3599, inventory: 4 },
-      { size: 'XL', price: 1799, compareAtPrice: 3599, inventory: 4 },
-      { size: '2XL', price: 1799, compareAtPrice: 3599, inventory: 4 },
+      { size: 'S', price: 1799, compareAtPrice: 3598, inventory: 4 },
+      { size: 'M', price: 1799, compareAtPrice: 3598, inventory: 4 },
+      { size: 'L', price: 1799, compareAtPrice: 3598, inventory: 4 },
+      { size: 'XL', price: 1799, compareAtPrice: 3598, inventory: 4 },
+      { size: '2XL', price: 1799, compareAtPrice: 3598, inventory: 4 },
     ],
   },
   {
@@ -1269,7 +1269,7 @@
     type: '',
     category: 'Suit',
     basePrice: 1999,
-    compareAtPrice: 3999,
+    compareAtPrice: 3998,
     status: 'active',
     featured: false,
     images: [
@@ -1280,8 +1280,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978524/manroz/products/pink-frock-cotton-suit/pink-frock-cotton-suit_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 1999, compareAtPrice: 3999, inventory: 0 },
-      { size: 'L', price: 1999, compareAtPrice: 3999, inventory: 0 },
+      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 0 },
     ],
   },
   {
@@ -1292,7 +1292,7 @@
     type: '',
     category: 'Suit',
     basePrice: 5850,
-    compareAtPrice: 8359,
+    compareAtPrice: 11700,
     status: 'active',
     featured: true,
     images: [
@@ -1302,8 +1302,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978530/manroz/products/pink-floral-georgette-suit/pink-floral-georgette-suit_4.jpg'
     ],
     variants: [
-      { size: 'M', price: 5850, compareAtPrice: 8359, inventory: 0 },
-      { size: 'L', price: 5850, compareAtPrice: 8359, inventory: 0 },
+      { size: 'M', price: 5850, compareAtPrice: 11700, inventory: 0 },
+      { size: 'L', price: 5850, compareAtPrice: 11700, inventory: 0 },
     ],
   },
   {
@@ -1314,7 +1314,7 @@
     type: '',
     category: 'Suit',
     basePrice: 4200,
-    compareAtPrice: 6000,
+    compareAtPrice: 8400,
     status: 'active',
     featured: true,
     images: [
@@ -1325,8 +1325,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978538/manroz/products/pink-and-sky-blue-cotton-frock-suit/pink-and-sky-blue-cotton-frock-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 4200, compareAtPrice: 6000, inventory: 4 },
-      { size: 'XL', price: 4200, compareAtPrice: 6000, inventory: 4 },
+      { size: 'S', price: 4200, compareAtPrice: 8400, inventory: 4 },
+      { size: 'XL', price: 4200, compareAtPrice: 8400, inventory: 4 },
     ],
   },
   {
@@ -1337,7 +1337,7 @@
     type: 'Coord Set',
     category: 'Coord Set',
     basePrice: 1749,
-    compareAtPrice: 3499,
+    compareAtPrice: 3498,
     status: 'active',
     featured: false,
     images: [
@@ -1348,10 +1348,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978546/manroz/products/pink-white-cord-set-with-embroided-pocket-collar/pink-white-cord-set-with-embroided-pocket-collar_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1749, compareAtPrice: 3499, inventory: 4 },
-      { size: 'M', price: 1749, compareAtPrice: 3499, inventory: 4 },
-      { size: 'L', price: 1749, compareAtPrice: 3499, inventory: 4 },
-      { size: 'XL', price: 1749, compareAtPrice: 3499, inventory: 4 },
+      { size: 'S', price: 1749, compareAtPrice: 3498, inventory: 4 },
+      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 4 },
+      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 4 },
+      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 4 },
     ],
   },
   {
@@ -1362,7 +1362,7 @@
     type: '',
     category: 'Suit',
     basePrice: 5200,
-    compareAtPrice: 7429,
+    compareAtPrice: 10400,
     status: 'active',
     featured: true,
     images: [
@@ -1373,8 +1373,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978553/manroz/products/pakistani-muslin-peacock-printed-blue-suit/pakistani-muslin-peacock-printed-blue-suit_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 5200, compareAtPrice: 7429, inventory: 4 },
-      { size: 'L', price: 5200, compareAtPrice: 7429, inventory: 4 },
+      { size: 'M', price: 5200, compareAtPrice: 10400, inventory: 4 },
+      { size: 'L', price: 5200, compareAtPrice: 10400, inventory: 4 },
     ],
   },
   {
@@ -1385,7 +1385,7 @@
     type: '',
     category: 'Suit',
     basePrice: 5000,
-    compareAtPrice: 7149,
+    compareAtPrice: 10000,
     status: 'active',
     featured: true,
     images: [
@@ -1396,8 +1396,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978566/manroz/products/pakistani-hot-pink-digital-print-muslin-suit/pakistani-hot-pink-digital-print-muslin-suit_5.jpg'
     ],
     variants: [
-      { size: 'L', price: 5000, compareAtPrice: 7149, inventory: 4 },
-      { size: '2XL', price: 5000, compareAtPrice: 7149, inventory: 4 },
+      { size: 'L', price: 5000, compareAtPrice: 10000, inventory: 4 },
+      { size: '2XL', price: 5000, compareAtPrice: 10000, inventory: 4 },
     ],
   },
   {
@@ -1408,7 +1408,7 @@
     type: '',
     category: 'Lehenga',
     basePrice: 15000,
-    compareAtPrice: 21429,
+    compareAtPrice: 30000,
     status: 'active',
     featured: true,
     images: [
@@ -1419,7 +1419,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978574/manroz/products/orange-maroon-chikungari-lehnga/orange-maroon-chikungari-lehnga_5.jpg'
     ],
     variants: [
-      { size: 'XL', price: 15000, compareAtPrice: 21429, inventory: 2 },
+      { size: 'XL', price: 15000, compareAtPrice: 30000, inventory: 2 },
     ],
   },
   {
@@ -1430,7 +1430,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 1999,
-    compareAtPrice: 3999,
+    compareAtPrice: 3998,
     status: 'active',
     featured: false,
     images: [
@@ -1441,10 +1441,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978582/manroz/products/navy-blue-embroidery-coord-set/navy-blue-embroidery-coord-set_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 1999, compareAtPrice: 3999, inventory: 4 },
-      { size: 'L', price: 1999, compareAtPrice: 3999, inventory: 4 },
-      { size: 'XL', price: 1999, compareAtPrice: 3999, inventory: 4 },
-      { size: '2XL', price: 1999, compareAtPrice: 3999, inventory: 4 },
+      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 4 },
+      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 4 },
+      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 4 },
+      { size: '2XL', price: 1999, compareAtPrice: 3998, inventory: 4 },
     ],
   },
   {
@@ -1455,7 +1455,7 @@
     type: '',
     category: 'Suit',
     basePrice: 5200,
-    compareAtPrice: 7429,
+    compareAtPrice: 10400,
     status: 'active',
     featured: true,
     images: [
@@ -1466,10 +1466,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978589/manroz/products/navy-blue-embroider-suit/navy-blue-embroider-suit_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 5200, compareAtPrice: 7429, inventory: 4 },
-      { size: 'L', price: 5200, compareAtPrice: 7429, inventory: 4 },
-      { size: 'XL', price: 5200, compareAtPrice: 7429, inventory: 4 },
-      { size: '2XL', price: 5200, compareAtPrice: 7429, inventory: 4 },
+      { size: 'M', price: 5200, compareAtPrice: 10400, inventory: 4 },
+      { size: 'L', price: 5200, compareAtPrice: 10400, inventory: 4 },
+      { size: 'XL', price: 5200, compareAtPrice: 10400, inventory: 4 },
+      { size: '2XL', price: 5200, compareAtPrice: 10400, inventory: 4 },
     ],
   },
   {
@@ -1480,7 +1480,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 1399,
-    compareAtPrice: 2799,
+    compareAtPrice: 2798,
     status: 'active',
     featured: false,
     images: [
@@ -1490,10 +1490,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978595/manroz/products/navy-blue-embroided-cort-set/navy-blue-embroided-cort-set_4.jpg'
     ],
     variants: [
-      { size: 'S', price: 1399, compareAtPrice: 2799, inventory: 4 },
-      { size: 'M', price: 1399, compareAtPrice: 2799, inventory: 4 },
-      { size: 'L', price: 1399, compareAtPrice: 2799, inventory: 4 },
-      { size: 'XL', price: 1399, compareAtPrice: 2799, inventory: 4 },
+      { size: 'S', price: 1399, compareAtPrice: 2798, inventory: 4 },
+      { size: 'M', price: 1399, compareAtPrice: 2798, inventory: 4 },
+      { size: 'L', price: 1399, compareAtPrice: 2798, inventory: 4 },
+      { size: 'XL', price: 1399, compareAtPrice: 2798, inventory: 4 },
     ],
   },
   {
@@ -1504,7 +1504,7 @@
     type: '',
     category: 'Suit',
     basePrice: 4500,
-    compareAtPrice: 6429,
+    compareAtPrice: 9000,
     status: 'active',
     featured: true,
     images: [
@@ -1515,10 +1515,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978603/manroz/products/navy-blue-digital-print-suit-with-pearl-neck/navy-blue-digital-print-suit-with-pearl-neck_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 4500, compareAtPrice: 6429, inventory: 4 },
-      { size: 'M', price: 4500, compareAtPrice: 6429, inventory: 4 },
-      { size: 'L', price: 4500, compareAtPrice: 6429, inventory: 4 },
-      { size: 'XL', price: 4500, compareAtPrice: 6429, inventory: 4 },
+      { size: 'S', price: 4500, compareAtPrice: 9000, inventory: 4 },
+      { size: 'M', price: 4500, compareAtPrice: 9000, inventory: 4 },
+      { size: 'L', price: 4500, compareAtPrice: 9000, inventory: 4 },
+      { size: 'XL', price: 4500, compareAtPrice: 9000, inventory: 4 },
     ],
   },
   {
@@ -1529,7 +1529,7 @@
     type: '',
     category: 'Suit',
     basePrice: 1999,
-    compareAtPrice: 3999,
+    compareAtPrice: 3998,
     status: 'active',
     featured: false,
     images: [
@@ -1540,11 +1540,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978611/manroz/products/navy-blue-cotton-suit-with-grey-flowers/navy-blue-cotton-suit-with-grey-flowers_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 4 },
-      { size: 'M', price: 1999, compareAtPrice: 3999, inventory: 4 },
-      { size: 'L', price: 1999, compareAtPrice: 3999, inventory: 4 },
-      { size: 'XL', price: 1999, compareAtPrice: 3999, inventory: 4 },
-      { size: '2XL', price: 1999, compareAtPrice: 3999, inventory: 4 },
+      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 4 },
+      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 4 },
+      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 4 },
+      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 4 },
+      { size: '2XL', price: 1999, compareAtPrice: 3998, inventory: 4 },
     ],
   },
   {
@@ -1555,7 +1555,7 @@
     type: '',
     category: 'Suit',
     basePrice: 1999,
-    compareAtPrice: 3999,
+    compareAtPrice: 3998,
     status: 'active',
     featured: false,
     images: [
@@ -1566,9 +1566,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978619/manroz/products/navy-blue-cotton-flower-leaf-print-suit/navy-blue-cotton-flower-leaf-print-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 4 },
-      { size: 'M', price: 1999, compareAtPrice: 3999, inventory: 4 },
-      { size: 'L', price: 1999, compareAtPrice: 3999, inventory: 4 },
+      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 4 },
+      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 4 },
+      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 4 },
     ],
   },
   {
@@ -1579,7 +1579,7 @@
     type: '',
     category: 'Suit',
     basePrice: 5200,
-    compareAtPrice: 7429,
+    compareAtPrice: 10400,
     status: 'active',
     featured: true,
     images: [
@@ -1592,10 +1592,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978629/manroz/products/mustard-organza-suit/mustard-organza-suit_7.jpg'
     ],
     variants: [
-      { size: 'M', price: 5200, compareAtPrice: 7429, inventory: 4 },
-      { size: 'L', price: 5200, compareAtPrice: 7429, inventory: 4 },
-      { size: 'XL', price: 5200, compareAtPrice: 7429, inventory: 4 },
-      { size: '2XL', price: 5200, compareAtPrice: 7429, inventory: 4 },
+      { size: 'M', price: 5200, compareAtPrice: 10400, inventory: 4 },
+      { size: 'L', price: 5200, compareAtPrice: 10400, inventory: 4 },
+      { size: 'XL', price: 5200, compareAtPrice: 10400, inventory: 4 },
+      { size: '2XL', price: 5200, compareAtPrice: 10400, inventory: 4 },
     ],
   },
   {
@@ -1606,7 +1606,7 @@
     type: '',
     category: 'Suit',
     basePrice: 6000,
-    compareAtPrice: 8579,
+    compareAtPrice: 12000,
     status: 'active',
     featured: true,
     images: [
@@ -1618,7 +1618,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978640/manroz/products/mehndi-foral-a-line-frock-suit/mehndi-foral-a-line-frock-suit_6.jpg'
     ],
     variants: [
-      { size: 'L', price: 6000, compareAtPrice: 8579, inventory: 0 },
+      { size: 'L', price: 6000, compareAtPrice: 12000, inventory: 0 },
     ],
   },
   {
@@ -1629,7 +1629,7 @@
     type: '',
     category: 'Lehenga',
     basePrice: 14000,
-    compareAtPrice: 20000,
+    compareAtPrice: 28000,
     status: 'active',
     featured: true,
     images: [
@@ -1641,7 +1641,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978649/manroz/products/mauve-work-lehnga/mauve-work-lehnga_6.jpg'
     ],
     variants: [
-      { size: 'XL', price: 14000, compareAtPrice: 20000, inventory: 2 },
+      { size: 'XL', price: 14000, compareAtPrice: 28000, inventory: 2 },
     ],
   },
   {
@@ -1652,7 +1652,7 @@
     type: '',
     category: 'Suit',
     basePrice: 4500,
-    compareAtPrice: 6429,
+    compareAtPrice: 9000,
     status: 'active',
     featured: true,
     images: [
@@ -1663,10 +1663,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978657/manroz/products/magenta-pink-floral-georgette-suit/magenta-pink-floral-georgette-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 4500, compareAtPrice: 6429, inventory: 0 },
-      { size: 'M', price: 4500, compareAtPrice: 6429, inventory: 0 },
-      { size: 'L', price: 4500, compareAtPrice: 6429, inventory: 0 },
-      { size: 'XL', price: 4500, compareAtPrice: 6429, inventory: 0 },
+      { size: 'S', price: 4500, compareAtPrice: 9000, inventory: 0 },
+      { size: 'M', price: 4500, compareAtPrice: 9000, inventory: 0 },
+      { size: 'L', price: 4500, compareAtPrice: 9000, inventory: 0 },
+      { size: 'XL', price: 4500, compareAtPrice: 9000, inventory: 0 },
     ],
   },
   {
@@ -1677,7 +1677,7 @@
     type: '',
     category: 'Suit',
     basePrice: 6000,
-    compareAtPrice: 8579,
+    compareAtPrice: 12000,
     status: 'active',
     featured: true,
     images: [
@@ -1690,8 +1690,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978669/manroz/products/magenta-frock-suit/magenta-frock-suit_7.jpg'
     ],
     variants: [
-      { size: 'M', price: 6000, compareAtPrice: 8579, inventory: 0 },
-      { size: 'XL', price: 6000, compareAtPrice: 8579, inventory: 0 },
+      { size: 'M', price: 6000, compareAtPrice: 12000, inventory: 0 },
+      { size: 'XL', price: 6000, compareAtPrice: 12000, inventory: 0 },
     ],
   },
   {
@@ -1702,7 +1702,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 1799,
-    compareAtPrice: 3599,
+    compareAtPrice: 3598,
     status: 'active',
     featured: false,
     images: [
@@ -1710,10 +1710,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978673/manroz/products/magenta-collar-cord-set/magenta-collar-cord-set_2.jpg'
     ],
     variants: [
-      { size: 'M', price: 1799, compareAtPrice: 3599, inventory: 2 },
-      { size: 'L', price: 1799, compareAtPrice: 3599, inventory: 2 },
-      { size: 'XL', price: 1799, compareAtPrice: 3599, inventory: 2 },
-      { size: '2XL', price: 1799, compareAtPrice: 3599, inventory: 2 },
+      { size: 'M', price: 1799, compareAtPrice: 3598, inventory: 2 },
+      { size: 'L', price: 1799, compareAtPrice: 3598, inventory: 2 },
+      { size: 'XL', price: 1799, compareAtPrice: 3598, inventory: 2 },
+      { size: '2XL', price: 1799, compareAtPrice: 3598, inventory: 2 },
     ],
   },
   {
@@ -1724,7 +1724,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 1499,
-    compareAtPrice: 2999,
+    compareAtPrice: 2998,
     status: 'active',
     featured: false,
     images: [
@@ -1735,10 +1735,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978681/manroz/products/lavander-pearl-embroidery-with-afghani-cord-set/lavander-pearl-embroidery-with-afghani-cord-set_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1499, compareAtPrice: 2999, inventory: 2 },
-      { size: 'M', price: 1499, compareAtPrice: 2999, inventory: 2 },
-      { size: 'L', price: 1499, compareAtPrice: 2999, inventory: 2 },
-      { size: 'XL', price: 1499, compareAtPrice: 2999, inventory: 2 },
+      { size: 'S', price: 1499, compareAtPrice: 2998, inventory: 2 },
+      { size: 'M', price: 1499, compareAtPrice: 2998, inventory: 2 },
+      { size: 'L', price: 1499, compareAtPrice: 2998, inventory: 2 },
+      { size: 'XL', price: 1499, compareAtPrice: 2998, inventory: 2 },
     ],
   },
   {
@@ -1749,7 +1749,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 12000,
-    compareAtPrice: 17149,
+    compareAtPrice: 24000,
     status: 'active',
     featured: true,
     images: [
@@ -1760,7 +1760,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978688/manroz/products/hot-pink-plazo-set-with-jacket/hot-pink-plazo-set-with-jacket_5.jpg'
     ],
     variants: [
-      { size: 'XL', price: 12000, compareAtPrice: 17149, inventory: 2 },
+      { size: 'XL', price: 12000, compareAtPrice: 24000, inventory: 2 },
     ],
   },
   {
@@ -1771,7 +1771,7 @@
     type: '',
     category: 'Suit',
     basePrice: 1699,
-    compareAtPrice: 3399,
+    compareAtPrice: 3398,
     status: 'active',
     featured: false,
     images: [
@@ -1781,11 +1781,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978694/manroz/products/hot-pink-cotton-suit/hot-pink-cotton-suit_4.jpg'
     ],
     variants: [
-      { size: 'S', price: 1699, compareAtPrice: 3399, inventory: 2 },
-      { size: 'M', price: 1699, compareAtPrice: 3399, inventory: 2 },
-      { size: 'L', price: 1699, compareAtPrice: 3399, inventory: 2 },
-      { size: 'XL', price: 1699, compareAtPrice: 3399, inventory: 2 },
-      { size: '2XL', price: 1699, compareAtPrice: 3399, inventory: 2 },
+      { size: 'S', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'M', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'L', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'XL', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: '2XL', price: 1699, compareAtPrice: 3398, inventory: 2 },
     ],
   },
   {
@@ -1796,7 +1796,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 1749,
-    compareAtPrice: 3499,
+    compareAtPrice: 3498,
     status: 'active',
     featured: false,
     images: [
@@ -1807,10 +1807,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978702/manroz/products/handwork-on-neckline-pocket-multicolored-cord-set/handwork-on-neckline-pocket-multicolored-cord-set_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'M', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'L', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'XL', price: 1749, compareAtPrice: 3499, inventory: 2 },
+      { size: 'S', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
     ],
   },
   {
@@ -1821,7 +1821,7 @@
     type: 'lehnga',
     category: 'Lehenga',
     basePrice: 13000,
-    compareAtPrice: 18579,
+    compareAtPrice: 26000,
     status: 'active',
     featured: true,
     images: [
@@ -1832,7 +1832,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978709/manroz/products/haldi-multi-color-lehnga/haldi-multi-color-lehnga_5.jpg'
     ],
     variants: [
-      { size: '2XL', price: 13000, compareAtPrice: 18579, inventory: 2 },
+      { size: '2XL', price: 13000, compareAtPrice: 26000, inventory: 2 },
     ],
   },
   {
@@ -1843,7 +1843,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 1749,
-    compareAtPrice: 3499,
+    compareAtPrice: 3498,
     status: 'active',
     featured: false,
     images: [
@@ -1854,9 +1854,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978717/manroz/products/haldi-cord-set-with-golden-handwork/haldi-cord-set-with-golden-handwork_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'M', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'L', price: 1749, compareAtPrice: 3499, inventory: 2 },
+      { size: 'S', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 2 },
     ],
   },
   {
@@ -1867,7 +1867,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 1749,
-    compareAtPrice: 3499,
+    compareAtPrice: 3498,
     status: 'active',
     featured: false,
     images: [
@@ -1878,10 +1878,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978724/manroz/products/greyish-blue-cord-set-with-full-handwork/greyish-blue-cord-set-with-full-handwork_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'M', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'L', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'XL', price: 1749, compareAtPrice: 3499, inventory: 2 },
+      { size: 'S', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
     ],
   },
   {
@@ -1892,7 +1892,7 @@
     type: '',
     category: 'Suit',
     basePrice: 1999,
-    compareAtPrice: 3999,
+    compareAtPrice: 3998,
     status: 'active',
     featured: false,
     images: [
@@ -1903,11 +1903,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978733/manroz/products/grey-cotton-suit-with-blue-flowers/grey-cotton-suit-with-blue-flowers_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: 'M', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: 'L', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: 'XL', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: '2XL', price: 1999, compareAtPrice: 3999, inventory: 2 },
+      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: '2XL', price: 1999, compareAtPrice: 3998, inventory: 2 },
     ],
   },
   {
@@ -1918,7 +1918,7 @@
     type: '',
     category: 'Suit',
     basePrice: 5000,
-    compareAtPrice: 7149,
+    compareAtPrice: 10000,
     status: 'active',
     featured: true,
     images: [
@@ -1930,8 +1930,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978742/manroz/products/greenish-blue-kadhai-suit/greenish-blue-kadhai-suit_6.jpg'
     ],
     variants: [
-      { size: 'M', price: 5000, compareAtPrice: 7149, inventory: 2 },
-      { size: 'XL', price: 5000, compareAtPrice: 7149, inventory: 2 },
+      { size: 'M', price: 5000, compareAtPrice: 10000, inventory: 2 },
+      { size: 'XL', price: 5000, compareAtPrice: 10000, inventory: 2 },
     ],
   },
   {
@@ -1942,7 +1942,7 @@
     type: '',
     category: 'Suit',
     basePrice: 4200,
-    compareAtPrice: 6000,
+    compareAtPrice: 8400,
     status: 'active',
     featured: true,
     images: [
@@ -1952,10 +1952,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978747/manroz/products/greenish-blue-digital-print-suit-with-pink-pearl-flowers/greenish-blue-digital-print-suit-with-pink-pearl-flowers_4.jpg'
     ],
     variants: [
-      { size: 'S', price: 4200, compareAtPrice: 6000, inventory: 2 },
-      { size: 'M', price: 4200, compareAtPrice: 6000, inventory: 3 },
-      { size: 'L', price: 4200, compareAtPrice: 6000, inventory: 2 },
-      { size: 'XL', price: 4200, compareAtPrice: 6000, inventory: 3 },
+      { size: 'S', price: 4200, compareAtPrice: 8400, inventory: 2 },
+      { size: 'M', price: 4200, compareAtPrice: 8400, inventory: 3 },
+      { size: 'L', price: 4200, compareAtPrice: 8400, inventory: 2 },
+      { size: 'XL', price: 4200, compareAtPrice: 8400, inventory: 3 },
     ],
   },
   {
@@ -1966,7 +1966,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 1749,
-    compareAtPrice: 3499,
+    compareAtPrice: 3498,
     status: 'active',
     featured: false,
     images: [
@@ -1977,10 +1977,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978756/manroz/products/greenish-blue-cord-set-with-embroided-neckline-a-pocket/greenish-blue-cord-set-with-embroided-neckline-a-pocket_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'M', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'L', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'XL', price: 1749, compareAtPrice: 3499, inventory: 2 },
+      { size: 'S', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
     ],
   },
   {
@@ -1991,7 +1991,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 999,
-    compareAtPrice: 1999,
+    compareAtPrice: 1998,
     status: 'active',
     featured: false,
     images: [
@@ -2001,9 +2001,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978762/manroz/products/green-with-white-flower-cotton-kurti/green-with-white-flower-cotton-kurti_4.jpg'
     ],
     variants: [
-      { size: 'S', price: 999, compareAtPrice: 1999, inventory: 2 },
-      { size: 'M', price: 999, compareAtPrice: 1999, inventory: 3 },
-      { size: 'L', price: 999, compareAtPrice: 1999, inventory: 2 },
+      { size: 'S', price: 999, compareAtPrice: 1998, inventory: 2 },
+      { size: 'M', price: 999, compareAtPrice: 1998, inventory: 3 },
+      { size: 'L', price: 999, compareAtPrice: 1998, inventory: 2 },
     ],
   },
   {
@@ -2014,7 +2014,7 @@
     type: '',
     category: 'Suit',
     basePrice: 6000,
-    compareAtPrice: 8569,
+    compareAtPrice: 12000,
     status: 'active',
     featured: true,
     images: [
@@ -2025,8 +2025,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978770/manroz/products/gotapatti-suit-turquoise-blue-with-tissue-dupatta/gotapatti-suit-turquoise-blue-with-tissue-dupatta_5.jpg'
     ],
     variants: [
-      { size: 'XL', price: 6000, compareAtPrice: 8569, inventory: 2 },
-      { size: '2XL', price: 6000, compareAtPrice: 8569, inventory: 2 },
+      { size: 'XL', price: 6000, compareAtPrice: 12000, inventory: 2 },
+      { size: '2XL', price: 6000, compareAtPrice: 12000, inventory: 2 },
     ],
   },
   {
@@ -2037,7 +2037,7 @@
     type: '',
     category: 'Suit',
     basePrice: 5000,
-    compareAtPrice: 7149,
+    compareAtPrice: 10000,
     status: 'active',
     featured: true,
     images: [
@@ -2048,7 +2048,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978778/manroz/products/georgette-handwork-bluish-grey-suit/georgette-handwork-bluish-grey-suit_5.jpg'
     ],
     variants: [
-      { size: 'XL', price: 5000, compareAtPrice: 7149, inventory: 2 },
+      { size: 'XL', price: 5000, compareAtPrice: 10000, inventory: 2 },
     ],
   },
   {
@@ -2059,7 +2059,7 @@
     type: 'Cord Set',
     category: 'Coord Set',
     basePrice: 1749,
-    compareAtPrice: 3499,
+    compareAtPrice: 3498,
     status: 'active',
     featured: false,
     images: [
@@ -2072,10 +2072,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978790/manroz/products/embroidery-cream-collar-cord-set/embroidery-cream-collar-cord-set_7.jpg'
     ],
     variants: [
-      { size: 'M', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'L', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'XL', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: '2XL', price: 1749, compareAtPrice: 3499, inventory: 2 },
+      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: '2XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
     ],
   },
   {
@@ -2086,7 +2086,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 1749,
-    compareAtPrice: 3499,
+    compareAtPrice: 3498,
     status: 'active',
     featured: false,
     images: [
@@ -2097,10 +2097,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978797/manroz/products/embroidery-blue-collar-cord-set/embroidery-blue-collar-cord-set_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'L', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'XL', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: '2XL', price: 1749, compareAtPrice: 3499, inventory: 2 },
+      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: '2XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
     ],
   },
   {
@@ -2111,7 +2111,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 1199,
-    compareAtPrice: 2399,
+    compareAtPrice: 2398,
     status: 'active',
     featured: false,
     images: [
@@ -2122,10 +2122,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978804/manroz/products/dark-green-cotton-cord-set/dark-green-cotton-cord-set_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1199, compareAtPrice: 2399, inventory: 2 },
-      { size: 'M', price: 1199, compareAtPrice: 2399, inventory: 2 },
-      { size: 'L', price: 1199, compareAtPrice: 2399, inventory: 2 },
-      { size: 'XL', price: 1199, compareAtPrice: 2399, inventory: 2 },
+      { size: 'S', price: 1199, compareAtPrice: 2398, inventory: 2 },
+      { size: 'M', price: 1199, compareAtPrice: 2398, inventory: 2 },
+      { size: 'L', price: 1199, compareAtPrice: 2398, inventory: 2 },
+      { size: 'XL', price: 1199, compareAtPrice: 2398, inventory: 2 },
     ],
   },
   {
@@ -2136,7 +2136,7 @@
     type: '',
     category: 'Suit',
     basePrice: 3000,
-    compareAtPrice: 4289,
+    compareAtPrice: 6000,
     status: 'active',
     featured: false,
     images: [
@@ -2147,11 +2147,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978811/manroz/products/cream-pink-muslin-suit/cream-pink-muslin-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 3000, compareAtPrice: 4289, inventory: 2 },
-      { size: 'M', price: 3000, compareAtPrice: 4289, inventory: 2 },
-      { size: 'L', price: 3000, compareAtPrice: 4289, inventory: 2 },
-      { size: 'XL', price: 3000, compareAtPrice: 4289, inventory: 2 },
-      { size: '2XL', price: 3000, compareAtPrice: 4289, inventory: 2 },
+      { size: 'S', price: 3000, compareAtPrice: 6000, inventory: 2 },
+      { size: 'M', price: 3000, compareAtPrice: 6000, inventory: 2 },
+      { size: 'L', price: 3000, compareAtPrice: 6000, inventory: 2 },
+      { size: 'XL', price: 3000, compareAtPrice: 6000, inventory: 2 },
+      { size: '2XL', price: 3000, compareAtPrice: 6000, inventory: 2 },
     ],
   },
   {
@@ -2162,7 +2162,7 @@
     type: '',
     category: 'Suit',
     basePrice: 2500,
-    compareAtPrice: 3569,
+    compareAtPrice: 5000,
     status: 'active',
     featured: false,
     images: [
@@ -2173,10 +2173,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978819/manroz/products/cream-peach-floral-suit/cream-peach-floral-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 2500, compareAtPrice: 3569, inventory: 2 },
-      { size: 'M', price: 2500, compareAtPrice: 3569, inventory: 2 },
-      { size: 'L', price: 2500, compareAtPrice: 3569, inventory: 2 },
-      { size: 'XL', price: 2500, compareAtPrice: 3569, inventory: 2 },
+      { size: 'S', price: 2500, compareAtPrice: 5000, inventory: 2 },
+      { size: 'M', price: 2500, compareAtPrice: 5000, inventory: 2 },
+      { size: 'L', price: 2500, compareAtPrice: 5000, inventory: 2 },
+      { size: 'XL', price: 2500, compareAtPrice: 5000, inventory: 2 },
     ],
   },
   {
@@ -2187,7 +2187,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 3800,
-    compareAtPrice: 5429,
+    compareAtPrice: 7600,
     status: 'active',
     featured: false,
     images: [
@@ -2198,8 +2198,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978827/manroz/products/chinnon-hot-pink-with-orange-leaves/chinnon-hot-pink-with-orange-leaves_5.jpg'
     ],
     variants: [
-      { size: 'XL', price: 3800, compareAtPrice: 5429, inventory: 2 },
-      { size: '2XL', price: 3800, compareAtPrice: 5429, inventory: 2 },
+      { size: 'XL', price: 3800, compareAtPrice: 7600, inventory: 2 },
+      { size: '2XL', price: 3800, compareAtPrice: 7600, inventory: 2 },
     ],
   },
   {
@@ -2210,7 +2210,7 @@
     type: '',
     category: 'Suit',
     basePrice: 6000,
-    compareAtPrice: 8569,
+    compareAtPrice: 12000,
     status: 'active',
     featured: true,
     images: [
@@ -2221,7 +2221,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978834/manroz/products/cherry-red-frock-suit/cherry-red-frock-suit_5.jpg'
     ],
     variants: [
-      { size: 'XL', price: 6000, compareAtPrice: 8569, inventory: 0 },
+      { size: 'XL', price: 6000, compareAtPrice: 12000, inventory: 0 },
     ],
   },
   {
@@ -2232,7 +2232,7 @@
     type: '',
     category: 'Suit',
     basePrice: 1499,
-    compareAtPrice: 2999,
+    compareAtPrice: 2998,
     status: 'active',
     featured: false,
     images: [
@@ -2243,10 +2243,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978842/manroz/products/cherry-red-cotton-suit-with-mirror-work-neckline/cherry-red-cotton-suit-with-mirror-work-neckline_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1499, compareAtPrice: 2999, inventory: 2 },
-      { size: 'M', price: 1499, compareAtPrice: 2999, inventory: 2 },
-      { size: 'L', price: 1499, compareAtPrice: 2999, inventory: 2 },
-      { size: 'XL', price: 1499, compareAtPrice: 2999, inventory: 2 },
+      { size: 'S', price: 1499, compareAtPrice: 2998, inventory: 2 },
+      { size: 'M', price: 1499, compareAtPrice: 2998, inventory: 2 },
+      { size: 'L', price: 1499, compareAtPrice: 2998, inventory: 2 },
+      { size: 'XL', price: 1499, compareAtPrice: 2998, inventory: 2 },
     ],
   },
   {
@@ -2257,7 +2257,7 @@
     type: '',
     category: 'Suit',
     basePrice: 4500,
-    compareAtPrice: 6429,
+    compareAtPrice: 9000,
     status: 'active',
     featured: true,
     images: [
@@ -2267,10 +2267,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978849/manroz/products/bottle-green-digital-print-muslin-suit/bottle-green-digital-print-muslin-suit_4.jpg'
     ],
     variants: [
-      { size: 'S', price: 4500, compareAtPrice: 6429, inventory: 2 },
-      { size: 'M', price: 4500, compareAtPrice: 6429, inventory: 2 },
-      { size: 'L', price: 4500, compareAtPrice: 6429, inventory: 2 },
-      { size: 'XL', price: 4500, compareAtPrice: 6429, inventory: 2 },
+      { size: 'S', price: 4500, compareAtPrice: 9000, inventory: 2 },
+      { size: 'M', price: 4500, compareAtPrice: 9000, inventory: 2 },
+      { size: 'L', price: 4500, compareAtPrice: 9000, inventory: 2 },
+      { size: 'XL', price: 4500, compareAtPrice: 9000, inventory: 2 },
     ],
   },
   {
@@ -2281,7 +2281,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 2750,
-    compareAtPrice: 3929,
+    compareAtPrice: 5500,
     status: 'active',
     featured: false,
     images: [
@@ -2292,11 +2292,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978857/manroz/products/blue-jaipuri-a-cut-shirt-with-afghani-dupatta/blue-jaipuri-a-cut-shirt-with-afghani-dupatta_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 2750, compareAtPrice: 3929, inventory: 2 },
-      { size: 'M', price: 2750, compareAtPrice: 3929, inventory: 2 },
-      { size: 'L', price: 2750, compareAtPrice: 3929, inventory: 2 },
-      { size: 'XL', price: 2750, compareAtPrice: 3929, inventory: 2 },
-      { size: '2XL', price: 2750, compareAtPrice: 3929, inventory: 2 },
+      { size: 'S', price: 2750, compareAtPrice: 5500, inventory: 2 },
+      { size: 'M', price: 2750, compareAtPrice: 5500, inventory: 2 },
+      { size: 'L', price: 2750, compareAtPrice: 5500, inventory: 2 },
+      { size: 'XL', price: 2750, compareAtPrice: 5500, inventory: 2 },
+      { size: '2XL', price: 2750, compareAtPrice: 5500, inventory: 2 },
     ],
   },
   {
@@ -2307,7 +2307,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 1749,
-    compareAtPrice: 3499,
+    compareAtPrice: 3498,
     status: 'active',
     featured: false,
     images: [
@@ -2318,9 +2318,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978864/manroz/products/blue-golden-cord-set-with-afghani/blue-golden-cord-set-with-afghani_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'L', price: 1749, compareAtPrice: 3499, inventory: 2 },
-      { size: 'XL', price: 1749, compareAtPrice: 3499, inventory: 2 },
+      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
     ],
   },
   {
@@ -2331,7 +2331,7 @@
     type: '',
     category: 'Suit',
     basePrice: 5500,
-    compareAtPrice: 7859,
+    compareAtPrice: 11000,
     status: 'active',
     featured: true,
     images: [
@@ -2342,8 +2342,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978872/manroz/products/black-work-suit-with-white-pants/black-work-suit-with-white-pants_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 5500, compareAtPrice: 7859, inventory: 2 },
-      { size: 'L', price: 5500, compareAtPrice: 7859, inventory: 2 },
+      { size: 'M', price: 5500, compareAtPrice: 11000, inventory: 2 },
+      { size: 'L', price: 5500, compareAtPrice: 11000, inventory: 2 },
     ],
   },
   {
@@ -2354,7 +2354,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 999,
-    compareAtPrice: 1999,
+    compareAtPrice: 1998,
     status: 'active',
     featured: false,
     images: [
@@ -2365,9 +2365,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978879/manroz/products/black-with-golden-cotton-kurti/black-with-golden-cotton-kurti_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 999, compareAtPrice: 1999, inventory: 2 },
-      { size: 'M', price: 999, compareAtPrice: 1999, inventory: 2 },
-      { size: 'L', price: 999, compareAtPrice: 1999, inventory: 2 },
+      { size: 'S', price: 999, compareAtPrice: 1998, inventory: 2 },
+      { size: 'M', price: 999, compareAtPrice: 1998, inventory: 2 },
+      { size: 'L', price: 999, compareAtPrice: 1998, inventory: 2 },
     ],
   },
   {
@@ -2378,7 +2378,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 1299,
-    compareAtPrice: 2599,
+    compareAtPrice: 2598,
     status: 'active',
     featured: false,
     images: [
@@ -2389,10 +2389,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978886/manroz/products/black-thread-cord-set/black-thread-cord-set_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 1299, compareAtPrice: 2599, inventory: 0 },
-      { size: 'L', price: 1299, compareAtPrice: 2599, inventory: 2 },
-      { size: 'XL', price: 1299, compareAtPrice: 2599, inventory: 2 },
-      { size: '2XL', price: 1299, compareAtPrice: 2599, inventory: 2 },
+      { size: 'M', price: 1299, compareAtPrice: 2598, inventory: 0 },
+      { size: 'L', price: 1299, compareAtPrice: 2598, inventory: 2 },
+      { size: 'XL', price: 1299, compareAtPrice: 2598, inventory: 2 },
+      { size: '2XL', price: 1299, compareAtPrice: 2598, inventory: 2 },
     ],
   },
   {
@@ -2403,7 +2403,7 @@
     type: '',
     category: 'Lehenga',
     basePrice: 16000,
-    compareAtPrice: 22859,
+    compareAtPrice: 32000,
     status: 'active',
     featured: true,
     images: [
@@ -2415,7 +2415,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978896/manroz/products/black-lehnga-with-jacket/black-lehnga-with-jacket_6.jpg'
     ],
     variants: [
-      { size: 'L', price: 16000, compareAtPrice: 22859, inventory: 0 },
+      { size: 'L', price: 16000, compareAtPrice: 32000, inventory: 0 },
     ],
   },
   {
@@ -2426,7 +2426,7 @@
     type: '',
     category: 'Coord Set',
     basePrice: 8500,
-    compareAtPrice: 12149,
+    compareAtPrice: 17000,
     status: 'active',
     featured: true,
     images: [
@@ -2437,7 +2437,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978904/manroz/products/black-georgette-party-wear-dress/black-georgette-party-wear-dress_5.jpg'
     ],
     variants: [
-      { size: 'L', price: 8500, compareAtPrice: 12149, inventory: 0 },
+      { size: 'L', price: 8500, compareAtPrice: 17000, inventory: 0 },
     ],
   },
   {
@@ -2448,7 +2448,7 @@
     type: 'Kurta',
     category: 'Coord Set',
     basePrice: 1299,
-    compareAtPrice: 2599,
+    compareAtPrice: 2598,
     status: 'active',
     featured: false,
     images: [
@@ -2460,9 +2460,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978913/manroz/products/black-cotton-kurta-with-afgani/black-cotton-kurta-with-afgani_6.jpg'
     ],
     variants: [
-      { size: 'L', price: 1299, compareAtPrice: 2599, inventory: 2 },
-      { size: 'XL', price: 1299, compareAtPrice: 2599, inventory: 2 },
-      { size: '2XL', price: 1299, compareAtPrice: 2599, inventory: 2 },
+      { size: 'L', price: 1299, compareAtPrice: 2598, inventory: 2 },
+      { size: 'XL', price: 1299, compareAtPrice: 2598, inventory: 2 },
+      { size: '2XL', price: 1299, compareAtPrice: 2598, inventory: 2 },
     ],
   },
   {
@@ -2473,7 +2473,7 @@
     type: 'Suit',
     category: 'Suit',
     basePrice: 1999,
-    compareAtPrice: 3999,
+    compareAtPrice: 3998,
     status: 'active',
     featured: false,
     images: [
@@ -2484,10 +2484,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978920/manroz/products/black-white-jaipuri-print-cotton-suit/black-white-jaipuri-print-cotton-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 4 },
-      { size: 'M', price: 1999, compareAtPrice: 3999, inventory: 4 },
-      { size: 'L', price: 1999, compareAtPrice: 3999, inventory: 4 },
-      { size: 'XL', price: 1999, compareAtPrice: 3999, inventory: 4 },
+      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 4 },
+      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 4 },
+      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 4 },
+      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 4 },
     ],
   },
   {
@@ -2498,7 +2498,7 @@
     type: 'Cord Set',
     category: 'Coord Set',
     basePrice: 1099,
-    compareAtPrice: 2199,
+    compareAtPrice: 2198,
     status: 'active',
     featured: false,
     images: [
@@ -2509,11 +2509,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978928/manroz/products/black-white-cotton-cord-set/black-white-cotton-cord-set_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1099, compareAtPrice: 2199, inventory: 4 },
-      { size: 'M', price: 1099, compareAtPrice: 2199, inventory: 4 },
-      { size: 'L', price: 1099, compareAtPrice: 2199, inventory: 4 },
-      { size: 'XL', price: 1099, compareAtPrice: 2199, inventory: 4 },
-      { size: '2XL', price: 1099, compareAtPrice: 2199, inventory: 4 },
+      { size: 'S', price: 1099, compareAtPrice: 2198, inventory: 4 },
+      { size: 'M', price: 1099, compareAtPrice: 2198, inventory: 4 },
+      { size: 'L', price: 1099, compareAtPrice: 2198, inventory: 4 },
+      { size: 'XL', price: 1099, compareAtPrice: 2198, inventory: 4 },
+      { size: '2XL', price: 1099, compareAtPrice: 2198, inventory: 4 },
     ],
   },
   {
@@ -2524,7 +2524,7 @@
     type: 'Suit',
     category: 'Suit',
     basePrice: 4000,
-    compareAtPrice: 5719,
+    compareAtPrice: 8000,
     status: 'active',
     featured: true,
     images: [
@@ -2535,10 +2535,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978935/manroz/products/black-red-georgette-frock-suit/black-red-georgette-frock-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 4000, compareAtPrice: 5719, inventory: 4 },
-      { size: 'M', price: 4000, compareAtPrice: 5719, inventory: 4 },
-      { size: 'L', price: 4000, compareAtPrice: 5719, inventory: 4 },
-      { size: 'XL', price: 4000, compareAtPrice: 5719, inventory: 4 },
+      { size: 'S', price: 4000, compareAtPrice: 8000, inventory: 4 },
+      { size: 'M', price: 4000, compareAtPrice: 8000, inventory: 4 },
+      { size: 'L', price: 4000, compareAtPrice: 8000, inventory: 4 },
+      { size: 'XL', price: 4000, compareAtPrice: 8000, inventory: 4 },
     ],
   },
   {
@@ -2549,7 +2549,7 @@
     type: 'Cord Set',
     category: 'Coord Set',
     basePrice: 999,
-    compareAtPrice: 1999,
+    compareAtPrice: 1998,
     status: 'active',
     featured: false,
     images: [
@@ -2560,11 +2560,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978943/manroz/products/black-brown-cotton-cord-set/black-brown-cotton-cord-set_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 999, compareAtPrice: 1999, inventory: 4 },
-      { size: 'M', price: 999, compareAtPrice: 1999, inventory: 4 },
-      { size: 'L', price: 999, compareAtPrice: 1999, inventory: 0 },
-      { size: 'XL', price: 999, compareAtPrice: 1999, inventory: 0 },
-      { size: '2XL', price: 999, compareAtPrice: 1999, inventory: 0 },
+      { size: 'S', price: 999, compareAtPrice: 1998, inventory: 4 },
+      { size: 'M', price: 999, compareAtPrice: 1998, inventory: 4 },
+      { size: 'L', price: 999, compareAtPrice: 1998, inventory: 0 },
+      { size: 'XL', price: 999, compareAtPrice: 1998, inventory: 0 },
+      { size: '2XL', price: 999, compareAtPrice: 1998, inventory: 0 },
     ],
   },
   {
@@ -2575,7 +2575,7 @@
     type: 'Suit',
     category: 'Suit',
     basePrice: 6500,
-    compareAtPrice: 9289,
+    compareAtPrice: 13000,
     status: 'active',
     featured: true,
     images: [
@@ -2588,7 +2588,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978953/manroz/products/beige-gharara-suit-with-net-dupatta/beige-gharara-suit-with-net-dupatta_7.jpg'
     ],
     variants: [
-      { size: 'XL', price: 6500, compareAtPrice: 9289, inventory: 0 },
+      { size: 'XL', price: 6500, compareAtPrice: 13000, inventory: 0 },
     ],
   },
   {
@@ -2599,7 +2599,7 @@
     type: 'Suit',
     category: 'Suit',
     basePrice: 1999,
-    compareAtPrice: 3999,
+    compareAtPrice: 3998,
     status: 'active',
     featured: false,
     images: [
@@ -2610,11 +2610,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978959/manroz/products/barbie-pink-cotton-floral-suit/barbie-pink-cotton-floral-suit_4.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3999, inventory: 2 },
-      { size: 'M', price: 1999, compareAtPrice: 3999, inventory: 0 },
-      { size: 'L', price: 1999, compareAtPrice: 3999, inventory: 0 },
-      { size: 'XL', price: 1999, compareAtPrice: 3999, inventory: 0 },
-      { size: '2XL', price: 1999, compareAtPrice: 3999, inventory: 0 },
+      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: '2XL', price: 1999, compareAtPrice: 3998, inventory: 0 },
     ],
   },
   {
@@ -2625,7 +2625,7 @@
     type: 'Suit',
     category: 'Suit',
     basePrice: 4500,
-    compareAtPrice: 6429,
+    compareAtPrice: 9000,
     status: 'active',
     featured: true,
     images: [
@@ -2636,10 +2636,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978967/manroz/products/baige-embroidery-digital-print-muslin-suit/baige-embroidery-digital-print-muslin-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 4500, compareAtPrice: 6429, inventory: 2 },
-      { size: 'M', price: 4500, compareAtPrice: 6429, inventory: 2 },
-      { size: 'L', price: 4500, compareAtPrice: 6429, inventory: 2 },
-      { size: 'XL', price: 4500, compareAtPrice: 6429, inventory: 2 },
+      { size: 'S', price: 4500, compareAtPrice: 9000, inventory: 2 },
+      { size: 'M', price: 4500, compareAtPrice: 9000, inventory: 2 },
+      { size: 'L', price: 4500, compareAtPrice: 9000, inventory: 2 },
+      { size: 'XL', price: 4500, compareAtPrice: 9000, inventory: 2 },
     ],
   },
   {
@@ -2650,7 +2650,7 @@
     type: 'Suit',
     category: 'Suit',
     basePrice: 6000,
-    compareAtPrice: 8569,
+    compareAtPrice: 12000,
     status: 'active',
     featured: true,
     images: [
@@ -2661,8 +2661,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978974/manroz/products/anarkali-reddish-love-suit/anarkali-reddish-love-suit_4.jpg'
     ],
     variants: [
-      { size: 'M', price: 6000, compareAtPrice: 8569, inventory: 0 },
-      { size: 'XL', price: 6000, compareAtPrice: 8569, inventory: 0 },
+      { size: 'M', price: 6000, compareAtPrice: 12000, inventory: 0 },
+      { size: 'XL', price: 6000, compareAtPrice: 12000, inventory: 0 },
     ],
   },
 ];
