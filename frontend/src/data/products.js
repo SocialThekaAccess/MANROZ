@@ -29,8 +29,8 @@
     description: 'Elevate your wardrobe with this stunning Purple Coord Set with Jacket, designed for effortless style and ultimate comfort. This versatile outfit features a chic coordinated top and bottom paired with a stylish jacket, perfect for both casual outings and formal gatherings. Crafted from high-quality f...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 12000,
-    compareAtPrice: 24000,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: true,
     images: [
@@ -40,7 +40,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978028/manroz/products/purple-coord-set-with-jacket/purple-coord-set-with-jacket_3.jpg'
     ],
     variants: [
-      { size: 'XL', price: 12000, compareAtPrice: 24000, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -50,8 +50,8 @@
     description: 'Elevate your festive wardrobe with our Hot Pink Festive Suit, designed to add a pop of vibrant elegance to any celebration. This stunning ensemble features a rich, hot pink hue crafted from premium fabric, ensuring both comfort and sophistication. Perfect for weddings, parties, or traditional gather...',
     type: 'Coord Set',
     category: 'Suit',
-    basePrice: 10000,
-    compareAtPrice: 20000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -62,7 +62,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978034/manroz/products/hot-pink-festive-suit/hot-pink-festive-suit_4.jpg'
     ],
     variants: [
-      { size: 'XL', price: 10000, compareAtPrice: 20000, inventory: 0 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -72,8 +72,8 @@
     description: 'Elevate your festive wardrobe with our Three-Piece Pink Festive Coord Set, designed to add grace and charm to any celebration. This elegant ensemble features a beautifully crafted kurta adorned with intricate embroidery, a matching straight-cut trouser, and a lightweight dupatta that completes the l...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 12000,
-    compareAtPrice: 24000,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: true,
     images: [
@@ -85,7 +85,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978042/manroz/products/three-piece-pink-festive-coord-set/three-piece-pink-festive-coord-set_5.jpg'
     ],
     variants: [
-      { size: 'XL', price: 12000, compareAtPrice: 24000, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -95,8 +95,8 @@
     description: 'Add a touch of elegance to your wardrobe with this Pink Kaftaan with Potli, a perfect blend of tradition and modernity. Crafted from high-quality fabric, this kaftaan features a flowing silhouette that ensures comfort and style, making it ideal for festive occasions, weddings, or casual gatherings. ...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 4000,
-    compareAtPrice: 8000,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'soldout',
     featured: false,
     images: [
@@ -106,8 +106,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978046/manroz/products/pink-kaftaan-with-potli/pink-kaftaan-with-potli_3.jpg'
     ],
     variants: [
-      { size: 'L', price: 4000, compareAtPrice: 8000, inventory: 2 },
-      { size: 'XL', price: 4000, compareAtPrice: 8000, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -117,8 +117,8 @@
     description: 'The Black Western Golden Shoulder Coord Set is a stylish and sophisticated outfit perfect for any occasion. Featuring a sleek black design with unique golden shoulder accents, this set offers a modern take on classic Western fashion. Ideal for both casual and semi-formal events, it combines comfort ...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 2099,
-    compareAtPrice: 4198,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -129,8 +129,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978055/manroz/products/black-western-golden-shoulder-coord-set/black-western-golden-shoulder-coord-set_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 2099, compareAtPrice: 4198, inventory: 2 },
-      { size: 'L', price: 2099, compareAtPrice: 4198, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -140,8 +140,8 @@
     description: 'Discover the elegance of our green coord set, beautifully adorned with shimmering silver stones. Perfect for any occasion, this stylish ensemble blends modern design with timeless charm. Crafted for comfort and sophistication, it s the ultimate choice for those who love to make a statement. Shop now...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 1849,
-    compareAtPrice: 3698,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -151,10 +151,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978062/manroz/products/green-coord-set-with-silver-stone/green-coord-set-with-silver-stone_4.jpg'
     ],
     variants: [
-      { size: 'M', price: 1849, compareAtPrice: 3698, inventory: 2 },
-      { size: 'L', price: 1849, compareAtPrice: 3698, inventory: 2 },
-      { size: 'XL', price: 1849, compareAtPrice: 3698, inventory: 2 },
-      { size: 'XXL', price: 1849, compareAtPrice: 3698, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XXL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -164,8 +164,8 @@
     description: 'Discover elegance and comfort with our Cream Coord Set with A-Line Cut. Perfect for any occasion, this set combines a flattering A-line silhouette with a soft cream hue for a timeless look. Crafted with premium fabrics, it offers unmatched style and ease of movement. Whether it s a casual outing or ...',
     type: 'Coord Set',
     category: 'Suit',
-    basePrice: 1799,
-    compareAtPrice: 3598,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -176,9 +176,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978070/manroz/products/cream-coord-set-with-a-line-cut/cream-coord-set-with-a-line-cut_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 1799, compareAtPrice: 3598, inventory: 2 },
-      { size: 'L', price: 1799, compareAtPrice: 3598, inventory: 2 },
-      { size: 'XL', price: 1799, compareAtPrice: 3598, inventory: 2 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
     ],
   },
   {
@@ -188,8 +188,8 @@
     description: 'Step into elegance with our Dark Blue Coord Set, adorned with intricate silver stone embellishments that add a touch of glamour to your look. Designed for both comfort and style, this outfit is perfect for evening events, festive celebrations, or any occasion that calls for sophistication. The rich ...',
     type: 'Coord Set',
     category: 'Suit',
-    basePrice: 1999,
-    compareAtPrice: 3998,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -199,10 +199,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978075/manroz/products/dark-blue-coord-set-with-silver-stones/dark-blue-coord-set-with-silver-stones_4.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
     ],
   },
   {
@@ -212,8 +212,8 @@
     description: 'Step out in style with our elegant cream coord set, designed for effortless sophistication. Crafted with premium fabrics, this set combines comfort and chic appeal, making it perfect for casual outings or semi-formal events. The versatile cream hue allows for endless styling possibilities, while the...',
     type: 'Coord Set',
     category: 'Suit',
-    basePrice: 1999,
-    compareAtPrice: 3998,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -225,10 +225,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978085/manroz/products/cream-coord-set/cream-coord-set_6.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
     ],
   },
   {
@@ -238,8 +238,8 @@
     description: 'Elevate your style with this stunning Blue Heavy Embroidered Suit with Neck Work. Crafted with intricate embroidery and elegant neck detailing, this suit is perfect for weddings, festive occasions, and special events. Made from premium-quality fabric, it offers a blend of comfort and sophistication....',
     type: 'Suit',
     category: 'Suit',
-    basePrice: 10000,
-    compareAtPrice: 20000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -251,7 +251,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978096/manroz/products/blue-heavy-embroided-suit-with-neck-work/blue-heavy-embroided-suit-with-neck-work_6.jpg'
     ],
     variants: [
-      { size: 'XL', price: 10000, compareAtPrice: 20000, inventory: 0 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -261,8 +261,8 @@
     description: 'Elevate your wardrobe with our exquisite Pista Heavy Embroidery Coord Set, a perfect blend of elegance and comfort. Designed in a refreshing pista green hue, this coord set features intricate heavy embroidery work that exudes sophistication and charm. The high-quality fabric ensures a comfortable fi...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 12000,
-    compareAtPrice: 24000,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: true,
     images: [
@@ -276,7 +276,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978110/manroz/products/pista-heavy-embroidery-coord-set/pista-heavy-embroidery-coord-set_7.jpg'
     ],
     variants: [
-      { size: 'XL', price: 12000, compareAtPrice: 24000, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -286,8 +286,8 @@
     description: 'Elevate your wardrobe with this stunning Dark Blue Print Flowers Coord Set, perfect for any occasion. Designed with a chic floral pattern on a deep blue backdrop, this coord set combines style and comfort effortlessly. Crafted from high-quality fabric, it ensures a flattering fit and long-lasting we...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 1699,
-    compareAtPrice: 3398,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -300,10 +300,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978121/manroz/products/dark-blue-print-flowers-coord-set/dark-blue-print-flowers-coord-set_7.jpg'
     ],
     variants: [
-      { size: 'S', price: 1699, compareAtPrice: 3398, inventory: 2 },
-      { size: 'M', price: 1699, compareAtPrice: 3398, inventory: 2 },
-      { size: 'L', price: 1699, compareAtPrice: 3398, inventory: 2 },
-      { size: 'XL', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -313,8 +313,8 @@
     description: 'Elevate your wardrobe with our stunning Green Print Coord Set, a perfect blend of style and comfort. Crafted with premium fabric, this set features a trendy design ideal for casual outings, brunches, or relaxed evenings. The vibrant green print adds a touch of elegance, making it a must-have for fas...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 1849,
-    compareAtPrice: 3698,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -324,10 +324,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978128/manroz/products/green-print-coord-set/green-print-coord-set_4.jpg'
     ],
     variants: [
-      { size: 'Small', price: 1849, compareAtPrice: 3698, inventory: 1 },
-      { size: 'M', price: 1849, compareAtPrice: 3698, inventory: 2 },
-      { size: 'L', price: 1849, compareAtPrice: 3698, inventory: 2 },
-      { size: 'XL', price: 1849, compareAtPrice: 3698, inventory: 2 },
+      { size: 'Small', price: 4999, compareAtPrice: 9998, inventory: 1 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -337,8 +337,8 @@
     description: 'This Black Shimmery Designer Coord Set is the perfect blend of elegance and style. Crafted with high-quality fabric, it features a stunning shimmer that adds a touch of sophistication to any occasion. The set includes a chic top and matching bottoms, making it a versatile choice for both formal and ...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 2099,
-    compareAtPrice: 4198,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -350,10 +350,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978141/manroz/products/black-shimmery-designer-coord-set/black-shimmery-designer-coord-set_6.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 2099, compareAtPrice: 4198, inventory: 2 },
-      { size: 'Large', price: 2099, compareAtPrice: 4198, inventory: 1 },
-      { size: 'XL', price: 2099, compareAtPrice: 4198, inventory: 2 },
-      { size: 'XXL', price: 2099, compareAtPrice: 4198, inventory: 2 },
+      { size: 'Medium', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Large', price: 4999, compareAtPrice: 9998, inventory: 1 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XXL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -363,8 +363,8 @@
     description: 'This Brown coord set with leaf cut is a stylish and contemporary outfit perfect for any occasion. Crafted with intricate leaf cut designs, it offers a modern twist on traditional attire. The soft fabric ensures comfort while the bold color adds a touch of sophistication. Ideal for casual outings or ...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 1699,
-    compareAtPrice: 3398,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -374,10 +374,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978149/manroz/products/purple-coord-set-with-leaf-cut/purple-coord-set-with-leaf-cut_4.jpg'
     ],
     variants: [
-      { size: 'Small', price: 1699, compareAtPrice: 3398, inventory: 2 },
-      { size: 'Medium', price: 1699, compareAtPrice: 3398, inventory: 2 },
-      { size: 'Large', price: 1699, compareAtPrice: 3398, inventory: 2 },
-      { size: 'XL', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'Small', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Medium', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Large', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -387,8 +387,8 @@
     description: 'This Red Shimmery Suit combines elegance and glamour for any special occasion. Crafted with premium fabric, it features a stunning shimmery finish that catches the light beautifully. Perfect for weddings, parties, or festive events, this suit provides both comfort and style. The rich red color adds ...',
     type: 'Suit',
     category: 'Suit',
-    basePrice: 8000,
-    compareAtPrice: 16000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -402,7 +402,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978167/manroz/products/red-shimmery-suit/red-shimmery-suit_8.jpg'
     ],
     variants: [
-      { size: 'XL', price: 8000, compareAtPrice: 16000, inventory: 0 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -412,8 +412,8 @@
     description: 'The Purple Print Suit offers a bold and stylish look, perfect for any occasion. Designed with intricate purple patterns, this suit combines sophistication and modern flair. Made from high-quality fabric, it ensures comfort and durability. Whether for a formal event or a night out, the Purple Print S...',
     type: 'Suit',
     category: 'Suit',
-    basePrice: 4000,
-    compareAtPrice: 8000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -425,10 +425,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978179/manroz/products/purple-print-suit/purple-print-suit_6.jpg'
     ],
     variants: [
-      { size: 'Small', price: 4000, compareAtPrice: 8000, inventory: 2 },
-      { size: 'Medium', price: 4000, compareAtPrice: 8000, inventory: 2 },
-      { size: 'Large', price: 4000, compareAtPrice: 8000, inventory: 2 },
-      { size: 'XL', price: 4000, compareAtPrice: 8000, inventory: 2 },
+      { size: 'Small', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'Medium', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'Large', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
     ],
   },
   {
@@ -438,8 +438,8 @@
     description: 'This elegant Flower Coord Set with golden neck work is a perfect blend of traditional charm and modern style. Crafted with intricate floral designs and adorned with stunning golden neck work, this suit set offers a sophisticated look for any special occasion. Made from high-quality fabric, it ensure...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 1999,
-    compareAtPrice: 3998,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -454,10 +454,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978198/manroz/products/flower-coord-set-with-golden-neck-work/flower-coord-set-with-golden-neck-work_9.jpg'
     ],
     variants: [
-      { size: 'Small', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: 'Medium', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: 'Large', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'Small', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Medium', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Large', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -467,8 +467,8 @@
     description: 'This elegant black coord set with pink neck work combines sophistication and style, making it a must-have for your wardrobe. Featuring intricate pink embroidery on the neckline, this set offers a perfect blend of classic black with a pop of color. Ideal for casual outings, parties, or festive occasi...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 1599,
-    compareAtPrice: 3198,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -479,10 +479,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978208/manroz/products/black-coord-set-with-pink-neck-work/black-coord-set-with-pink-neck-work_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 1599, compareAtPrice: 3198, inventory: 4 },
-      { size: 'L', price: 1599, compareAtPrice: 3198, inventory: 4 },
-      { size: 'XL', price: 1599, compareAtPrice: 3198, inventory: 4 },
-      { size: 'XXL', price: 1599, compareAtPrice: 3198, inventory: 4 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'XXL', price: 4999, compareAtPrice: 9998, inventory: 4 },
     ],
   },
   {
@@ -492,8 +492,8 @@
     description: 'This **Black Coord Set with White Neck Button Flower** is a stylish and sophisticated addition to your wardrobe. Featuring a classic black hue paired with a chic white floral accent at the neck, this set combines elegance and comfort. Perfect for both casual and formal occasions, it offers a modern,...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 1649,
-    compareAtPrice: 3298,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -504,10 +504,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978219/manroz/products/black-coord-set-with-white-neck-button-flower/black-coord-set-with-white-neck-button-flower_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 1649, compareAtPrice: 3298, inventory: 4 },
-      { size: 'L', price: 1649, compareAtPrice: 3298, inventory: 4 },
-      { size: 'XL', price: 1649, compareAtPrice: 3298, inventory: 4 },
-      { size: 'XXL', price: 1649, compareAtPrice: 3298, inventory: 4 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'XXL', price: 4999, compareAtPrice: 9998, inventory: 4 },
     ],
   },
   {
@@ -517,8 +517,8 @@
     description: 'This Dark Green Coord Set with intricate neck work is a perfect blend of traditional elegance and modern style. Crafted with care, this suit features a flattering fit and delicate detailing on the neckline that adds a touch of sophistication. Ideal for festive occasions, this coord set offers both c...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 1699,
-    compareAtPrice: 3398,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -530,9 +530,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978232/manroz/products/dark-green-coord-set-with-neck-work/dark-green-coord-set-with-neck-work_6.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 1699, compareAtPrice: 3398, inventory: 2 },
-      { size: 'Large', price: 1699, compareAtPrice: 3398, inventory: 2 },
-      { size: 'XL', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'Medium', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Large', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -542,8 +542,8 @@
     description: 'Elevate your style with this elegant Beige Coord Set, the perfect blend of sophistication and comfort. Crafted from premium, breathable fabric, this suit is designed for a sleek, modern fit that flatters all body types. Ideal for both work and casual outings, the neutral beige color effortlessly com...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 1499,
-    compareAtPrice: 2998,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -555,10 +555,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978247/manroz/products/beige-coord-set/beige-coord-set_6.jpg'
     ],
     variants: [
-      { size: 'Small', price: 1499, compareAtPrice: 2998, inventory: 4 },
-      { size: 'Medium', price: 1499, compareAtPrice: 2998, inventory: 4 },
-      { size: 'Large', price: 1499, compareAtPrice: 2998, inventory: 4 },
-      { size: 'XL', price: 1499, compareAtPrice: 2998, inventory: 4 },
+      { size: 'Small', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'Medium', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'Large', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 4 },
     ],
   },
   {
@@ -568,8 +568,8 @@
     description: 'This Red Coord Set with leaf cut design offers a stylish and contemporary look, perfect for any occasion. Crafted with premium fabric, the set features a vibrant red hue and intricate leaf cut details that add a touch of elegance. Ideal for casual or semi-formal events, this suit ensures comfort and...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 2099,
-    compareAtPrice: 4198,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -579,10 +579,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978253/manroz/products/red-coord-set-with-leaf-cut/red-coord-set-with-leaf-cut_4.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 2099, compareAtPrice: 4198, inventory: 2 },
-      { size: 'Large', price: 2099, compareAtPrice: 4198, inventory: 2 },
-      { size: 'XL', price: 2099, compareAtPrice: 4198, inventory: 2 },
-      { size: 'XXL', price: 2099, compareAtPrice: 4198, inventory: 2 },
+      { size: 'Medium', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Large', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XXL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -592,8 +592,8 @@
     description: 'This White Coord Set with Black Lining offers a stylish and sophisticated look perfect for any occasion. Featuring a sleek white design with bold black accents, it combines comfort and fashion effortlessly. The tailored fit ensures a flattering silhouette, making it ideal for both casual and semi-fo...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 1599,
-    compareAtPrice: 3198,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -606,10 +606,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978267/manroz/products/white-coord-set-with-black-lining/white-coord-set-with-black-lining_7.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 1599, compareAtPrice: 3198, inventory: 2 },
-      { size: 'Large', price: 1599, compareAtPrice: 3198, inventory: 2 },
-      { size: 'XL', price: 1599, compareAtPrice: 3198, inventory: 2 },
-      { size: 'XXL', price: 1599, compareAtPrice: 3198, inventory: 2 },
+      { size: 'Medium', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Large', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XXL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -619,8 +619,8 @@
     description: 'This Maroon Golden Coord Set offers a stunning blend of elegance and sophistication. The rich maroon fabric paired with golden accents creates a timeless look perfect for any formal or festive occasion. The set includes a tailored top and matching bottoms, ensuring a flattering fit. Ideal for those ...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 1549,
-    compareAtPrice: 3098,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -632,10 +632,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978278/manroz/products/maroon-golden-coord-set/maroon-golden-coord-set_6.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 1549, compareAtPrice: 3098, inventory: 2 },
-      { size: 'Large', price: 1549, compareAtPrice: 3098, inventory: 2 },
-      { size: 'XL', price: 1549, compareAtPrice: 3098, inventory: 2 },
-      { size: 'XXL', price: 1549, compareAtPrice: 3098, inventory: 2 },
+      { size: 'Medium', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Large', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XXL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -645,8 +645,8 @@
     description: 'This Light Blue Coord Set is a perfect blend of style and comfort. Crafted with high-quality fabric, it offers a sleek and modern look for any occasion. Whether for a casual day out or a more polished look, this coord set provides versatile styling options. The light blue color adds a fresh touch to...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 1699,
-    compareAtPrice: 3398,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -658,10 +658,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978289/manroz/products/light-blue-coord-set/light-blue-coord-set_6.jpg'
     ],
     variants: [
-      { size: 'Small', price: 1699, compareAtPrice: 3398, inventory: 2 },
-      { size: 'Medium', price: 1699, compareAtPrice: 3398, inventory: 2 },
-      { size: 'Large', price: 1699, compareAtPrice: 3398, inventory: 2 },
-      { size: 'XL', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'Small', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Medium', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Large', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -671,8 +671,8 @@
     description: 'This White Coord Set with Black Thread Flowers offers a perfect blend of elegance and modern style. The intricate black thread floral detailing on the white fabric creates a stunning contrast, making it an ideal choice for any occasion. Crafted with premium materials, this coord set provides comfort...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 1499,
-    compareAtPrice: 2998,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -687,10 +687,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978306/manroz/products/white-coord-set-with-black-thread-flowers/white-coord-set-with-black-thread-flowers_9.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 1499, compareAtPrice: 2998, inventory: 2 },
-      { size: 'Large', price: 1499, compareAtPrice: 2998, inventory: 2 },
-      { size: 'XL', price: 1499, compareAtPrice: 2998, inventory: 2 },
-      { size: 'XXL', price: 1499, compareAtPrice: 2998, inventory: 2 },
+      { size: 'Medium', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Large', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XXL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -700,8 +700,8 @@
     description: 'This white and black coord set offers a sleek, modern look with a timeless appeal. Crafted from high-quality fabric, this suit is perfect for both professional and casual settings. The crisp white top pairs seamlessly with the bold black bottoms, creating a sophisticated contrast. Comfortable and ve...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 1999,
-    compareAtPrice: 3998,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -714,10 +714,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978319/manroz/products/white-black-coord-set/white-black-coord-set_7.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: 'Large', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: 'XXL', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'Medium', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Large', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XXL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -727,8 +727,8 @@
     description: 'The Green Coord Set is the perfect blend of style and comfort, offering a chic and modern look for any occasion. Made with high-quality materials, this suit features a tailored fit that enhances your silhouette. Whether for work or a casual outing, the Green Coord Set provides versatility and sophis...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 1849,
-    compareAtPrice: 3698,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -742,10 +742,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978333/manroz/products/green-coord-set/green-coord-set_8.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 1849, compareAtPrice: 3698, inventory: 2 },
-      { size: 'Large', price: 1849, compareAtPrice: 3698, inventory: 2 },
-      { size: 'XL', price: 1849, compareAtPrice: 3698, inventory: 2 },
-      { size: 'XXL', price: 1849, compareAtPrice: 3698, inventory: 2 },
+      { size: 'Medium', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Large', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XXL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -755,8 +755,8 @@
     description: 'This Black and White Neck Coord Set offers a sleek and stylish look for any occasion. The contrasting colors and modern design make it a versatile addition to your wardrobe. Perfect for both casual and semi-formal events, this set provides comfort and fashion in one. Made with high-quality fabric, i...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 2049,
-    compareAtPrice: 4098,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -768,10 +768,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978343/manroz/products/black-white-neck-coord-set/black-white-neck-coord-set_6.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 2049, compareAtPrice: 4098, inventory: 2 },
-      { size: 'Large', price: 2049, compareAtPrice: 4098, inventory: 2 },
-      { size: 'XL', price: 2049, compareAtPrice: 4098, inventory: 2 },
-      { size: 'XXL', price: 20490, compareAtPrice: 40980, inventory: 2 },
+      { size: 'Medium', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Large', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XXL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -781,8 +781,8 @@
     description: 'The Red Print Coord Set is a stylish and versatile outfit perfect for any occasion. Featuring a vibrant red print design, this suit offers a flattering fit and a modern look. Ideal for both casual and semi-formal events, the set includes a coordinated top and bottom, ensuring comfort and elegance. M...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 2099,
-    compareAtPrice: 4198,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -793,10 +793,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978352/manroz/products/red-print-coord-set/red-print-coord-set_5.jpg'
     ],
     variants: [
-      { size: 'Small', price: 2099, compareAtPrice: 4198, inventory: 2 },
-      { size: 'Medium', price: 2099, compareAtPrice: 4198, inventory: 2 },
-      { size: 'Large', price: 2099, compareAtPrice: 4198, inventory: 2 },
-      { size: 'XL', price: 2099, compareAtPrice: 4198, inventory: 2 },
+      { size: 'Small', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Medium', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Large', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -806,8 +806,8 @@
     description: 'The Purple Embroidered Coord Set offers a perfect blend of elegance and comfort. Crafted with intricate embroidery, this set features a stylish purple top and matching bottoms, designed to make a statement at any occasion. Ideal for casual outings or evening events, this versatile coord set combines...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 3000,
-    compareAtPrice: 6000,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -820,10 +820,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978363/manroz/products/purple-emborided-coord-set/purple-emborided-coord-set_7.jpg'
     ],
     variants: [
-      { size: 'Medium', price: 3000, compareAtPrice: 6000, inventory: 2 },
-      { size: 'Large', price: 3000, compareAtPrice: 6000, inventory: 2 },
-      { size: 'XL', price: 3000, compareAtPrice: 6000, inventory: 2 },
-      { size: 'XXL', price: 3000, compareAtPrice: 6000, inventory: 2 },
+      { size: 'Medium', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'Large', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XXL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -833,8 +833,8 @@
     description: 'Introducing the Wine Embroidered Cord Set, a sophisticated and stylish addition to your wardrobe. Crafted with intricate embroidery, this set features a rich wine color that adds depth and elegance to any occasion. Perfect for both casual and semi-formal events, it provides comfort and timeless appe...',
     type: '',
     category: 'Coord Set',
-    basePrice: 1749,
-    compareAtPrice: 3498,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -845,9 +845,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978372/manroz/products/wine-embroided-cord-set/wine-embroided-cord-set_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -857,8 +857,8 @@
     description: 'This White with Blue Flowers A-Line Kurti is a perfect blend of elegance and comfort. Crafted from high-quality fabric, it features a stunning floral design that adds a touch of freshness to your wardrobe. The A-line silhouette ensures a flattering fit for all body types, making it ideal for both ca...',
     type: '',
     category: 'Coord Set',
-    basePrice: 1199,
-    compareAtPrice: 2398,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -869,10 +869,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978380/manroz/products/white-with-blue-flowers-a-line-kurti/white-with-blue-flowers-a-line-kurti_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1199, compareAtPrice: 2398, inventory: 0 },
-      { size: 'M', price: 1199, compareAtPrice: 2398, inventory: 0 },
-      { size: 'L', price: 1199, compareAtPrice: 2398, inventory: 0 },
-      { size: 'XL', price: 1199, compareAtPrice: 2398, inventory: 0 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 0 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 0 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 0 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 0 },
     ],
   },
   {
@@ -905,8 +905,8 @@
     description: 'This White Gotta Patti Suit is the perfect blend of elegance and traditional craftsmanship. Featuring intricate **gotta patti work** on the fabric, this suit adds a touch of sophistication to any occasion. Ideal for weddings, festivals, or celebrations, its delicate design ensures you stand out with...',
     type: '',
     category: 'Suit',
-    basePrice: 4200,
-    compareAtPrice: 8400,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -920,7 +920,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978401/manroz/products/white-gotta-patti-suit/white-gotta-patti-suit_8.jpg'
     ],
     variants: [
-      { size: '2XL', price: 4200, compareAtPrice: 8400, inventory: 0 },
+      { size: '2XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -930,8 +930,8 @@
     description: 'This Turquoise Blue Muslin Suit features a beautiful floral neckline design, offering a blend of elegance and comfort. Crafted from high-quality muslin fabric, this suit ensures a soft, breathable feel for all-day wear. Perfect for both casual and semi-formal occasions, the intricate floral detailin...',
     type: '',
     category: 'Suit',
-    basePrice: 4500,
-    compareAtPrice: 9000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -942,10 +942,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978411/manroz/products/turqoise-blue-muslin-suit-with-flower-neckline/turqoise-blue-muslin-suit-with-flower-neckline_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 4500, compareAtPrice: 9000, inventory: 0 },
-      { size: 'M', price: 4500, compareAtPrice: 9000, inventory: 0 },
-      { size: 'L', price: 4500, compareAtPrice: 9000, inventory: 0 },
-      { size: 'XL', price: 4500, compareAtPrice: 9000, inventory: 0 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -955,8 +955,8 @@
     description: 'The Skyblue Block Print Cotton Suit offers a perfect blend of comfort and style. Crafted from soft cotton fabric, this suit features intricate block print patterns in a soothing sky-blue hue. Ideal for casual outings or festive occasions, its breathable material ensures all-day comfort. A must-have ...',
     type: '',
     category: 'Suit',
-    basePrice: 1999,
-    compareAtPrice: 3998,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -967,11 +967,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978419/manroz/products/skyblue-block-print-cotton-suit/skyblue-block-print-cotton-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 0 },
-      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 0 },
-      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 0 },
-      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 0 },
-      { size: '2XL', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: '2XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -981,8 +981,8 @@
     description: 'The Sky Blue Flower Suit is a perfect blend of elegance and comfort. Crafted with premium fabric, this suit features intricate floral patterns in soft sky blue hues, making it ideal for any occasion. Whether it s a casual gathering or a special event, this suit offers a flattering fit and timeless s...',
     type: '',
     category: 'Suit',
-    basePrice: 4400,
-    compareAtPrice: 8800,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -993,8 +993,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978426/manroz/products/sky-blue-flower-suit/sky-blue-flower-suit_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 4400, compareAtPrice: 8800, inventory: 0 },
-      { size: 'XL', price: 4400, compareAtPrice: 8800, inventory: 0 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -1004,8 +1004,8 @@
     description: 'The Sea Breeze V-Neckline Muslin Suit is a perfect blend of style and comfort. Made from high-quality muslin fabric, this suit features a flattering V-neckline design that enhances your silhouette. Ideal for both casual and semi-formal occasions, it offers a light, breathable feel, ensuring you stay...',
     type: '',
     category: 'Suit',
-    basePrice: 3000,
-    compareAtPrice: 6000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -1015,10 +1015,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978432/manroz/products/sea-breeze-v-neckline-muslin-suit/sea-breeze-v-neckline-muslin-suit_4.jpg'
     ],
     variants: [
-      { size: 'S', price: 3000, compareAtPrice: 6000, inventory: 0 },
-      { size: 'M', price: 3000, compareAtPrice: 6000, inventory: 0 },
-      { size: 'L', price: 3000, compareAtPrice: 6000, inventory: 0 },
-      { size: 'XL', price: 3000, compareAtPrice: 6000, inventory: 0 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -1028,8 +1028,8 @@
     description: 'This Royal Blue Cotton Floral Suit offers a perfect blend of style and comfort. Crafted from soft cotton, it features intricate floral patterns and embroidered pockets for a unique touch. Ideal for casual outings or special occasions, this suit provides both elegance and ease. Its vibrant blue color...',
     type: '',
     category: 'Suit',
-    basePrice: 1999,
-    compareAtPrice: 3998,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -1037,11 +1037,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978435/manroz/products/royal-blue-cotton-floral-suit-with-emborided-pockets/royal-blue-cotton-floral-suit-with-emborided-pockets_2.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 0 },
-      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 0 },
-      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 0 },
-      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 0 },
-      { size: '2XL', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: '2XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -1051,8 +1051,8 @@
     description: 'The Red Leaf Flower Suit combines elegance and tradition in a stunning design. Crafted with high-quality fabric, this suit features intricate floral patterns in a vibrant red hue, perfect for any special occasion. Its comfortable fit and stylish look make it a timeless addition to your wardrobe. Ide...',
     type: '',
     category: 'Suit',
-    basePrice: 5650,
-    compareAtPrice: 11300,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -1065,9 +1065,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978447/manroz/products/red-leaf-flower-suit/red-leaf-flower-suit_7.jpg'
     ],
     variants: [
-      { size: 'M', price: 5650, compareAtPrice: 11300, inventory: 0 },
-      { size: 'XL', price: 5650, compareAtPrice: 11300, inventory: 0 },
-      { size: '2XL', price: 5650, compareAtPrice: 11300, inventory: 0 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: '2XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -1077,8 +1077,8 @@
     description: 'This stunning Red Chinon Suit features an elegant Gottapatti neckline, adding a touch of sophistication to your wardrobe. Made with premium chinon fabric, it offers both comfort and style. The intricate detailing on the neckline enhances its traditional appeal, making it perfect for festive occasion...',
     type: '',
     category: 'Suit',
-    basePrice: 3000,
-    compareAtPrice: 6000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -1089,9 +1089,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978454/manroz/products/red-chinon-suit-with-gottapatti-neck-line/red-chinon-suit-with-gottapatti-neck-line_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 3000, compareAtPrice: 6000, inventory: 0 },
-      { size: 'M', price: 3000, compareAtPrice: 6000, inventory: 0 },
-      { size: 'L', price: 3000, compareAtPrice: 6000, inventory: 0 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -1101,8 +1101,8 @@
     description: 'This Red A-Line Chinon Suit is perfect for any occasion, featuring a vibrant red color that adds a bold touch to your wardrobe. Crafted from premium Chinon fabric, it offers both comfort and style. The A-line silhouette provides a flattering fit, making it an ideal choice for festive events, parties...',
     type: '',
     category: 'Suit',
-    basePrice: 6000,
-    compareAtPrice: 12000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -1114,7 +1114,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978464/manroz/products/red-a-line-chinon-suit/red-a-line-chinon-suit_6.jpg'
     ],
     variants: [
-      { size: 'L', price: 6000, compareAtPrice: 12000, inventory: 0 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -1147,8 +1147,8 @@
     description: 'This Purple Cord Set with Golden Handwork is a perfect blend of elegance and tradition. Featuring intricate golden detailing, this suit set adds a touch of sophistication to any occasion. The rich purple cord fabric enhances its overall appeal, making it an ideal choice for festivals, weddings, and ...',
     type: '',
     category: 'Coord Set',
-    basePrice: 1749,
-    compareAtPrice: 3498,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -1159,10 +1159,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978481/manroz/products/purple-cord-set-with-golden-handwork/purple-cord-set-with-golden-handwork_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1749, compareAtPrice: 3498, inventory: 0 },
-      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 0 },
-      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 0 },
-      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 0 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 0 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 0 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 0 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 0 },
     ],
   },
   {
@@ -1172,8 +1172,8 @@
     description: 'This printed black cotton suit with an embroidered neck combines traditional design with modern comfort. Crafted from soft, breathable cotton, it offers a stylish and comfortable fit for any occasion. The intricate embroidery on the neckline adds a touch of elegance, making it perfect for both casua...',
     type: '',
     category: 'Suit',
-    basePrice: 1999,
-    compareAtPrice: 3998,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -1184,8 +1184,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978490/manroz/products/printed-black-cotton-suit-with-embroided-neck/printed-black-cotton-suit-with-embroided-neck_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 0 },
-      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -1218,8 +1218,8 @@
     description: 'This Pink with White Flower Cotton Kurti is the perfect blend of comfort and style. Made from soft, breathable cotton, it features a delicate white floral design that adds a touch of elegance. Ideal for casual outings or office wear, this kurti offers a flattering fit and timeless appeal. Perfect fo...',
     type: '',
     category: 'Coord Set',
-    basePrice: 1099,
-    compareAtPrice: 2198,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -1230,9 +1230,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978508/manroz/products/pink-with-white-flower-cotton-kurti/pink-with-white-flower-cotton-kurti_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1099, compareAtPrice: 2198, inventory: 0 },
-      { size: 'M', price: 1099, compareAtPrice: 2198, inventory: 0 },
-      { size: 'L', price: 1099, compareAtPrice: 2198, inventory: 0 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 0 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 0 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 0 },
     ],
   },
   {
@@ -1242,8 +1242,8 @@
     description: 'This Pink Fuchsia Floral Muslin Suit is the perfect blend of elegance and comfort. Crafted from soft muslin fabric, it features a stunning floral print in vibrant shades of pink, making it a standout choice for any occasion. Lightweight and breathable, this suit ensures a graceful fit and lasting st...',
     type: '',
     category: 'Suit',
-    basePrice: 1799,
-    compareAtPrice: 3598,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -1254,11 +1254,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978516/manroz/products/pink-fushia-pink-floral-muslin-suit/pink-fushia-pink-floral-muslin-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1799, compareAtPrice: 3598, inventory: 4 },
-      { size: 'M', price: 1799, compareAtPrice: 3598, inventory: 4 },
-      { size: 'L', price: 1799, compareAtPrice: 3598, inventory: 4 },
-      { size: 'XL', price: 1799, compareAtPrice: 3598, inventory: 4 },
-      { size: '2XL', price: 1799, compareAtPrice: 3598, inventory: 4 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: '2XL', price: 3499, compareAtPrice: 6998, inventory: 4 },
     ],
   },
   {
@@ -1268,8 +1268,8 @@
     description: 'This Pink Frock Cotton Suit offers a perfect blend of comfort and style, designed for all-day wear. Crafted from soft, breathable cotton fabric, this suit provides a light, airy feel while keeping you cool and stylish. Its vibrant pink color and frock-style design make it ideal for casual or semi-fo...',
     type: '',
     category: 'Suit',
-    basePrice: 1999,
-    compareAtPrice: 3998,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -1280,8 +1280,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978524/manroz/products/pink-frock-cotton-suit/pink-frock-cotton-suit_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 0 },
-      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -1291,8 +1291,8 @@
     description: 'This Pink Floral Georgette Suit combines elegance and comfort with its delicate floral print and lightweight georgette fabric. Perfect for any occasion, this suit offers a graceful look while ensuring a relaxed fit. The soft pink hues and intricate floral design make it a timeless addition to your w...',
     type: '',
     category: 'Suit',
-    basePrice: 5850,
-    compareAtPrice: 11700,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -1302,8 +1302,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978530/manroz/products/pink-floral-georgette-suit/pink-floral-georgette-suit_4.jpg'
     ],
     variants: [
-      { size: 'M', price: 5850, compareAtPrice: 11700, inventory: 0 },
-      { size: 'L', price: 5850, compareAtPrice: 11700, inventory: 0 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -1313,8 +1313,8 @@
     description: 'The Pink and Sky Blue Cotton Frock Suit is a perfect blend of comfort and style. Made from soft cotton fabric, this suit features a vibrant pink and sky blue color combination that adds a touch of elegance to your wardrobe. Ideal for casual outings and festive occasions, it offers a comfortable fit ...',
     type: '',
     category: 'Suit',
-    basePrice: 4200,
-    compareAtPrice: 8400,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -1325,8 +1325,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978538/manroz/products/pink-and-sky-blue-cotton-frock-suit/pink-and-sky-blue-cotton-frock-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 4200, compareAtPrice: 8400, inventory: 4 },
-      { size: 'XL', price: 4200, compareAtPrice: 8400, inventory: 4 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 4 },
     ],
   },
   {
@@ -1336,8 +1336,8 @@
     description: 'This Pink &amp; White Cord Set with Embroidered Pocket &amp; Collar combines style and comfort. Perfect for both casual and semi-formal occasions, the set features a soft cord fabric with delicate embroidery on the pocket and collar, adding a touch of elegance. Its versatile design makes it ideal fo...',
     type: 'Coord Set',
     category: 'Coord Set',
-    basePrice: 1749,
-    compareAtPrice: 3498,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -1348,10 +1348,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978546/manroz/products/pink-white-cord-set-with-embroided-pocket-collar/pink-white-cord-set-with-embroided-pocket-collar_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1749, compareAtPrice: 3498, inventory: 4 },
-      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 4 },
-      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 4 },
-      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 4 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 4 },
     ],
   },
   {
@@ -1361,8 +1361,8 @@
     description: 'The Pakistani Muslim Peacock Printed Blue Suit offers a stunning blend of traditional design and modern elegance. Crafted with intricate peacock prints, this suit features a rich blue color, perfect for special occasions. The high-quality fabric ensures comfort and durability, making it ideal for fe...',
     type: '',
     category: 'Suit',
-    basePrice: 5200,
-    compareAtPrice: 10400,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -1373,8 +1373,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978553/manroz/products/pakistani-muslin-peacock-printed-blue-suit/pakistani-muslin-peacock-printed-blue-suit_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 5200, compareAtPrice: 10400, inventory: 4 },
-      { size: 'L', price: 5200, compareAtPrice: 10400, inventory: 4 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 4 },
     ],
   },
   {
@@ -1384,8 +1384,8 @@
     description: 'This Pakistani Hot Pink Digital Print Muslin Suit offers a stunning blend of vibrant color and intricate design. Made from soft, breathable muslin fabric, it provides all-day comfort while maintaining a stylish look. The digital print adds a modern touch to traditional craftsmanship, making it perfe...',
     type: '',
     category: 'Suit',
-    basePrice: 5000,
-    compareAtPrice: 10000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -1396,8 +1396,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978566/manroz/products/pakistani-hot-pink-digital-print-muslin-suit/pakistani-hot-pink-digital-print-muslin-suit_5.jpg'
     ],
     variants: [
-      { size: 'L', price: 5000, compareAtPrice: 10000, inventory: 4 },
-      { size: '2XL', price: 5000, compareAtPrice: 10000, inventory: 4 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: '2XL', price: 3499, compareAtPrice: 6998, inventory: 4 },
     ],
   },
   {
@@ -1429,8 +1429,8 @@
     description: 'The Navy Blue Embroidery Coord Set offers a sophisticated and stylish look, featuring intricate embroidery details that enhance its elegant design. Perfect for formal occasions or adding a touch of refinement to your wardrobe, this set includes a tailored jacket and matching pants for a coordinated,...',
     type: '',
     category: 'Coord Set',
-    basePrice: 1999,
-    compareAtPrice: 3998,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -1441,10 +1441,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978582/manroz/products/navy-blue-embroidery-coord-set/navy-blue-embroidery-coord-set_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 4 },
-      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 4 },
-      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 4 },
-      { size: '2XL', price: 1999, compareAtPrice: 3998, inventory: 4 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: '2XL', price: 4999, compareAtPrice: 9998, inventory: 4 },
     ],
   },
   {
@@ -1454,8 +1454,8 @@
     description: 'This Navy Blue Embroidered Suit offers a sophisticated and timeless look, perfect for any special occasion. Crafted with premium fabric, it features intricate embroidery that adds a touch of elegance and charm. Ideal for weddings, parties, or formal events, this suit combines comfort and style. Enha...',
     type: '',
     category: 'Suit',
-    basePrice: 5200,
-    compareAtPrice: 10400,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -1466,10 +1466,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978589/manroz/products/navy-blue-embroider-suit/navy-blue-embroider-suit_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 5200, compareAtPrice: 10400, inventory: 4 },
-      { size: 'L', price: 5200, compareAtPrice: 10400, inventory: 4 },
-      { size: 'XL', price: 5200, compareAtPrice: 10400, inventory: 4 },
-      { size: '2XL', price: 5200, compareAtPrice: 10400, inventory: 4 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: '2XL', price: 3499, compareAtPrice: 6998, inventory: 4 },
     ],
   },
   {
@@ -1479,8 +1479,8 @@
     description: 'The Navy Blue Embroidered Cort Set is a stunning and sophisticated ensemble, perfect for any formal occasion. Crafted with intricate embroidery, this suit features a rich navy blue color, offering a blend of elegance and style. Made from premium fabric, it ensures comfort and a flattering fit, makin...',
     type: '',
     category: 'Coord Set',
-    basePrice: 1399,
-    compareAtPrice: 2798,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -1490,10 +1490,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978595/manroz/products/navy-blue-embroided-cort-set/navy-blue-embroided-cort-set_4.jpg'
     ],
     variants: [
-      { size: 'S', price: 1399, compareAtPrice: 2798, inventory: 4 },
-      { size: 'M', price: 1399, compareAtPrice: 2798, inventory: 4 },
-      { size: 'L', price: 1399, compareAtPrice: 2798, inventory: 4 },
-      { size: 'XL', price: 1399, compareAtPrice: 2798, inventory: 4 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 4 },
     ],
   },
   {
@@ -1503,8 +1503,8 @@
     description: 'This Navy Blue Digital Print Suit with Pearl Neck is a stunning combination of modern design and elegance. Featuring intricate digital prints and a sophisticated pearl neckline, it offers a perfect balance of style and comfort for any occasion. Ideal for both casual and formal wear, this suit brings...',
     type: '',
     category: 'Suit',
-    basePrice: 4500,
-    compareAtPrice: 9000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -1515,10 +1515,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978603/manroz/products/navy-blue-digital-print-suit-with-pearl-neck/navy-blue-digital-print-suit-with-pearl-neck_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 4500, compareAtPrice: 9000, inventory: 4 },
-      { size: 'M', price: 4500, compareAtPrice: 9000, inventory: 4 },
-      { size: 'L', price: 4500, compareAtPrice: 9000, inventory: 4 },
-      { size: 'XL', price: 4500, compareAtPrice: 9000, inventory: 4 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 4 },
     ],
   },
   {
@@ -1528,8 +1528,8 @@
     description: 'This Navy Blue Cotton Suit with Grey Flowers combines comfort and style, perfect for any occasion. Crafted from high-quality cotton, it offers a soft and breathable feel, ensuring all-day comfort. The elegant grey floral design adds a touch of sophistication to the deep navy hue, making it a versati...',
     type: '',
     category: 'Suit',
-    basePrice: 1999,
-    compareAtPrice: 3998,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -1540,11 +1540,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978611/manroz/products/navy-blue-cotton-suit-with-grey-flowers/navy-blue-cotton-suit-with-grey-flowers_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 4 },
-      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 4 },
-      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 4 },
-      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 4 },
-      { size: '2XL', price: 1999, compareAtPrice: 3998, inventory: 4 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: '2XL', price: 3499, compareAtPrice: 6998, inventory: 4 },
     ],
   },
   {
@@ -1554,8 +1554,8 @@
     description: 'This Navy Blue Cotton Flower Leaf Print Suit is a perfect blend of elegance and comfort. Crafted from soft, breathable cotton fabric, it features a stunning floral and leaf print that adds a touch of nature-inspired beauty. Ideal for casual or semi-formal occasions, this suit offers a flattering fit...',
     type: '',
     category: 'Suit',
-    basePrice: 1999,
-    compareAtPrice: 3998,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -1566,9 +1566,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978619/manroz/products/navy-blue-cotton-flower-leaf-print-suit/navy-blue-cotton-flower-leaf-print-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 4 },
-      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 4 },
-      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 4 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 4 },
     ],
   },
   {
@@ -1578,8 +1578,8 @@
     description: 'This Mustard Organza Suit offers a perfect blend of elegance and comfort. Crafted from premium organza fabric, it features a soft, lightweight texture with a beautiful sheen. Ideal for special occasions, this suit enhances your wardrobe with its sophisticated color and delicate design. Whether you r...',
     type: '',
     category: 'Suit',
-    basePrice: 5200,
-    compareAtPrice: 10400,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -1592,10 +1592,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978629/manroz/products/mustard-organza-suit/mustard-organza-suit_7.jpg'
     ],
     variants: [
-      { size: 'M', price: 5200, compareAtPrice: 10400, inventory: 4 },
-      { size: 'L', price: 5200, compareAtPrice: 10400, inventory: 4 },
-      { size: 'XL', price: 5200, compareAtPrice: 10400, inventory: 4 },
-      { size: '2XL', price: 5200, compareAtPrice: 10400, inventory: 4 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: '2XL', price: 3499, compareAtPrice: 6998, inventory: 4 },
     ],
   },
   {
@@ -1605,8 +1605,8 @@
     description: 'The Mehndi Floral A-line Frock Suit is a perfect blend of elegance and tradition. Featuring intricate floral embroidery on a beautifully designed A-line frock, this suit offers a flattering fit for all body types. Ideal for festive occasions, it combines style with comfort, making it a must-have for...',
     type: '',
     category: 'Suit',
-    basePrice: 6000,
-    compareAtPrice: 12000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -1618,7 +1618,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978640/manroz/products/mehndi-foral-a-line-frock-suit/mehndi-foral-a-line-frock-suit_6.jpg'
     ],
     variants: [
-      { size: 'L', price: 6000, compareAtPrice: 12000, inventory: 0 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -1651,8 +1651,8 @@
     description: 'This Magenta Pink Floral Georgette Suit is a stunning combination of style and comfort. Crafted from soft georgette fabric, it features a vibrant magenta pink hue with delicate floral prints, perfect for both casual and festive occasions. The breathable fabric ensures all-day comfort, while the flat...',
     type: '',
     category: 'Suit',
-    basePrice: 4500,
-    compareAtPrice: 9000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -1663,10 +1663,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978657/manroz/products/magenta-pink-floral-georgette-suit/magenta-pink-floral-georgette-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 4500, compareAtPrice: 9000, inventory: 0 },
-      { size: 'M', price: 4500, compareAtPrice: 9000, inventory: 0 },
-      { size: 'L', price: 4500, compareAtPrice: 9000, inventory: 0 },
-      { size: 'XL', price: 4500, compareAtPrice: 9000, inventory: 0 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -1676,8 +1676,8 @@
     description: 'The Magenta Frock Suit is a stunning blend of elegance and modern design, perfect for any occasion. Crafted with high-quality fabric, this suit features a flattering silhouette and intricate detailing. Its vibrant magenta color adds a bold touch, while the comfortable fit ensures you feel as good as...',
     type: '',
     category: 'Suit',
-    basePrice: 6000,
-    compareAtPrice: 12000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -1690,8 +1690,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978669/manroz/products/magenta-frock-suit/magenta-frock-suit_7.jpg'
     ],
     variants: [
-      { size: 'M', price: 6000, compareAtPrice: 12000, inventory: 0 },
-      { size: 'XL', price: 6000, compareAtPrice: 12000, inventory: 0 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -1701,8 +1701,8 @@
     description: 'The Magenta Collar Cord Set is a stylish and versatile accessory, designed to complement any formal or casual outfit. Crafted with attention to detail, this cord set adds a touch of sophistication with its rich magenta color. Ideal for professional settings or special occasions, it ensures a polishe...',
     type: '',
     category: 'Coord Set',
-    basePrice: 1799,
-    compareAtPrice: 3598,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -1710,10 +1710,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978673/manroz/products/magenta-collar-cord-set/magenta-collar-cord-set_2.jpg'
     ],
     variants: [
-      { size: 'M', price: 1799, compareAtPrice: 3598, inventory: 2 },
-      { size: 'L', price: 1799, compareAtPrice: 3598, inventory: 2 },
-      { size: 'XL', price: 1799, compareAtPrice: 3598, inventory: 2 },
-      { size: '2XL', price: 1799, compareAtPrice: 3598, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: '2XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -1723,8 +1723,8 @@
     description: 'This Lavander Pearl Embroidery with Afghani Cord Set is a stunning choice for any occasion. Featuring intricate pearl embroidery and a beautifully crafted Afghani cord, this suit combines elegance with traditional charm. Its soft lavender color adds a graceful touch to your wardrobe, making it perfe...',
     type: '',
     category: 'Coord Set',
-    basePrice: 1499,
-    compareAtPrice: 2998,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -1735,10 +1735,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978681/manroz/products/lavander-pearl-embroidery-with-afghani-cord-set/lavander-pearl-embroidery-with-afghani-cord-set_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1499, compareAtPrice: 2998, inventory: 2 },
-      { size: 'M', price: 1499, compareAtPrice: 2998, inventory: 2 },
-      { size: 'L', price: 1499, compareAtPrice: 2998, inventory: 2 },
-      { size: 'XL', price: 1499, compareAtPrice: 2998, inventory: 2 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -1748,8 +1748,8 @@
     description: 'This Hot Pink Plazo Set with Jacket is a stunning addition to your wardrobe, offering a perfect blend of style and comfort. The vibrant hot pink color makes a bold statement, while the jacket adds a touch of elegance. Ideal for any occasion, this set provides a flattering fit and ensures you stand o...',
     type: '',
     category: 'Coord Set',
-    basePrice: 12000,
-    compareAtPrice: 24000,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: true,
     images: [
@@ -1760,7 +1760,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978688/manroz/products/hot-pink-plazo-set-with-jacket/hot-pink-plazo-set-with-jacket_5.jpg'
     ],
     variants: [
-      { size: 'XL', price: 12000, compareAtPrice: 24000, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -1770,8 +1770,8 @@
     description: 'This Hot Pink Cotton Suit offers a perfect blend of style and comfort. Made from high-quality cotton, it provides breathability and softness, making it ideal for all-day wear. Its vibrant hot pink color adds a bold statement to your wardrobe, perfect for casual or festive occasions. The suit’s light...',
     type: '',
     category: 'Suit',
-    basePrice: 1699,
-    compareAtPrice: 3398,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -1781,11 +1781,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978694/manroz/products/hot-pink-cotton-suit/hot-pink-cotton-suit_4.jpg'
     ],
     variants: [
-      { size: 'S', price: 1699, compareAtPrice: 3398, inventory: 2 },
-      { size: 'M', price: 1699, compareAtPrice: 3398, inventory: 2 },
-      { size: 'L', price: 1699, compareAtPrice: 3398, inventory: 2 },
-      { size: 'XL', price: 1699, compareAtPrice: 3398, inventory: 2 },
-      { size: '2XL', price: 1699, compareAtPrice: 3398, inventory: 2 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: '2XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
     ],
   },
   {
@@ -1795,8 +1795,8 @@
     description: 'This Handwork on Neckline &amp; Pocket Multicolored Cord Set is a perfect blend of traditional craftsmanship and modern design. Featuring intricate handwork on the neckline and pockets, this set offers a unique, stylish look for any occasion. Made with premium cord fabric, it provides comfort and du...',
     type: '',
     category: 'Coord Set',
-    basePrice: 1749,
-    compareAtPrice: 3498,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -1807,10 +1807,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978702/manroz/products/handwork-on-neckline-pocket-multicolored-cord-set/handwork-on-neckline-pocket-multicolored-cord-set_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -1842,8 +1842,8 @@
     description: 'This Haldi Cord Set with Golden Handwork is a stunning traditional ensemble, perfect for special occasions. The elegant design features intricate golden handwork on a rich fabric, adding a touch of luxury to your wardrobe. Ideal for weddings, festivals, or cultural events, this suit set combines sop...',
     type: '',
     category: 'Coord Set',
-    basePrice: 1749,
-    compareAtPrice: 3498,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -1854,9 +1854,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978717/manroz/products/haldi-cord-set-with-golden-handwork/haldi-cord-set-with-golden-handwork_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -1866,8 +1866,8 @@
     description: 'This Greyish Blue Cord Set with intricate full handwork is the perfect blend of sophistication and elegance. Crafted with attention to detail, this set features exquisite hand embroidery that adds a luxurious touch to your wardrobe. Ideal for special occasions or festive events, it offers both style...',
     type: '',
     category: 'Coord Set',
-    basePrice: 1749,
-    compareAtPrice: 3498,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -1878,10 +1878,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978724/manroz/products/greyish-blue-cord-set-with-full-handwork/greyish-blue-cord-set-with-full-handwork_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -1891,8 +1891,8 @@
     description: 'This Grey Cotton Suit with Blue Flowers combines elegance and comfort, making it perfect for both casual and semi-formal occasions. Crafted from soft, breathable cotton, it features a subtle grey hue adorned with vibrant blue floral patterns. Its versatile design ensures a stylish yet comfortable fi...',
     type: '',
     category: 'Suit',
-    basePrice: 1999,
-    compareAtPrice: 3998,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -1903,11 +1903,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978733/manroz/products/grey-cotton-suit-with-blue-flowers/grey-cotton-suit-with-blue-flowers_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: '2XL', price: 1999, compareAtPrice: 3998, inventory: 2 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: '2XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
     ],
   },
   {
@@ -1917,8 +1917,8 @@
     description: 'This Greenish Blue Kadhai Suit offers a perfect blend of traditional craftsmanship and modern style. Designed with intricate Kadhai embroidery, this suit is ideal for festive occasions or casual gatherings. The soothing greenish-blue shade adds a refreshing touch to your wardrobe, while the comforta...',
     type: '',
     category: 'Suit',
-    basePrice: 5000,
-    compareAtPrice: 10000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -1930,8 +1930,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978742/manroz/products/greenish-blue-kadhai-suit/greenish-blue-kadhai-suit_6.jpg'
     ],
     variants: [
-      { size: 'M', price: 5000, compareAtPrice: 10000, inventory: 2 },
-      { size: 'XL', price: 5000, compareAtPrice: 10000, inventory: 2 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
     ],
   },
   {
@@ -1941,8 +1941,8 @@
     description: 'This greenish-blue digital print suit is a perfect blend of modern style and traditional elegance. Adorned with delicate **pink pearl flowers**, it adds a touch of sophistication to any occasion. Made from premium fabric, this suit offers comfort and durability, making it ideal for both casual and f...',
     type: '',
     category: 'Suit',
-    basePrice: 4200,
-    compareAtPrice: 8400,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -1952,10 +1952,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978747/manroz/products/greenish-blue-digital-print-suit-with-pink-pearl-flowers/greenish-blue-digital-print-suit-with-pink-pearl-flowers_4.jpg'
     ],
     variants: [
-      { size: 'S', price: 4200, compareAtPrice: 8400, inventory: 2 },
-      { size: 'M', price: 4200, compareAtPrice: 8400, inventory: 3 },
-      { size: 'L', price: 4200, compareAtPrice: 8400, inventory: 2 },
-      { size: 'XL', price: 4200, compareAtPrice: 8400, inventory: 3 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 3 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 3 },
     ],
   },
   {
@@ -1965,8 +1965,8 @@
     description: 'This greenish-blue cord set features a beautifully embroidered neckline that adds a touch of elegance to your outfit. The stylish design is complemented by a convenient pocket, making it both functional and fashionable. Perfect for any occasion, this suit combines comfort and style, offering a versa...',
     type: '',
     category: 'Coord Set',
-    basePrice: 1749,
-    compareAtPrice: 3498,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -1977,10 +1977,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978756/manroz/products/greenish-blue-cord-set-with-embroided-neckline-a-pocket/greenish-blue-cord-set-with-embroided-neckline-a-pocket_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -1990,8 +1990,8 @@
     description: 'This Green With White Flower Cotton Kurti is a perfect blend of comfort and style. Made from soft, breathable cotton, it features a vibrant green color with delicate white floral patterns, ideal for everyday wear. The light fabric ensures all-day comfort, while the chic design makes it perfect for c...',
     type: '',
     category: 'Coord Set',
-    basePrice: 999,
-    compareAtPrice: 1998,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -2001,9 +2001,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978762/manroz/products/green-with-white-flower-cotton-kurti/green-with-white-flower-cotton-kurti_4.jpg'
     ],
     variants: [
-      { size: 'S', price: 999, compareAtPrice: 1998, inventory: 2 },
-      { size: 'M', price: 999, compareAtPrice: 1998, inventory: 3 },
-      { size: 'L', price: 999, compareAtPrice: 1998, inventory: 2 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 3 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -2013,8 +2013,8 @@
     description: 'The Gotapatti Suit in Turquoise Blue is a stunning blend of tradition and elegance. Crafted with intricate Gotapatti work, this suit features a vibrant turquoise blue color that exudes charm. Paired with a delicate tissue dupatta, it offers a graceful look perfect for festive occasions and celebrati...',
     type: '',
     category: 'Suit',
-    basePrice: 6000,
-    compareAtPrice: 12000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -2025,8 +2025,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978770/manroz/products/gotapatti-suit-turquoise-blue-with-tissue-dupatta/gotapatti-suit-turquoise-blue-with-tissue-dupatta_5.jpg'
     ],
     variants: [
-      { size: 'XL', price: 6000, compareAtPrice: 12000, inventory: 2 },
-      { size: '2XL', price: 6000, compareAtPrice: 12000, inventory: 2 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: '2XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
     ],
   },
   {
@@ -2036,8 +2036,8 @@
     description: 'This Georgette Handwork Bluish Grey Suit combines elegance with intricate craftsmanship. The delicate handwork on soft georgette fabric creates a timeless look, perfect for special occasions or evening gatherings. The subtle bluish-grey shade adds a sophisticated touch to your wardrobe, while the co...',
     type: '',
     category: 'Suit',
-    basePrice: 5000,
-    compareAtPrice: 10000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -2048,7 +2048,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978778/manroz/products/georgette-handwork-bluish-grey-suit/georgette-handwork-bluish-grey-suit_5.jpg'
     ],
     variants: [
-      { size: 'XL', price: 5000, compareAtPrice: 10000, inventory: 2 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
     ],
   },
   {
@@ -2058,8 +2058,8 @@
     description: 'The Embroidery Blue Collar Cord Set offers a stylish and comfortable solution for your wardrobe needs. Crafted with high-quality fabric, this suit features intricate embroidery details that add a touch of sophistication. Perfect for both formal and semi-formal occasions, the set provides a versatile...',
     type: 'Cord Set',
     category: 'Coord Set',
-    basePrice: 1749,
-    compareAtPrice: 3498,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -2072,10 +2072,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978790/manroz/products/embroidery-cream-collar-cord-set/embroidery-cream-collar-cord-set_7.jpg'
     ],
     variants: [
-      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: '2XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: '2XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -2085,8 +2085,8 @@
     description: 'The Embroidery Blue Collar Cord Set offers a stylish and comfortable solution for your wardrobe needs. Crafted with high-quality fabric, this suit features intricate embroidery details that add a touch of sophistication. Perfect for both formal and semi-formal occasions, the set provides a versatile...',
     type: '',
     category: 'Coord Set',
-    basePrice: 1749,
-    compareAtPrice: 3498,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -2097,10 +2097,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978797/manroz/products/embroidery-blue-collar-cord-set/embroidery-blue-collar-cord-set_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: '2XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: '2XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -2110,8 +2110,8 @@
     description: 'This Dark Green Cotton Cord Set offers a perfect blend of style and comfort. Made from high-quality cotton, it provides a soft, breathable feel ideal for everyday wear. Its rich dark green color adds a touch of sophistication, making it suitable for both casual and semi-formal occasions. Whether you...',
     type: '',
     category: 'Coord Set',
-    basePrice: 1199,
-    compareAtPrice: 2398,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -2122,10 +2122,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978804/manroz/products/dark-green-cotton-cord-set/dark-green-cotton-cord-set_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1199, compareAtPrice: 2398, inventory: 2 },
-      { size: 'M', price: 1199, compareAtPrice: 2398, inventory: 2 },
-      { size: 'L', price: 1199, compareAtPrice: 2398, inventory: 2 },
-      { size: 'XL', price: 1199, compareAtPrice: 2398, inventory: 2 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -2135,8 +2135,8 @@
     description: 'This Cream Pink Muslin Suit offers a perfect blend of elegance and comfort. Made from high-quality muslin fabric, it features a soft, breathable texture that ensures all-day wearability. The delicate cream and pink hues create a sophisticated look, ideal for any occasion. This suit is designed to pr...',
     type: '',
     category: 'Suit',
-    basePrice: 3000,
-    compareAtPrice: 6000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -2147,11 +2147,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978811/manroz/products/cream-pink-muslin-suit/cream-pink-muslin-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 3000, compareAtPrice: 6000, inventory: 2 },
-      { size: 'M', price: 3000, compareAtPrice: 6000, inventory: 2 },
-      { size: 'L', price: 3000, compareAtPrice: 6000, inventory: 2 },
-      { size: 'XL', price: 3000, compareAtPrice: 6000, inventory: 2 },
-      { size: '2XL', price: 3000, compareAtPrice: 6000, inventory: 2 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: '2XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
     ],
   },
   {
@@ -2161,8 +2161,8 @@
     description: 'This Cream &amp; Peach Floral Suit offers a delicate and stylish design, perfect for any special occasion. The soft cream base combined with vibrant peach floral patterns creates a timeless, elegant look. Crafted with high-quality fabric, this suit ensures comfort and a flattering fit. Ideal for for...',
     type: '',
     category: 'Suit',
-    basePrice: 2500,
-    compareAtPrice: 5000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -2173,10 +2173,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978819/manroz/products/cream-peach-floral-suit/cream-peach-floral-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 2500, compareAtPrice: 5000, inventory: 2 },
-      { size: 'M', price: 2500, compareAtPrice: 5000, inventory: 2 },
-      { size: 'L', price: 2500, compareAtPrice: 5000, inventory: 2 },
-      { size: 'XL', price: 2500, compareAtPrice: 5000, inventory: 2 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
     ],
   },
   {
@@ -2186,8 +2186,8 @@
     description: 'Add a vibrant touch to your wardrobe with the Chinnon Hot Pink Suit featuring beautiful orange leaves. This eye-catching combination is perfect for any occasion, blending traditional style with a modern twist. Made from high-quality Chinnon fabric, it offers comfort and elegance. The stunning hot pi...',
     type: '',
     category: 'Coord Set',
-    basePrice: 3800,
-    compareAtPrice: 7600,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -2198,8 +2198,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978827/manroz/products/chinnon-hot-pink-with-orange-leaves/chinnon-hot-pink-with-orange-leaves_5.jpg'
     ],
     variants: [
-      { size: 'XL', price: 3800, compareAtPrice: 7600, inventory: 2 },
-      { size: '2XL', price: 3800, compareAtPrice: 7600, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: '2XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -2209,8 +2209,8 @@
     description: 'The Cherry Red Frock Suit is a stunning blend of elegance and style, perfect for any special occasion. Made from high-quality fabric, this vibrant red frock suit offers a flattering fit and comfortable wear. Its intricate design and graceful silhouette make it a timeless addition to your wardrobe. W...',
     type: '',
     category: 'Suit',
-    basePrice: 6000,
-    compareAtPrice: 12000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -2221,7 +2221,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978834/manroz/products/cherry-red-frock-suit/cherry-red-frock-suit_5.jpg'
     ],
     variants: [
-      { size: 'XL', price: 6000, compareAtPrice: 12000, inventory: 0 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -2231,8 +2231,8 @@
     description: 'This cherry red cotton suit features an intricately designed mirror work neckline, adding a touch of elegance and traditional charm. Made from high-quality cotton, it offers comfort and breathability for all-day wear. Perfect for festive occasions or casual gatherings, this suit blends style and com...',
     type: '',
     category: 'Suit',
-    basePrice: 1499,
-    compareAtPrice: 2998,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -2243,10 +2243,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978842/manroz/products/cherry-red-cotton-suit-with-mirror-work-neckline/cherry-red-cotton-suit-with-mirror-work-neckline_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1499, compareAtPrice: 2998, inventory: 2 },
-      { size: 'M', price: 1499, compareAtPrice: 2998, inventory: 2 },
-      { size: 'L', price: 1499, compareAtPrice: 2998, inventory: 2 },
-      { size: 'XL', price: 1499, compareAtPrice: 2998, inventory: 2 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
     ],
   },
   {
@@ -2256,8 +2256,8 @@
     description: 'This Bottle Green Digital Print Muslin Suit is a perfect blend of elegance and comfort. Crafted from high-quality muslin fabric, it features intricate digital prints that add a modern touch to a timeless design. Ideal for both casual and formal occasions, this suit offers a soft feel and a flatterin...',
     type: '',
     category: 'Suit',
-    basePrice: 4500,
-    compareAtPrice: 9000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -2267,10 +2267,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978849/manroz/products/bottle-green-digital-print-muslin-suit/bottle-green-digital-print-muslin-suit_4.jpg'
     ],
     variants: [
-      { size: 'S', price: 4500, compareAtPrice: 9000, inventory: 2 },
-      { size: 'M', price: 4500, compareAtPrice: 9000, inventory: 2 },
-      { size: 'L', price: 4500, compareAtPrice: 9000, inventory: 2 },
-      { size: 'XL', price: 4500, compareAtPrice: 9000, inventory: 2 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
     ],
   },
   {
@@ -2280,8 +2280,8 @@
     description: 'The Blue Jaipuri A-Cut Shirt with Afghani &amp; Dupatta is a stunning ethnic wear ensemble perfect for any occasion. Crafted from high-quality fabric, the A-Cut shirt features intricate Jaipuri prints that add a royal touch to your look. Paired with a traditional Afghani and a beautifully designed D...',
     type: '',
     category: 'Coord Set',
-    basePrice: 2750,
-    compareAtPrice: 5500,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -2292,11 +2292,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978857/manroz/products/blue-jaipuri-a-cut-shirt-with-afghani-dupatta/blue-jaipuri-a-cut-shirt-with-afghani-dupatta_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 2750, compareAtPrice: 5500, inventory: 2 },
-      { size: 'M', price: 2750, compareAtPrice: 5500, inventory: 2 },
-      { size: 'L', price: 2750, compareAtPrice: 5500, inventory: 2 },
-      { size: 'XL', price: 2750, compareAtPrice: 5500, inventory: 2 },
-      { size: '2XL', price: 2750, compareAtPrice: 5500, inventory: 2 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: '2XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -2306,8 +2306,8 @@
     description: 'This Blue &amp; Golden Cord Set with Afghani is a stunning fusion of traditional elegance and contemporary style. The rich blue and golden cord design adds a luxurious touch to your wardrobe, while the Afghani accent complements its intricate craftsmanship. Perfect for special occasions, this set of...',
     type: '',
     category: 'Coord Set',
-    basePrice: 1749,
-    compareAtPrice: 3498,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -2318,9 +2318,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978864/manroz/products/blue-golden-cord-set-with-afghani/blue-golden-cord-set-with-afghani_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'L', price: 1749, compareAtPrice: 3498, inventory: 2 },
-      { size: 'XL', price: 1749, compareAtPrice: 3498, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -2330,8 +2330,8 @@
     description: 'This Black Work Suit with White Pants offers a sleek, professional look for any occasion. Designed for comfort and style, this suit features a sharp black jacket paired with crisp white pants, making it perfect for business meetings, corporate events, or formal gatherings. Crafted from high-quality ...',
     type: '',
     category: 'Suit',
-    basePrice: 5500,
-    compareAtPrice: 11000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -2342,8 +2342,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978872/manroz/products/black-work-suit-with-white-pants/black-work-suit-with-white-pants_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 5500, compareAtPrice: 11000, inventory: 2 },
-      { size: 'L', price: 5500, compareAtPrice: 11000, inventory: 2 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 2 },
     ],
   },
   {
@@ -2353,8 +2353,8 @@
     description: 'This Black with Golden Cotton Kurti combines elegance and comfort, perfect for both casual and festive occasions. Made from high-quality cotton, it ensures a soft feel while keeping you cool. The striking golden accents add a touch of sophistication, making it a versatile addition to your wardrobe. ...',
     type: '',
     category: 'Coord Set',
-    basePrice: 999,
-    compareAtPrice: 1998,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -2365,9 +2365,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978879/manroz/products/black-with-golden-cotton-kurti/black-with-golden-cotton-kurti_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 999, compareAtPrice: 1998, inventory: 2 },
-      { size: 'M', price: 999, compareAtPrice: 1998, inventory: 2 },
-      { size: 'L', price: 999, compareAtPrice: 1998, inventory: 2 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -2377,8 +2377,8 @@
     description: 'The Black Thread Cord Set is a versatile and stylish accessory, perfect for adding a refined touch to various fashion items. Made from high-quality materials, this cord set is durable and offers a sleek, modern look. Whether you re creating custom jewelry, DIY crafts, or enhancing your clothing, the...',
     type: '',
     category: 'Coord Set',
-    basePrice: 1299,
-    compareAtPrice: 2598,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -2389,10 +2389,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978886/manroz/products/black-thread-cord-set/black-thread-cord-set_5.jpg'
     ],
     variants: [
-      { size: 'M', price: 1299, compareAtPrice: 2598, inventory: 0 },
-      { size: 'L', price: 1299, compareAtPrice: 2598, inventory: 2 },
-      { size: 'XL', price: 1299, compareAtPrice: 2598, inventory: 2 },
-      { size: '2XL', price: 1299, compareAtPrice: 2598, inventory: 2 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 0 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: '2XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -2425,8 +2425,8 @@
     description: 'This Black Georgette Party Wear Dress is the perfect choice for any special occasion. Crafted from premium georgette fabric, it offers a comfortable and stylish fit. The sleek black design with intricate details ensures a sophisticated look, making it an ideal option for parties, weddings, or evenin...',
     type: '',
     category: 'Coord Set',
-    basePrice: 8500,
-    compareAtPrice: 17000,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: true,
     images: [
@@ -2437,7 +2437,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978904/manroz/products/black-georgette-party-wear-dress/black-georgette-party-wear-dress_5.jpg'
     ],
     variants: [
-      { size: 'L', price: 8500, compareAtPrice: 17000, inventory: 0 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 0 },
     ],
   },
   {
@@ -2447,8 +2447,8 @@
     description: 'This Black Cotton Kurta with Afgani is a perfect blend of traditional style and modern comfort. Crafted from high-quality cotton, it offers a soft and breathable fit, making it ideal for all-day wear. The elegant Afgani design adds a unique touch to your wardrobe, making it suitable for casual gathe...',
     type: 'Kurta',
     category: 'Coord Set',
-    basePrice: 1299,
-    compareAtPrice: 2598,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -2460,9 +2460,9 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978913/manroz/products/black-cotton-kurta-with-afgani/black-cotton-kurta-with-afgani_6.jpg'
     ],
     variants: [
-      { size: 'L', price: 1299, compareAtPrice: 2598, inventory: 2 },
-      { size: 'XL', price: 1299, compareAtPrice: 2598, inventory: 2 },
-      { size: '2XL', price: 1299, compareAtPrice: 2598, inventory: 2 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
+      { size: '2XL', price: 4999, compareAtPrice: 9998, inventory: 2 },
     ],
   },
   {
@@ -2472,8 +2472,8 @@
     description: 'Embrace timeless elegance with this Black &amp; White Jaipuri Print Cotton Suit. Crafted from premium-quality cotton, this suit offers both comfort and style, perfect for daily wear or casual outings. The intricate Jaipuri print showcases traditional craftsmanship, bringing a touch of heritage to yo...',
     type: 'Suit',
     category: 'Suit',
-    basePrice: 1999,
-    compareAtPrice: 3998,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -2484,10 +2484,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978920/manroz/products/black-white-jaipuri-print-cotton-suit/black-white-jaipuri-print-cotton-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 4 },
-      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 4 },
-      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 4 },
-      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 4 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 4 },
     ],
   },
   {
@@ -2497,8 +2497,8 @@
     description: 'Elevate your wardrobe with our Black &amp; White Cotton Cord Set, a perfect blend of comfort and style. Crafted from premium cotton, this suit offers a soft feel and breathability, making it ideal for any season. The sleek black and white design adds a timeless, modern touch, suitable for both casua...',
     type: 'Cord Set',
     category: 'Coord Set',
-    basePrice: 1099,
-    compareAtPrice: 2198,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -2509,11 +2509,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978928/manroz/products/black-white-cotton-cord-set/black-white-cotton-cord-set_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 1099, compareAtPrice: 2198, inventory: 4 },
-      { size: 'M', price: 1099, compareAtPrice: 2198, inventory: 4 },
-      { size: 'L', price: 1099, compareAtPrice: 2198, inventory: 4 },
-      { size: 'XL', price: 1099, compareAtPrice: 2198, inventory: 4 },
-      { size: '2XL', price: 1099, compareAtPrice: 2198, inventory: 4 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: '2XL', price: 4999, compareAtPrice: 9998, inventory: 4 },
     ],
   },
   {
@@ -2523,8 +2523,8 @@
     description: 'Discover elegance with our Black &amp; Red Georgette Frock Suit, a stunning blend of traditional charm and modern style. Crafted from premium georgette, this suit showcases a vibrant red frock paired with a sleek black overlay, adding a touch of sophistication to any occasion. Perfect for festive ga...',
     type: 'Suit',
     category: 'Suit',
-    basePrice: 4000,
-    compareAtPrice: 8000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -2535,10 +2535,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978935/manroz/products/black-red-georgette-frock-suit/black-red-georgette-frock-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 4000, compareAtPrice: 8000, inventory: 4 },
-      { size: 'M', price: 4000, compareAtPrice: 8000, inventory: 4 },
-      { size: 'L', price: 4000, compareAtPrice: 8000, inventory: 4 },
-      { size: 'XL', price: 4000, compareAtPrice: 8000, inventory: 4 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 4 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 4 },
     ],
   },
   {
@@ -2548,8 +2548,8 @@
     description: 'Elevate your style with our Black &amp; Brown Cotton Cord Set, a perfect blend of comfort and sophistication. Crafted from premium cotton, this suit set features a sleek black and earthy brown combination that adds a touch of elegance to any occasion. Ideal for both casual and formal settings, this ...',
     type: 'Cord Set',
     category: 'Coord Set',
-    basePrice: 999,
-    compareAtPrice: 1998,
+    basePrice: 4999,
+    compareAtPrice: 9998,
     status: 'active',
     featured: false,
     images: [
@@ -2560,11 +2560,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978943/manroz/products/black-brown-cotton-cord-set/black-brown-cotton-cord-set_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 999, compareAtPrice: 1998, inventory: 4 },
-      { size: 'M', price: 999, compareAtPrice: 1998, inventory: 4 },
-      { size: 'L', price: 999, compareAtPrice: 1998, inventory: 0 },
-      { size: 'XL', price: 999, compareAtPrice: 1998, inventory: 0 },
-      { size: '2XL', price: 999, compareAtPrice: 1998, inventory: 0 },
+      { size: 'S', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'M', price: 4999, compareAtPrice: 9998, inventory: 4 },
+      { size: 'L', price: 4999, compareAtPrice: 9998, inventory: 0 },
+      { size: 'XL', price: 4999, compareAtPrice: 9998, inventory: 0 },
+      { size: '2XL', price: 4999, compareAtPrice: 9998, inventory: 0 },
     ],
   },
   {
@@ -2574,8 +2574,8 @@
     description: 'Elegant and timeless, this Beige Gharara Suit with a Net Dupatta is perfect for any festive occasion. The rich beige gharara set is crafted with intricate detailing, offering a blend of tradition and style. Paired with a delicate net dupatta, it adds a graceful touch to your look. Ideal for weddings...',
     type: 'Suit',
     category: 'Suit',
-    basePrice: 6500,
-    compareAtPrice: 13000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -2588,7 +2588,7 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978953/manroz/products/beige-gharara-suit-with-net-dupatta/beige-gharara-suit-with-net-dupatta_7.jpg'
     ],
     variants: [
-      { size: 'XL', price: 6500, compareAtPrice: 13000, inventory: 0 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -2598,8 +2598,8 @@
     description: 'Elevate your style with the Barbie Pink Cotton Floral Suit, a perfect blend of elegance and comfort. Crafted from premium cotton, this suit features a delicate floral pattern in vibrant Barbie pink, adding a touch of femininity to any occasion. Ideal for both casual outings and festive events, it of...',
     type: 'Suit',
     category: 'Suit',
-    basePrice: 1999,
-    compareAtPrice: 3998,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: false,
     images: [
@@ -2610,11 +2610,11 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978959/manroz/products/barbie-pink-cotton-floral-suit/barbie-pink-cotton-floral-suit_4.jpg'
     ],
     variants: [
-      { size: 'S', price: 1999, compareAtPrice: 3998, inventory: 2 },
-      { size: 'M', price: 1999, compareAtPrice: 3998, inventory: 0 },
-      { size: 'L', price: 1999, compareAtPrice: 3998, inventory: 0 },
-      { size: 'XL', price: 1999, compareAtPrice: 3998, inventory: 0 },
-      { size: '2XL', price: 1999, compareAtPrice: 3998, inventory: 0 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: '2XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
   {
@@ -2624,8 +2624,8 @@
     description: 'Experience elegance with our Beige Embroidery Digital Print Muslin Suit, crafted from premium muslin fabric for a soft, luxurious feel. This suit features intricate embroidery paired with a stylish digital print, creating a perfect blend of tradition and modernity. Ideal for festive gatherings or fo...',
     type: 'Suit',
     category: 'Suit',
-    basePrice: 4500,
-    compareAtPrice: 9000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -2636,10 +2636,10 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978967/manroz/products/baige-embroidery-digital-print-muslin-suit/baige-embroidery-digital-print-muslin-suit_5.jpg'
     ],
     variants: [
-      { size: 'S', price: 4500, compareAtPrice: 9000, inventory: 2 },
-      { size: 'M', price: 4500, compareAtPrice: 9000, inventory: 2 },
-      { size: 'L', price: 4500, compareAtPrice: 9000, inventory: 2 },
-      { size: 'XL', price: 4500, compareAtPrice: 9000, inventory: 2 },
+      { size: 'S', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'L', price: 3499, compareAtPrice: 6998, inventory: 2 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 2 },
     ],
   },
   {
@@ -2649,8 +2649,8 @@
     description: 'The Anarkali Reddish Love Suit is a perfect blend of elegance and tradition, designed for those who adore timeless fashion. Crafted in a rich reddish hue, this Anarkali suit features intricate embroidery and flowing fabric that flatters every silhouette. Ideal for festive occasions or weddings, this...',
     type: 'Suit',
     category: 'Suit',
-    basePrice: 6000,
-    compareAtPrice: 12000,
+    basePrice: 3499,
+    compareAtPrice: 6998,
     status: 'active',
     featured: true,
     images: [
@@ -2661,8 +2661,8 @@
       'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978974/manroz/products/anarkali-reddish-love-suit/anarkali-reddish-love-suit_4.jpg'
     ],
     variants: [
-      { size: 'M', price: 6000, compareAtPrice: 12000, inventory: 0 },
-      { size: 'XL', price: 6000, compareAtPrice: 12000, inventory: 0 },
+      { size: 'M', price: 3499, compareAtPrice: 6998, inventory: 0 },
+      { size: 'XL', price: 3499, compareAtPrice: 6998, inventory: 0 },
     ],
   },
 ];
