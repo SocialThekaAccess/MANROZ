@@ -1,8 +1,6 @@
 import { createContext, useContext, useState, useEffect } from 'react';
 import axios from 'axios';
 
-const AuthContext = createContext();
-
 const API_URL = import.meta.env.VITE_API_URL || 'https://backend-gilt-three-74.vercel.app';
 axios.defaults.baseURL = API_URL;
 
@@ -13,50 +11,39 @@ export const AuthProvider = ({ children }) => {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    const stored = localStorage.getItem('manroz_user');
-    if (stored) {
-      try {
-        const parsed = JSON.parse(stored);
-        setUser(parsed);
-        axios.defaults.headers.common['Authorization'] = `Bearer ${parsed.token}`;
-      } catch {
-        localStorage.removeItem('manroz_user');
-      }
+    const storedUser = localStorage.getItem('manroz_user');
+    if (storedUser) {
+      setUser(JSON.parse(storedUser));
     }
     setLoading(false);
   }, []);
 
   const login = async (email, password) => {
-    const { data } = await axios.post('/api/auth/login', { email, password });
-    setUser(data);
-    localStorage.setItem('manroz_user', JSON.stringify(data));
-    axios.defaults.headers.common['Authorization'] = `Bearer ${data.token}`;
-    return data;
+    const res = await axios.post('/api/auth/login', { email, password });
+    const userData = res.data;
+    setUser(userData);
+    localStorage.setItem('manroz_user', JSON.stringify(userData));
+    return userData;
   };
 
   const register = async (name, email, password) => {
-    const { data } = await axios.post('/api/auth/register', { name, email, password });
-    setUser(data);
-    localStorage.setItem('manroz_user', JSON.stringify(data));
-    axios.defaults.headers.common['Authorization'] = `Bearer ${data.token}`;
-    return data;
+    const res = await axios.post('/api/auth/register', { name, email, password });
+    const userData = res.data;
+    setUser(userData);
+    localStorage.setItem('manroz_user', JSON.stringify(userData));
+    return userData;
   };
 
   const logout = () => {
     setUser(null);
     localStorage.removeItem('manroz_user');
-    delete axios.defaults.headers.common['Authorization'];
   };
 
   return (
-    <AuthContext.Provider value={{ user, loading, login, register, logout }}>
+    <AuthContext.Provider value={{ user, login, register, logout, loading }}>
       {children}
     </AuthContext.Provider>
   );
 };
 
-export const useAuth = () => {
-  const ctx = useContext(AuthContext);
-  if (!ctx) throw new Error('useAuth must be used within AuthProvider');
-  return ctx;
-};
+export const useAuth = () => useContext(AuthContext);
