@@ -1,8 +1,7 @@
 import { createContext, useContext, useState, useEffect } from 'react';
 import axios from 'axios';
 
-const API_URL = import.meta.env.VITE_API_URL || 'https://backend-gilt-three-74.vercel.app';
-axios.defaults.baseURL = API_URL;
+const API_URL = 'https://backend-gilt-three-74.vercel.app';
 
 const AuthContext = createContext();
 
@@ -19,7 +18,7 @@ export const AuthProvider = ({ children }) => {
   }, []);
 
   const login = async (email, password) => {
-    const res = await axios.post('/api/auth/login', { email, password });
+    const res = await axios.post(`${API_URL}/api/auth/login`, { email, password });
     const userData = res.data;
     setUser(userData);
     localStorage.setItem('manroz_user', JSON.stringify(userData));
@@ -27,7 +26,7 @@ export const AuthProvider = ({ children }) => {
   };
 
   const register = async (name, email, password) => {
-    const res = await axios.post('/api/auth/register', { name, email, password });
+    const res = await axios.post(`${API_URL}/api/auth/register`, { name, email, password });
     const userData = res.data;
     setUser(userData);
     localStorage.setItem('manroz_user', JSON.stringify(userData));
