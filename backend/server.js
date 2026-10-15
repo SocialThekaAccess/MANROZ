@@ -18,6 +18,16 @@ app.use(cors({
 }));
 app.use(express.json());
 
+// Middleware — ensure DB connected before any route (critical for Vercel serverless)
+app.use(async (req, res, next) => {
+  try {
+    await connectDB();
+    next();
+  } catch (err) {
+    res.status(500).json({ message: 'Database connection failed' });
+  }
+});
+
 // Routes
 app.use('/api/auth', authRoutes);
 

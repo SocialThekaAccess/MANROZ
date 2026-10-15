@@ -1,28 +1,24 @@
 import mongoose from 'mongoose';
-import dns from 'dns';
-
-dns.setServers(['8.8.8.8', '8.8.4.4', '1.1.1.1']);
-dns.setDefaultResultOrder('ipv4first');
 
 let isConnected = false;
 
 const connectDB = async () => {
-  if (isConnected) {
-    console.log('MongoDB already connected, reusing connection');
+  if (isConnected && mongoose.connection.readyState === 1) {
     return;
   }
 
   try {
     const conn = await mongoose.connect(process.env.MONGO_URI, {
-      serverSelectionTimeoutMS: 30000,
-      connectTimeoutMS: 30000,
-      socketTimeoutMS: 30000,
+      serverSelectionTimeoutMS: 8000,
+      connectTimeoutMS: 8000,
+      socketTimeoutMS: 8000,
     });
     isConnected = true;
     console.log(`MongoDB Connected: ${conn.connection.host}`);
   } catch (error) {
-    console.error(`MongoDB connection failed: ${error.message}`);
     isConnected = false;
+    console.error(`MongoDB connection failed: ${error.message}`);
+    throw error;
   }
 };
 
