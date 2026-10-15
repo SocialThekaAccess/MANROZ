@@ -15,6 +15,7 @@ import About from './pages/About';
 import Collections from './pages/Collections';
 import Contact from './pages/Contact';
 import Account from './pages/Account';
+import PrivacyPolicy from './pages/PrivacyPolicy';
 import './App.css';
 
 const App = () => {
@@ -39,6 +40,7 @@ const App = () => {
                 <Route path="/collections" element={<Collections />} />
                 <Route path="/contact" element={<Contact />} />
                 <Route path="/account" element={<Account />} />
+                <Route path="/privacy-policy" element={<PrivacyPolicy />} />
               </Routes>
             </div>
             <Footer />
