@@ -107,6 +107,8 @@ const CatCard = ({ cat }) => {
         ))}
         {/* Shimmer bar at bottom */}
         <div className="cat-card-shimmer" />
+        {/* Sale badge */}
+        <span className="cat-sale-tag">50% OFF</span>
       </div>
 
       {/* Content overlay */}
@@ -150,8 +152,9 @@ const Home = () => {
       {/* Categories — Redesigned */}
       <section className="cat-section">
         <div className="cat-header">
+          <div className="cat-sale-badge">🔥 MEGA SALE</div>
           <h2>Shop by Category</h2>
-          <p>Find your perfect style</p>
+          <p>Flat 50% Off on All Styles — Limited Time!</p>
         </div>
         <div className="cat-grid-new">
           {categoryData.map((cat) => (
@@ -212,7 +215,7 @@ const Home = () => {
 
         <div className="section-header">
           <h2>Featured Collection</h2>
-          <p>Handpicked pieces for you</p>
+          <p>🔥 Flat 50% Off — Handpicked pieces for you</p>
         </div>
         <div className="products-grid">
           {featured.map((p) => (

@@ -1,14 +1,16 @@
 import './HomeSection.css';
 
 const marqueeItems = [
-  { text: 'Flat 50% Off on Karwachauth', highlight: true },
+  { text: '🔥 MEGA SALE — Flat 50% Off Sitewide', highlight: true },
   { text: 'Free Shipping Above ₹2,000' },
+  { text: '50% OFF — Limited Time Only', highlight: true },
   { text: 'Easy 7-Day Returns' },
-  { text: 'Flat 50% Off on Karwachauth', highlight: true },
-  { text: 'Limited Stock — Shop Fast' },
+  { text: '🔥 MEGA SALE — Flat 50% Off Sitewide', highlight: true },
+  { text: 'Shop Now Before Stock Runs Out' },
+  { text: '50% OFF on All Products', highlight: true },
   { text: 'Premium Ethnic Wear by Manroz' },
-  { text: 'Flat 50% Off on Karwachauth', highlight: true },
-  { text: 'New Festive Collection is Live' },
+  { text: '🔥 MEGA SALE — Flat 50% Off Sitewide', highlight: true },
+  { text: 'New Festive Collection — 50% Off', highlight: true },
 ];
 
 const TopMarquee = () => {

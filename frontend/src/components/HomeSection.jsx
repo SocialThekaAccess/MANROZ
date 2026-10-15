@@ -2,14 +2,16 @@ import festiveBanner from '../assets/FestiveSeasonSale.png';
 import './HomeSection.css';
 
 const bottomItems = [
-  'Flat 50% Off — Karwachauth Sale is On',
-  'Shop Now & Save Big',
-  'Flat 50% Off — Karwachauth Sale is On',
-  'New Collection Dropped',
-  'Flat 50% Off — Karwachauth Sale is On',
+  '🔥 MEGA SALE — Flat 50% Off Everything',
   'Free Shipping on ₹2000+',
-  'Flat 50% Off — Karwachauth Sale is On',
-  'Exclusive Festive Styles',
+  '🔥 50% OFF — Shop Now',
+  'Limited Stock — Hurry Up!',
+  '🔥 MEGA SALE — Flat 50% Off Everything',
+  'Easy 7-Day Returns',
+  '🔥 50% OFF All Products',
+  'New Festive Collection is Live',
+  '🔥 MEGA SALE — Flat 50% Off Everything',
+  'Grab Your Favourite Before It\'s Gone',
 ];
 
 const HomeSection = () => {
