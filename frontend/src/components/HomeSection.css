@@ -14,7 +14,7 @@
 
 .hs-marquee-track {
   display: flex;
-  animation: hs-marquee-scroll 22s linear infinite;
+  animation: hs-marquee-scroll 50s linear infinite;
   white-space: nowrap;
   will-change: transform;
 }
