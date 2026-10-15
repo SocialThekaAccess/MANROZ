@@ -152,7 +152,7 @@ const Home = () => {
       {/* Categories — Redesigned */}
       <section className="cat-section">
         <div className="cat-header">
-          <div className="cat-sale-badge">🔥 MEGA SALE</div>
+          <div className="cat-sale-badge"><span>✦ MEGA SALE — FLAT 50% OFF ✦</span></div>
           <h2>Shop by Category</h2>
           <p>Flat 50% Off on All Styles — Limited Time!</p>
         </div>
