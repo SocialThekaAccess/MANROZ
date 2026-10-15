@@ -3008,3 +3008,22 @@ ul { list-style: none; }
 .user-dropdown-item:hover { background: #fdf5f7; color: #c0324e; }
 .user-dropdown-logout { color: #c0324e; font-weight: 600; }
 .user-dropdown-logout:hover { background: #fff0f3; }
+
+/* Navbar user name button */
+.navbar-user-name-btn {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: var(--black);
+  text-decoration: none;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 5px 2px;
+  transition: color 0.2s;
+  max-width: 80px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.navbar-user-name-btn:hover { color: #c0324e; }
+.navbar-user-name-btn svg { flex-shrink: 0; }
