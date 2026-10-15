@@ -1,0 +1,12 @@
+{
+  "name": "manroz-scripts",
+  "version": "1.0.0",
+  "description": "Migration scripts for MANROZ",
+  "main": "migrate-images.js",
+  "scripts": {
+    "migrate": "node migrate-images.js"
+  },
+  "dependencies": {
+    "cloudinary": "1.41.3"
+  }
+}
