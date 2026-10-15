@@ -17,6 +17,7 @@ import Contact from './pages/Contact';
 import Account from './pages/Account';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 import ShippingPolicy from './pages/ShippingPolicy';
+import ReturnPolicy from './pages/ReturnPolicy';
 import './App.css';
 
 const App = () => {
@@ -43,6 +44,7 @@ const App = () => {
                 <Route path="/account" element={<Account />} />
                 <Route path="/privacy-policy" element={<PrivacyPolicy />} />
                 <Route path="/shipping-policy" element={<ShippingPolicy />} />
+                <Route path="/return-policy" element={<ReturnPolicy />} />
               </Routes>
             </div>
             <Footer />
