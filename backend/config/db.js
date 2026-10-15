@@ -1,20 +1,29 @@
 import mongoose from 'mongoose';
 import dns from 'dns';
 
-// Force Google DNS for MongoDB SRV resolution
 dns.setServers(['8.8.8.8', '8.8.4.4', '1.1.1.1']);
 dns.setDefaultResultOrder('ipv4first');
 
+let isConnected = false;
+
 const connectDB = async () => {
+  if (isConnected) {
+    console.log('MongoDB already connected, reusing connection');
+    return;
+  }
+
   try {
     const conn = await mongoose.connect(process.env.MONGO_URI, {
-      serverSelectionTimeoutMS: 15000,
-      tlsAllowInvalidCertificates: process.env.NODE_ENV !== 'production',
+      serverSelectionTimeoutMS: 30000,
+      connectTimeoutMS: 30000,
+      socketTimeoutMS: 30000,
+      bufferCommands: false,
     });
+    isConnected = true;
     console.log(`MongoDB Connected: ${conn.connection.host}`);
   } catch (error) {
     console.error(`MongoDB connection failed: ${error.message}`);
-    console.error('Server will continue running but DB operations will fail.');
+    isConnected = false;
   }
 };
 
