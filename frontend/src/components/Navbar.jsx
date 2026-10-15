@@ -67,11 +67,9 @@ const Navbar = () => {
               <div className="user-menu">
                 <div className="user-dropdown-wrap">
                   <Link to="/account" className="navbar-user-name-btn" aria-label="Account">
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" width="18" height="18">
-                      <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2" />
-                      <circle cx="12" cy="7" r="4" />
-                    </svg>
-                    <span>{user.name?.split(' ')[0]}</span>
+                    <div className="navbar-avatar">
+                      {user.name?.split(' ').map(n => n[0]).join('').toUpperCase().slice(0, 2)}
+                    </div>
                   </Link>
                   <div className="user-dropdown">
                     <div className="user-dropdown-header">
