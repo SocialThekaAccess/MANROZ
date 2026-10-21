@@ -12,16 +12,16 @@ const NewCollection = () => {
         </div>
         <div className="nc-grid">
           <div className="nc-grid-tall">
-            <img src="https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0406.jpg?v=1746681350" alt="Collection 1" />
+            <img src="https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0406.jpg?v=1746681350" alt="Collection 1" loading="lazy" />
           </div>
           <div className="nc-grid-right">
-            <img src="https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0474.jpg?v=1746682016" alt="Collection 2" />
-            <img src="https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0504.jpg?v=1746682207" alt="Collection 3" />
+            <img src="https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0474.jpg?v=1746682016" alt="Collection 2" loading="lazy" />
+            <img src="https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0504.jpg?v=1746682207" alt="Collection 3" loading="lazy" />
           </div>
           <div className="nc-grid-bottom">
-            <img src="https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0310.jpg?v=1746680630" alt="Collection 4" />
+            <img src="https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0310.jpg?v=1746680630" alt="Collection 4" loading="lazy" />
             <div className="nc-grid-accent" />
-            <img src="https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0519.jpg?v=1746680500" alt="Collection 5" />
+            <img src="https://cdn.shopify.com/s/files/1/0628/5937/8730/files/029A0519.jpg?v=1746680500" alt="Collection 5" loading="lazy" />
           </div>
         </div>
         <div className="nc-side-label">N E W &nbsp; C O L L E C T I O N</div>

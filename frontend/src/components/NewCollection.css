@@ -66,10 +66,12 @@
   flex-direction: column;
   gap: 6px;
   overflow: hidden;
+  min-height: 0;
 }
 .nc-grid-right img {
   width: 100%;
-  flex: 1;
+  flex: 1 1 0;
+  min-height: 0;
   object-fit: cover;
   object-position: top;
   display: block;
@@ -123,6 +125,7 @@
 }
 .nc-tag {
   display: inline-block;
+  align-self: flex-start;
   font-size: 0.65rem;
   letter-spacing: 0.2em;
   font-weight: 600;
@@ -168,32 +171,84 @@
 .nc-btn:hover svg { transform: translateX(4px); }
 
 /* ===== RESPONSIVE ===== */
+
+/* Tablet */
 @media (max-width: 900px) {
-  .nc-split { grid-template-columns: 1fr; }
-  .nc-left { min-height: 460px; }
-  .nc-grid { min-height: 400px; }
-  .nc-right { padding: 40px 5%; }
+  .nc-split {
+    grid-template-columns: 1fr;
+    min-height: auto;
+    margin-bottom: 40px;
+  }
+  .nc-left { min-height: auto; }
+  .nc-heading-wrap { padding: 24px 20px 16px; }
+  .nc-grid {
+    grid-template-rows: 300px 200px;
+    flex: none;
+  }
+  .nc-side-label { display: none; }
+  .nc-right { padding: 40px 6%; }
+  .nc-desc { max-width: 100%; }
 }
 
+/* Mobile */
 @media (max-width: 560px) {
-  .nc-split { gap: 0; }
-  .nc-left { min-height: 320px; }
+  .nc-split { margin-bottom: 32px; }
+
+  .nc-heading-wrap { padding: 20px 16px 14px; }
+  .nc-heading { font-size: clamp(2rem, 10vw, 2.8rem); }
+
+  /* Upar: tall image + 2 stacked | Neeche: 2 images ki strip */
   .nc-grid {
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: 180px 180px;
-    min-height: 360px;
+    grid-template-rows: auto auto;
+    gap: 6px;
+    padding: 0 6px 6px;
+    flex: none;
   }
-  .nc-grid-tall { grid-row: span 2; }
-  .nc-grid-right img { height: 177px; }
-  .nc-grid-bottom { display: none; }
-  .nc-right { padding: 32px 5%; }
-  .nc-title { font-size: clamp(1.6rem, 6vw, 2.2rem); }
+
+  .nc-grid-tall {
+    grid-row: 1;
+    aspect-ratio: 3 / 4.4;
+  }
+
+  .nc-grid-right {
+    grid-row: 1;
+    height: 100%;
+  }
+  .nc-grid-right img {
+    flex: 1 1 0;
+    min-height: 0;
+    height: 0;
+  }
+
+  .nc-grid-bottom {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    display: flex;
+    height: 190px;
+  }
+  .nc-grid-bottom img {
+    width: auto;
+    flex: 1 1 0;
+    min-width: 0;
+    height: 100%;
+  }
+
+  .nc-right { padding: 28px 16px 8px; }
+  .nc-tag { font-size: 0.6rem; margin-bottom: 14px; }
+  .nc-title {
+    font-size: clamp(1.7rem, 7vw, 2.2rem);
+    margin-bottom: 14px;
+  }
   .nc-desc {
     font-size: 0.85rem;
-    display: -webkit-box;
-    -webkit-line-clamp: 4;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+    line-height: 1.7;
+    margin-bottom: 24px;
+    max-width: 100%;
   }
-  .nc-heading { font-size: clamp(2rem, 10vw, 3rem); }
+  .nc-btn {
+    padding: 13px 28px;
+    width: 100%;
+    justify-content: center;
+  }
 }
