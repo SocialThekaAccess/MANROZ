@@ -19,6 +19,7 @@ import PrivacyPolicy from './pages/PrivacyPolicy';
 import ShippingPolicy from './pages/ShippingPolicy';
 import ReturnPolicy from './pages/ReturnPolicy';
 import FAQ from './pages/FAQ';
+import TermsConditions from './pages/TermsConditions';
 import './App.css';
 
 const App = () => {
@@ -47,6 +48,7 @@ const App = () => {
                 <Route path="/shipping-policy" element={<ShippingPolicy />} />
                 <Route path="/return-policy" element={<ReturnPolicy />} />
                 <Route path="/faq" element={<FAQ />} />
+                <Route path="/terms" element={<TermsConditions />} />
               </Routes>
             </div>
             <Footer />
