@@ -12,8 +12,14 @@ const Login = () => {
   const [form, setForm] = useState({ email: '', password: '' });
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
+  const [toast, setToast] = useState(false);
 
   const handleChange = (e) => setForm({ ...form, [e.target.name]: e.target.value });
+
+  const showToast = () => {
+    setToast(true);
+    setTimeout(() => setToast(false), 2500);
+  };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -21,7 +27,8 @@ const Login = () => {
     setLoading(true);
     try {
       await login(form.email, form.password);
-      navigate(`/${redirect}`);
+      showToast();
+      setTimeout(() => navigate(`/${redirect}`), 1000);
     } catch (err) {
       setError(err.response?.data?.message || 'Login failed. Please try again.');
     } finally {
@@ -31,6 +38,7 @@ const Login = () => {
 
   return (
     <main className="auth-page">
+      <div className={`toast-success ${toast ? 'show' : ''}`}>🎉 Login successful! Welcome back.</div>
       <div className="auth-card">
         <div className="auth-header">
           <Link to="/" className="auth-logo">

@@ -10,8 +10,14 @@ const Register = () => {
   const [form, setForm] = useState({ name: '', email: '', password: '', confirm: '' });
   const [error, setError] = useState('');
   const [loading, setLoading] = useState(false);
+  const [toast, setToast] = useState(false);
 
   const handleChange = (e) => setForm({ ...form, [e.target.name]: e.target.value });
+
+  const showToast = () => {
+    setToast(true);
+    setTimeout(() => setToast(false), 2500);
+  };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -28,13 +34,13 @@ const Register = () => {
     try {
       await register(form.name, form.email, form.password);
       setError('');
-      navigate('/');
+      showToast();
+      setTimeout(() => navigate('/'), 1000);
     } catch (err) {
       const serverMsg = err.response?.data?.message || '';
-      // 'next is not a function' means bcrypt async issue but user was created
-      // In this case navigate to home
       if (!serverMsg || serverMsg === 'next is not a function') {
-        navigate('/');
+        showToast();
+        setTimeout(() => navigate('/'), 1000);
         return;
       }
       setError(serverMsg);
@@ -45,6 +51,7 @@ const Register = () => {
 
   return (
     <main className="auth-page">
+      <div className={`toast-success ${toast ? 'show' : ''}`}>🎉 Account created! Welcome to Manroz.</div>
       <div className="auth-card">
         <div className="auth-header">
           <Link to="/" className="auth-logo">
