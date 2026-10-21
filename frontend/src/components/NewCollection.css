@@ -1,0 +1,199 @@
+/* ===== NEW COLLECTION SPLIT SECTION ===== */
+.nc-split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  min-height: 640px;
+  margin-bottom: 64px;
+  background: #fff;
+}
+
+/* Left side */
+.nc-left {
+  position: relative;
+  background: #f5f0eb;
+  overflow: hidden;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+.nc-heading-wrap {
+  padding: 32px 32px 20px;
+  z-index: 3;
+  background: #f5f0eb;
+  flex-shrink: 0;
+}
+.nc-heading {
+  font-family: var(--font-display);
+  font-size: clamp(2.4rem, 4vw, 3.6rem);
+  font-weight: 700;
+  line-height: 0.9;
+  color: #b01c32;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  opacity: 0.92;
+}
+.nc-heading-line {
+  width: 48px;
+  height: 3px;
+  background: #b01c32;
+  margin-top: 12px;
+}
+.nc-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 260px 180px;
+  gap: 6px;
+  flex: 1;
+  padding: 0 6px 6px 6px;
+}
+.nc-grid-tall {
+  grid-row: span 2;
+  overflow: hidden;
+  border-radius: 8px;
+}
+.nc-grid-tall img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+  display: block;
+  transition: transform 0.5s ease;
+}
+.nc-grid-tall:hover img { transform: scale(1.04); }
+.nc-grid-right {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  overflow: hidden;
+}
+.nc-grid-right img {
+  width: 100%;
+  flex: 1;
+  object-fit: cover;
+  object-position: top;
+  display: block;
+  border-radius: 8px;
+  transition: transform 0.5s ease;
+}
+.nc-grid-right img:hover { transform: scale(1.04); }
+.nc-grid-bottom {
+  display: flex;
+  gap: 6px;
+  overflow: hidden;
+  border-radius: 8px;
+}
+.nc-grid-bottom img {
+  flex: 1;
+  width: 50%;
+  object-fit: cover;
+  object-position: top;
+  display: block;
+  border-radius: 8px;
+  transition: transform 0.5s ease;
+}
+.nc-grid-bottom img:hover { transform: scale(1.04); }
+.nc-grid-accent {
+  width: 6px;
+  background: #b01c32;
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+.nc-side-label {
+  position: absolute;
+  bottom: 24px;
+  left: -28px;
+  transform: rotate(-90deg);
+  transform-origin: left center;
+  font-size: 0.6rem;
+  letter-spacing: 0.28em;
+  color: #b01c32;
+  opacity: 0.5;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+/* Right side */
+.nc-right {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 64px 6%;
+  background: #fff;
+}
+.nc-tag {
+  display: inline-block;
+  font-size: 0.65rem;
+  letter-spacing: 0.2em;
+  font-weight: 600;
+  color: #b01c32;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #b01c32;
+  padding-bottom: 4px;
+}
+.nc-title {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 3.5vw, 3rem);
+  font-weight: 400;
+  color: #1a1a1a;
+  line-height: 1.1;
+  margin-bottom: 20px;
+}
+.nc-desc {
+  font-size: 0.9rem;
+  color: #888;
+  line-height: 1.8;
+  margin-bottom: 32px;
+  max-width: 420px;
+}
+.nc-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: #1a1a1a;
+  color: #fff;
+  text-decoration: none;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 14px 32px;
+  border-radius: 2px;
+  align-self: flex-start;
+  transition: background 0.2s;
+}
+.nc-btn svg { width: 14px; height: 14px; transition: transform 0.2s; }
+.nc-btn:hover { background: #b01c32; }
+.nc-btn:hover svg { transform: translateX(4px); }
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 900px) {
+  .nc-split { grid-template-columns: 1fr; }
+  .nc-left { min-height: 460px; }
+  .nc-grid { min-height: 400px; }
+  .nc-right { padding: 40px 5%; }
+}
+
+@media (max-width: 560px) {
+  .nc-split { gap: 0; }
+  .nc-left { min-height: 320px; }
+  .nc-grid {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 180px 180px;
+    min-height: 360px;
+  }
+  .nc-grid-tall { grid-row: span 2; }
+  .nc-grid-right img { height: 177px; }
+  .nc-grid-bottom { display: none; }
+  .nc-right { padding: 32px 5%; }
+  .nc-title { font-size: clamp(1.6rem, 6vw, 2.2rem); }
+  .nc-desc {
+    font-size: 0.85rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .nc-heading { font-size: clamp(2rem, 10vw, 3rem); }
+}
