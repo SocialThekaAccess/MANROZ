@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import './FAQ.css';
-import './FAQ.css';
 
 const faqs = [
   {
