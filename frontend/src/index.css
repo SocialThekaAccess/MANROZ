@@ -2731,9 +2731,32 @@ ul { list-style: none; }
   .nc-right { padding: 40px 5%; }
 }
 @media (max-width: 560px) {
-  .nc-grid { grid-template-columns: 1fr; grid-template-rows: 260px 120px 120px; }
-  .nc-grid-tall { grid-row: span 1; }
+  .nc-split { gap: 0; }
+  .nc-left { min-height: 320px; }
+  .nc-grid {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 180px 180px;
+    min-height: 360px;
+  }
+  .nc-grid-tall { grid-row: span 2; }
+  .nc-grid-right img { height: 177px; }
   .nc-grid-bottom { display: none; }
+  .nc-right {
+    padding: 32px 5%;
+  }
+  .nc-title {
+    font-size: clamp(1.6rem, 6vw, 2.2rem);
+  }
+  .nc-desc {
+    font-size: 0.85rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .nc-heading {
+    font-size: clamp(2rem, 10vw, 3rem);
+  }
 }
 
 /* ===== ACCOUNT PAGE ===== */

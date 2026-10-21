@@ -120,7 +120,12 @@
 }
 
 @media (max-width: 480px) {
-  .hs-festive-img { max-height: 220px; }
+  .hs-festive-img {
+    max-height: none;
+    height: auto;
+    object-fit: contain;
+    object-position: center top;
+  }
   .hs-marquee-bar { height: 36px; }
   .hs-bottom-marquee { height: 32px; }
 }
