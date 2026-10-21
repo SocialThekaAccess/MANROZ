@@ -13,7 +13,7 @@ const app = express();
 
 // Middleware
 app.use(cors({
-  origin: ['https://manroz.vercel.app', 'http://localhost:5173'],
+  origin: ['https://manroz.com', 'https://www.manroz.com', 'https://manroz.vercel.app', 'http://localhost:5173'],
   credentials: true,
 }));
 app.use(express.json());
