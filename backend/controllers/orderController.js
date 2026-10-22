@@ -1,11 +1,27 @@
 import Razorpay from 'razorpay';
 import crypto from 'crypto';
+import axios from 'axios';
 import Order from '../models/Order.js';
 
 const razorpay = new Razorpay({
   key_id: process.env.RAZORPAY_KEY_ID,
   key_secret: process.env.RAZORPAY_KEY_SECRET,
 });
+
+const SHIPROCKET_API = 'https://apiv2.shiprocket.in/v1/external';
+let shiprocketToken = null;
+let tokenExpiry = null;
+
+const getShiprocketToken = async () => {
+  if (shiprocketToken && tokenExpiry && Date.now() < tokenExpiry) return shiprocketToken;
+  const res = await axios.post(`${SHIPROCKET_API}/auth/login`, {
+    email: process.env.SHIPROCKET_EMAIL,
+    password: process.env.SHIPROCKET_PASSWORD,
+  });
+  shiprocketToken = res.data.token;
+  tokenExpiry = Date.now() + 23 * 60 * 60 * 1000;
+  return shiprocketToken;
+};
 
 // @desc    Create Razorpay order
 // @route   POST /api/orders/create
@@ -70,7 +86,54 @@ export const verifyPayment = async (req, res) => {
         paymentStatus: 'paid',
       },
       { new: true }
-    );
+    ).populate('user', 'name email');
+
+    // Auto-create Shiprocket order
+    try {
+      const token = await getShiprocketToken();
+      const orderData = {
+        order_id: order._id.toString(),
+        order_date: new Date().toISOString().split('T')[0],
+        pickup_location: 'Primary',
+        billing_customer_name: order.shippingAddress.fullName,
+        billing_last_name: '',
+        billing_address: order.shippingAddress.address,
+        billing_city: order.shippingAddress.city,
+        billing_pincode: order.shippingAddress.pincode,
+        billing_state: order.shippingAddress.state,
+        billing_country: 'India',
+        billing_email: order.user.email,
+        billing_phone: order.shippingAddress.phone,
+        shipping_is_billing: true,
+        order_items: order.items.map((item) => ({
+          name: item.title,
+          sku: item.productId,
+          units: item.quantity,
+          selling_price: item.price,
+          discount: '',
+          tax: '',
+          hsn: '',
+        })),
+        payment_method: 'Prepaid',
+        sub_total: order.totalAmount,
+        length: 30,
+        breadth: 25,
+        height: 10,
+        weight: 0.5,
+      };
+
+      const shipRes = await axios.post(`${SHIPROCKET_API}/orders/create/adhoc`, orderData, {
+        headers: { Authorization: `Bearer ${token}` },
+      });
+
+      await Order.findByIdAndUpdate(dbOrderId, {
+        shiprocketOrderId: shipRes.data.order_id,
+        shiprocketShipmentId: shipRes.data.shipment_id,
+      });
+      console.log('Shiprocket order created:', shipRes.data.order_id);
+    } catch (shipErr) {
+      console.error('Shiprocket auto-create failed:', shipErr.response?.data || shipErr.message);
+    }
 
     res.json({ success: true, order });
   } catch (error) {

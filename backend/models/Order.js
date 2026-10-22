@@ -37,6 +37,8 @@ const orderSchema = new mongoose.Schema(
       enum: ['processing', 'shipped', 'delivered', 'cancelled'],
       default: 'processing',
     },
+    shiprocketOrderId: { type: String },
+    shiprocketShipmentId: { type: String },
   },
   { timestamps: true }
 );
