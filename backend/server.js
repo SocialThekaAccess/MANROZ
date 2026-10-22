@@ -3,6 +3,7 @@ import dotenv from 'dotenv';
 import cors from 'cors';
 import connectDB from './config/db.js';
 import authRoutes from './routes/authRoutes.js';
+import orderRoutes from './routes/orderRoutes.js';
 
 dotenv.config();
 
@@ -30,6 +31,7 @@ app.use(async (req, res, next) => {
 
 // Routes
 app.use('/api/auth', authRoutes);
+app.use('/api/orders', orderRoutes);
 
 // Health check route
 app.get('/', (req, res) => {

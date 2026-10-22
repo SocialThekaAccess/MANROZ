@@ -3269,3 +3269,79 @@ ul { list-style: none; }
   .ct-row { grid-template-columns: 1fr; }
   .ct-form-wrap { padding: 24px 18px; }
 }
+
+/* ===== ORDER SUCCESS PAGE ===== */
+.order-success-page {
+  min-height: 100vh;
+  background: #fdf8f5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 5%;
+}
+.order-success-card {
+  background: #fff;
+  border-radius: 24px;
+  padding: 56px 40px;
+  max-width: 520px;
+  width: 100%;
+  text-align: center;
+  border: 1.5px solid #f0e8e0;
+  box-shadow: 0 8px 40px rgba(0,0,0,0.06);
+}
+.order-success-icon { font-size: 4rem; margin-bottom: 16px; }
+.order-success-card h1 {
+  font-family: var(--font-display);
+  font-size: clamp(1.6rem, 4vw, 2.2rem);
+  font-weight: 400;
+  color: #1a1a1a;
+  margin-bottom: 8px;
+}
+.order-success-sub { font-size: 0.95rem; color: #666; margin-bottom: 28px; }
+.order-success-details {
+  background: #fdf8f5;
+  border-radius: 12px;
+  padding: 16px 20px;
+  margin-bottom: 20px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.order-detail-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  color: #555;
+}
+.order-detail-row span:last-child { font-weight: 600; color: #1a1a1a; word-break: break-all; }
+.order-success-note {
+  font-size: 0.82rem;
+  color: #888;
+  line-height: 1.6;
+  margin-bottom: 28px;
+}
+.order-success-btns { display: flex; flex-direction: column; gap: 12px; }
+.btn-view-orders {
+  background: linear-gradient(135deg, #8b1a2e, #c0324e);
+  color: #fff;
+  text-decoration: none;
+  padding: 14px 28px;
+  border-radius: 50px;
+  font-size: 0.88rem;
+  font-weight: 700;
+  transition: all 0.2s;
+}
+.btn-view-orders:hover { background: linear-gradient(135deg, #a82036, #d94060); }
+.btn-continue-shopping-success {
+  background: none;
+  border: 1.5px solid #e0d0c8;
+  color: #555;
+  text-decoration: none;
+  padding: 12px 28px;
+  border-radius: 50px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+.btn-continue-shopping-success:hover { border-color: #c0324e; color: #c0324e; }
