@@ -3345,3 +3345,112 @@ ul { list-style: none; }
   transition: all 0.2s;
 }
 .btn-continue-shopping-success:hover { border-color: #c0324e; color: #c0324e; }
+
+/* ===== ACCOUNT ORDERS LIST ===== */
+.account-orders-loading {
+  text-align: center;
+  padding: 40px;
+  color: #888;
+  font-size: 0.9rem;
+}
+.account-orders-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.account-order-card {
+  background: #fff;
+  border-radius: 16px;
+  border: 1.5px solid #f0e8e0;
+  overflow: hidden;
+  transition: box-shadow 0.2s;
+}
+.account-order-card:hover {
+  box-shadow: 0 4px 20px rgba(139,26,46,0.08);
+}
+.order-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px 20px;
+  background: #fdf8f5;
+  border-bottom: 1px solid #f0e8e0;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.order-card-id {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  display: block;
+}
+.order-card-date {
+  font-size: 0.75rem;
+  color: #888;
+  display: block;
+  margin-top: 2px;
+}
+.order-card-badges {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.order-badge {
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+.order-card-items {
+  padding: 14px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.order-card-item {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+.order-card-item img {
+  width: 50px;
+  height: 62px;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 8px;
+  flex-shrink: 0;
+  border: 1px solid #f0e8e0;
+}
+.order-item-title {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #1a1a1a;
+  margin-bottom: 3px;
+}
+.order-item-meta {
+  font-size: 0.75rem;
+  color: #888;
+  margin-bottom: 3px;
+}
+.order-item-price {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: #8b1a2e;
+}
+.order-card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 20px;
+  border-top: 1px solid #f0e8e0;
+  background: #fdf8f5;
+}
+.order-card-address {
+  font-size: 0.78rem;
+  color: #666;
+}
+.order-card-total {
+  font-size: 0.88rem;
+  color: #1a1a1a;
+}
+.order-card-total strong { color: #8b1a2e; }
