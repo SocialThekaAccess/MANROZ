@@ -94,7 +94,7 @@ export const verifyPayment = async (req, res) => {
       const orderData = {
         order_id: order._id.toString(),
         order_date: new Date().toISOString().split('T')[0],
-        pickup_location: 'Primary',
+        pickup_location: 'work',
         billing_customer_name: order.shippingAddress.fullName,
         billing_last_name: '',
         billing_address: order.shippingAddress.address,
