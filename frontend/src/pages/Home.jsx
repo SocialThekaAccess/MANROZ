@@ -144,7 +144,8 @@ const Home = () => {
     },
   ];
 
-  return (    <main>
+  return (
+    <main>
       {/* Festive Sale Banner + Marquee — TOP */}
       <HomeSection />
 
