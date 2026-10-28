@@ -11,11 +11,12 @@ import HappyCustomers from '../components/HappyCustomers';
 
 // Get multiple images per category for hover slideshow
 const getCatImages = (prods, cat) => {
-  const catProducts = prods.filter((p) => p.category === cat && p.images?.length);
   if (cat === 'Lehenga') {
-    const first = catProducts.find((p) => p.featured) || catProducts[0];
-    return first ? first.images.slice(0, 6) : [];
+    // Always use Heavy Black Pink Lehnga specifically
+    const lehnga = prods.find((p) => p.handle === 'heavy-black-pink-lehnga');
+    return lehnga ? lehnga.images.slice(0, 6) : [];
   }
+  const catProducts = prods.filter((p) => p.category === cat && p.images?.length);
   return catProducts.flatMap((p) => p.images.slice(0, 2)).slice(0, 6);
 };
 
@@ -111,7 +112,10 @@ const FALLBACK_IMAGES = {
   Lehenga: [
     'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978022/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_4.jpg',
     'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978017/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_1.jpg',
-    'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978381/manroz/products/white-lehnga-with-designer-choli/white-lehnga-with-designer-choli_1.jpg',
+    'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978018/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_2.jpg',
+    'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978020/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_3.jpg',
+    'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978024/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_5.jpg',
+    'https://res.cloudinary.com/oaaxsftf/image/upload/v1791979465/manroz/products/heavy-black-pink-lehnga/extra_1791979462822.jpg',
   ],
   'Coord Set': [
     'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978025/manroz/products/purple-coord-set-with-jacket/purple-coord-set-with-jacket_1.jpg',
