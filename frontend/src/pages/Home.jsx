@@ -9,8 +9,6 @@ import NewCollection from '../components/NewCollection';
 import InstaGrid from '../components/InstaGrid';
 import HappyCustomers from '../components/HappyCustomers';
 
-const featured = products.filter((p) => p.featured && p.status !== 'archived').slice(0, 4);
-
 // Get multiple images per category for hover slideshow
 const getCatImages = (prods, cat) => {
   const catProducts = prods.filter((p) => p.category === cat && p.images?.length);
