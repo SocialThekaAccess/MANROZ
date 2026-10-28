@@ -26,9 +26,13 @@ const Login = () => {
     setError('');
     setLoading(true);
     try {
-      await login(form.email, form.password);
+      const userData = await login(form.email, form.password);
       showToast();
-      setTimeout(() => navigate(redirect.startsWith('/') ? redirect : `/${redirect}`), 1000);
+      // Admin users always go to /admin
+      const destination = userData.role === 'admin'
+        ? '/admin'
+        : (redirect.startsWith('/') ? redirect : `/${redirect}`);
+      setTimeout(() => navigate(destination), 1000);
     } catch (err) {
       setError(err.response?.data?.message || 'Login failed. Please try again.');
     } finally {
