@@ -17,18 +17,21 @@ const FALLBACK_ITEMS = [
 
 const TopMarquee = () => {
   const [items, setItems] = useState(FALLBACK_ITEMS);
+  const [barBg, setBarBg] = useState(null); // null = use CSS default
 
   useEffect(() => {
-    fetch(`${API}/api/admin/announcements/active`)
+    fetch(`${API}/api/admin/announcements/active?position=top`)
       .then((r) => r.json())
       .then((data) => {
         if (Array.isArray(data) && data.length > 0) {
+          // Use the highest-priority announcement's bgColor for the whole bar
+          setBarBg(data[0].bgColor || null);
           setItems(data.map((a) => ({
             text: a.linkLabel ? `${a.text}  ${a.linkLabel}` : a.text,
             highlight: true,
             link: a.link || null,
-            bgColor: a.bgColor,
-            textColor: a.textColor,
+            bgColor: a.bgColor || null,
+            textColor: a.textColor || null,
           })));
         }
       })
@@ -38,11 +41,20 @@ const TopMarquee = () => {
   const doubled = [...items, ...items];
 
   return (
-    <div className="hs-marquee-bar" role="marquee" aria-label="Promotional announcements">
+    <div
+      className="hs-marquee-bar"
+      style={barBg ? { background: barBg } : undefined}
+      role="marquee"
+      aria-label="Promotional announcements"
+    >
       <div className="hs-marquee-track">
         {doubled.map((item, i) => (
-          <span key={i} className="hs-marquee-item">
-            <span className="hs-marquee-star">✦</span>
+          <span
+            key={i}
+            className="hs-marquee-item"
+            style={item.textColor ? { color: item.textColor } : undefined}
+          >
+            <span className="hs-marquee-star" style={item.textColor ? { color: item.textColor, opacity: 0.5 } : undefined}>✦</span>
             {item.link ? (
               <a
                 href={item.link}

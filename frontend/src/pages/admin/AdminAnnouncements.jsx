@@ -11,6 +11,7 @@ const EMPTY_FORM = {
   textColor: '#ffffff',
   isActive: true,
   priority: 0,
+  position: 'both',
 };
 
 const AdminAnnouncements = () => {
@@ -58,6 +59,7 @@ const AdminAnnouncements = () => {
       textColor: ann.textColor || '#ffffff',
       isActive: ann.isActive,
       priority: ann.priority || 0,
+      position: ann.position || 'both',
     });
     setSaveMsg('');
     setModalOpen(true);
@@ -125,7 +127,7 @@ const AdminAnnouncements = () => {
       <div className="admin-page-header">
         <div>
           <h1 className="admin-page-title">Announcements</h1>
-          <p className="admin-page-subtitle">Manage the marquee / top-bar announcements shown on your store</p>
+          <p className="admin-page-subtitle">Manage the top and bottom marquee announcements shown on your store</p>
         </div>
         <button className="admin-btn admin-btn--primary" onClick={openCreate}>
           + New Announcement
@@ -149,6 +151,7 @@ const AdminAnnouncements = () => {
                 <tr>
                   <th>Text</th>
                   <th>Preview</th>
+                  <th>Position</th>
                   <th>Link</th>
                   <th>Priority</th>
                   <th>Active</th>
@@ -179,6 +182,20 @@ const AdminAnnouncements = () => {
                       }}>
                         {ann.text}
                       </div>
+                    </td>
+                    <td style={{ fontSize: '0.78rem', textAlign: 'center' }}>
+                      <span style={{
+                        padding: '2px 8px',
+                        borderRadius: 10,
+                        fontWeight: 600,
+                        fontSize: '0.7rem',
+                        textTransform: 'uppercase',
+                        letterSpacing: '0.05em',
+                        background: ann.position === 'top' ? '#1a3a8b22' : ann.position === 'bottom' ? '#1a8b3a22' : '#8b1a2e22',
+                        color: ann.position === 'top' ? '#1a3a8b' : ann.position === 'bottom' ? '#1a7a2e' : '#8b1a2e',
+                      }}>
+                        {ann.position || 'both'}
+                      </span>
                     </td>
                     <td style={{ color: 'var(--admin-text-muted)', fontSize: '0.8rem' }}>
                       {ann.link || '—'}
@@ -320,6 +337,23 @@ const AdminAnnouncements = () => {
                       <span className="admin-toggle__track" />
                       <span className="admin-toggle__label">{form.isActive ? 'Visible on store' : 'Hidden'}</span>
                     </label>
+                  </div>
+                </div>
+
+                <div className="admin-form-row">
+                  <div className="admin-form-group">
+                    <label>Show In</label>
+                    <select
+                      name="position"
+                      className="admin-input"
+                      value={form.position}
+                      onChange={handleChange}
+                      style={{ cursor: 'pointer' }}
+                    >
+                      <option value="both">Both bars (top + bottom)</option>
+                      <option value="top">Top bar only</option>
+                      <option value="bottom">Bottom bar only</option>
+                    </select>
                   </div>
                 </div>
 

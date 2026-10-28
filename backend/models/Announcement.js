@@ -9,6 +9,7 @@ const announcementSchema = new mongoose.Schema(
     textColor: { type: String, default: '#ffffff' },
     isActive: { type: Boolean, default: true },
     priority: { type: Number, default: 0 },
+    position: { type: String, enum: ['top', 'bottom', 'both'], default: 'both' },
   },
   { timestamps: true }
 );

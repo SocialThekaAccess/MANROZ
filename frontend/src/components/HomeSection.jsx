@@ -1,7 +1,10 @@
+import { useState, useEffect } from 'react';
 import festiveBanner from '../assets/FestiveSeasonSale.png';
 import './HomeSection.css';
 
-const bottomItems = [
+const API = import.meta.env.VITE_API_URL || 'https://backend-gilt-three-74.vercel.app';
+
+const BOTTOM_FALLBACK = [
   '🔥 MEGA SALE — Flat 50% Off Everything',
   'Free Shipping on ₹2000+',
   '🔥 50% OFF — Shop Now',
@@ -11,10 +14,25 @@ const bottomItems = [
   '🔥 50% OFF All Products',
   'New Festive Collection is Live',
   '🔥 MEGA SALE — Flat 50% Off Everything',
-  'Grab Your Favourite Before It\'s Gone',
+  "Grab Your Favourite Before It's Gone",
 ];
 
 const HomeSection = () => {
+  const [bottomItems, setBottomItems] = useState(BOTTOM_FALLBACK);
+
+  useEffect(() => {
+    fetch(`${API}/api/admin/announcements/active?position=bottom`)
+      .then((r) => r.json())
+      .then((data) => {
+        if (Array.isArray(data) && data.length > 0) {
+          setBottomItems(data.map((a) => (a.linkLabel ? `${a.text}  ${a.linkLabel}` : a.text)));
+        }
+      })
+      .catch(() => {}); // silently fall back to hardcoded
+  }, []);
+
+  const doubled = [...bottomItems, ...bottomItems];
+
   return (
     <>
       {/* Single Banner */}
@@ -30,7 +48,7 @@ const HomeSection = () => {
       {/* Bottom Marquee */}
       <div className="hs-bottom-marquee">
         <div className="hs-bottom-track">
-          {[...bottomItems, ...bottomItems].map((text, i) => (
+          {doubled.map((text, i) => (
             <span key={i} className="hs-bottom-item">
               <span className="hs-bottom-dot" />
               {text}

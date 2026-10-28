@@ -233,12 +233,18 @@ export const getAnnouncements = async (req, res) => {
   }
 };
 
-// @desc    Get active announcements (public — used by TopMarquee)
-// @route   GET /api/admin/announcements/active
+// @desc    Get active announcements (public — used by TopMarquee & bottom marquee)
+// @route   GET /api/admin/announcements/active?position=top|bottom|both
 // @access  Public
 export const getActiveAnnouncements = async (req, res) => {
   try {
-    const announcements = await Announcement.find({ isActive: true }).sort({ priority: -1 });
+    const { position } = req.query;
+    const query = { isActive: true };
+    // If a position is requested, return announcements for that position OR 'both'
+    if (position && ['top', 'bottom'].includes(position)) {
+      query.position = { $in: [position, 'both'] };
+    }
+    const announcements = await Announcement.find(query).sort({ priority: -1 });
     res.json(announcements);
   } catch (error) {
     res.status(500).json({ message: error.message });

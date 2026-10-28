@@ -14,7 +14,7 @@
 
 .hs-marquee-track {
   display: flex;
-  animation: hs-marquee-scroll 50s linear infinite;
+  animation: hs-marquee-scroll 80s linear infinite;
   white-space: nowrap;
   will-change: transform;
 }
@@ -79,8 +79,12 @@
 
 .hs-bottom-track {
   display: flex;
-  animation: hs-marquee-scroll 18s linear infinite;
+  animation: hs-marquee-scroll 80s linear infinite;
   white-space: nowrap;
+}
+
+.hs-bottom-marquee:hover .hs-bottom-track {
+  animation-play-state: paused;
 }
 
 .hs-bottom-item {
