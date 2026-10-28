@@ -1,10 +1,15 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { CartProvider } from './context/CartContext';
 import { AuthProvider } from './context/AuthContext';
-import TopMarquee from './components/TopMarquee';
-import Navbar from './components/Navbar';
-import Footer from './components/Footer';
-import ScrollToTop from './components/ScrollToTop';
+import AdminRoute from './components/AdminRoute';
+import AdminLayout from './pages/admin/AdminLayout';
+import AdminDashboard from './pages/admin/AdminDashboard';
+import AdminOrders from './pages/admin/AdminOrders';
+import AdminUsers from './pages/admin/AdminUsers';
+import AdminAnnouncements from './pages/admin/AdminAnnouncements';
+import AdminSales from './pages/admin/AdminSales';
+import AdminProducts from './pages/admin/AdminProducts';
+import StoreLayout from './pages/StoreLayout';
 import Home from './pages/Home';
 import Shop from './pages/Shop';
 import ProductDetail from './pages/ProductDetail';
@@ -29,34 +34,45 @@ const App = () => {
     <BrowserRouter>
       <AuthProvider>
         <CartProvider>
-          <div className="app">
-            <ScrollToTop />
-            {/* Marquee sits above the sticky navbar */}
-            <TopMarquee />
-            <Navbar />
-            <div className="page-content">
-              <Routes>
-                <Route path="/" element={<Home />} />
-                <Route path="/shop" element={<Shop />} />
-                <Route path="/product/:handle" element={<ProductDetail />} />
-                <Route path="/cart" element={<Cart />} />
-                <Route path="/login" element={<Login />} />
-                <Route path="/register" element={<Register />} />
-                <Route path="/about" element={<About />} />
-                <Route path="/collections" element={<Collections />} />
-                <Route path="/contact" element={<Contact />} />
-                <Route path="/account" element={<Account />} />
-                <Route path="/privacy-policy" element={<PrivacyPolicy />} />
-                <Route path="/shipping-policy" element={<ShippingPolicy />} />
-                <Route path="/return-policy" element={<ReturnPolicy />} />
-                <Route path="/faq" element={<FAQ />} />
-                <Route path="/terms" element={<TermsConditions />} />
-                <Route path="/checkout" element={<Checkout />} />
-                <Route path="/order-success" element={<OrderSuccess />} />
-              </Routes>
-            </div>
-            <Footer />
-          </div>
+          <Routes>
+            {/* ── Admin routes — no navbar/footer ─────────────────── */}
+            <Route
+              path="/admin"
+              element={
+                <AdminRoute>
+                  <AdminLayout />
+                </AdminRoute>
+              }
+            >
+              <Route index element={<AdminDashboard />} />
+              <Route path="orders" element={<AdminOrders />} />
+              <Route path="products" element={<AdminProducts />} />
+              <Route path="users" element={<AdminUsers />} />
+              <Route path="announcements" element={<AdminAnnouncements />} />
+              <Route path="sales" element={<AdminSales />} />
+            </Route>
+
+            {/* ── Store routes — with navbar/footer ───────────────── */}
+            <Route element={<StoreLayout />}>
+              <Route path="/" element={<Home />} />
+              <Route path="/shop" element={<Shop />} />
+              <Route path="/product/:handle" element={<ProductDetail />} />
+              <Route path="/cart" element={<Cart />} />
+              <Route path="/login" element={<Login />} />
+              <Route path="/register" element={<Register />} />
+              <Route path="/about" element={<About />} />
+              <Route path="/collections" element={<Collections />} />
+              <Route path="/contact" element={<Contact />} />
+              <Route path="/account" element={<Account />} />
+              <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+              <Route path="/shipping-policy" element={<ShippingPolicy />} />
+              <Route path="/return-policy" element={<ReturnPolicy />} />
+              <Route path="/faq" element={<FAQ />} />
+              <Route path="/terms" element={<TermsConditions />} />
+              <Route path="/checkout" element={<Checkout />} />
+              <Route path="/order-success" element={<OrderSuccess />} />
+            </Route>
+          </Routes>
         </CartProvider>
       </AuthProvider>
     </BrowserRouter>

@@ -3,9 +3,10 @@ import crypto from 'crypto';
 import axios from 'axios';
 import Order from '../models/Order.js';
 
-const razorpay = new Razorpay({
-  key_id: process.env.RAZORPAY_KEY_ID,
-  key_secret: process.env.RAZORPAY_KEY_SECRET,
+// Lazy init — avoids crash when Razorpay keys are missing in local/dev
+const getRazorpay = () => new Razorpay({
+  key_id: process.env.RAZORPAY_KEY_ID || 'dummy_key',
+  key_secret: process.env.RAZORPAY_KEY_SECRET || 'dummy_secret',
 });
 
 const SHIPROCKET_API = 'https://apiv2.shiprocket.in/v1/external';
@@ -31,7 +32,7 @@ export const createOrder = async (req, res) => {
     const { items, shippingAddress, totalAmount } = req.body;
 
     // Create Razorpay order (amount in paise)
-    const razorpayOrder = await razorpay.orders.create({
+    const razorpayOrder = await getRazorpay().orders.create({
       amount: Math.round(totalAmount * 100),
       currency: 'INR',
       receipt: `receipt_${Date.now()}`,

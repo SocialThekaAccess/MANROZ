@@ -21,7 +21,7 @@ const productSchema = new mongoose.Schema(
     variants: [variantSchema],
     basePrice: { type: Number, required: true },
     compareAtPrice: { type: Number },
-    status: { type: String, enum: ['active', 'draft', 'archived'], default: 'active' },
+    status: { type: String, enum: ['active', 'draft', 'archived', 'soldout'], default: 'active' },
     featured: { type: Boolean, default: false },
   },
   { timestamps: true }

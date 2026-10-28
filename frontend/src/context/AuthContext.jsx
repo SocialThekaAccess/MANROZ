@@ -20,7 +20,7 @@ export const AuthProvider = ({ children }) => {
 
   const login = async (email, password) => {
     const res = await axios.post('/api/auth/login', { email, password });
-    const userData = res.data;
+    const userData = res.data; // now includes role
     setUser(userData);
     localStorage.setItem('manroz_user', JSON.stringify(userData));
     return userData;
@@ -28,11 +28,13 @@ export const AuthProvider = ({ children }) => {
 
   const register = async (name, email, password) => {
     const res = await axios.post('/api/auth/register', { name, email, password });
-    const userData = res.data;
+    const userData = res.data; // now includes role
     setUser(userData);
     localStorage.setItem('manroz_user', JSON.stringify(userData));
     return userData;
   };
+
+  const isAdmin = user?.role === 'admin';
 
   const logout = () => {
     setUser(null);
@@ -40,7 +42,7 @@ export const AuthProvider = ({ children }) => {
   };
 
   return (
-    <AuthContext.Provider value={{ user, login, register, logout, loading }}>
+    <AuthContext.Provider value={{ user, login, register, logout, loading, isAdmin }}>
       {children}
     </AuthContext.Provider>
   );

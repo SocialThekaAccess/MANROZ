@@ -28,7 +28,7 @@ const Login = () => {
     try {
       await login(form.email, form.password);
       showToast();
-      setTimeout(() => navigate(`/${redirect}`), 1000);
+      setTimeout(() => navigate(redirect.startsWith('/') ? redirect : `/${redirect}`), 1000);
     } catch (err) {
       setError(err.response?.data?.message || 'Login failed. Please try again.');
     } finally {
