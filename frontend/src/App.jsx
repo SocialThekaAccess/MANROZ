@@ -9,6 +9,7 @@ import AdminUsers from './pages/admin/AdminUsers';
 import AdminAnnouncements from './pages/admin/AdminAnnouncements';
 import AdminSales from './pages/admin/AdminSales';
 import AdminProducts from './pages/admin/AdminProducts';
+import AdminCoupons from './pages/admin/AdminCoupons';
 import StoreLayout from './pages/StoreLayout';
 import Home from './pages/Home';
 import Shop from './pages/Shop';
@@ -50,6 +51,7 @@ const App = () => {
               <Route path="users" element={<AdminUsers />} />
               <Route path="announcements" element={<AdminAnnouncements />} />
               <Route path="sales" element={<AdminSales />} />
+              <Route path="coupons" element={<AdminCoupons />} />
             </Route>
 
             {/* ── Store routes — with navbar/footer ───────────────── */}

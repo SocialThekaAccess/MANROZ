@@ -23,10 +23,44 @@ const Checkout = () => {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
 
+  // Coupon state
+  const [couponCode, setCouponCode] = useState('');
+  const [couponApplied, setCouponApplied] = useState(null); // { code, discount, discountType, discountValue }
+  const [couponError, setCouponError] = useState('');
+  const [couponLoading, setCouponLoading] = useState(false);
+
   const shipping = totalPrice >= 2000 ? 0 : 99;
-  const grandTotal = totalPrice + shipping;
+  const couponDiscount = couponApplied ? couponApplied.discount : 0;
+  const grandTotal = totalPrice + shipping - couponDiscount;
 
   const handleChange = (e) => setAddress({ ...address, [e.target.name]: e.target.value });
+
+  const applyCoupon = async () => {
+    if (!couponCode.trim()) return;
+    setCouponLoading(true);
+    setCouponError('');
+    try {
+      const token = JSON.parse(localStorage.getItem('manroz_user'))?.token;
+      const { data } = await axios.post(
+        `${API_URL}/api/coupons/validate`,
+        { code: couponCode.trim(), cartTotal: totalPrice + shipping },
+        { headers: { Authorization: `Bearer ${token}` } }
+      );
+      setCouponApplied(data);
+      setCouponError('');
+    } catch (err) {
+      setCouponApplied(null);
+      setCouponError(err.response?.data?.message || 'Invalid coupon code.');
+    } finally {
+      setCouponLoading(false);
+    }
+  };
+
+  const removeCoupon = () => {
+    setCouponApplied(null);
+    setCouponCode('');
+    setCouponError('');
+  };
 
   const loadRazorpayScript = () => {
     return new Promise((resolve) => {
@@ -74,6 +108,8 @@ const Checkout = () => {
           })),
           shippingAddress: address,
           totalAmount: grandTotal,
+          couponCode: couponApplied ? couponApplied.code : undefined,
+          couponDiscount: couponApplied ? couponApplied.discount : 0,
         },
         { headers: { Authorization: `Bearer ${token}` } }
       );
@@ -224,6 +260,36 @@ const Checkout = () => {
             ))}
           </div>
 
+          {/* Coupon code */}
+          <div className="checkout-coupon">
+            {couponApplied ? (
+              <div className="checkout-coupon-applied">
+                <span>🎟️ <strong>{couponApplied.code}</strong> applied — saving ₹{couponApplied.discount.toLocaleString('en-IN')}</span>
+                <button type="button" onClick={removeCoupon} className="checkout-coupon-remove">✕ Remove</button>
+              </div>
+            ) : (
+              <div className="checkout-coupon-row">
+                <input
+                  type="text"
+                  placeholder="Coupon code"
+                  value={couponCode}
+                  onChange={(e) => { setCouponCode(e.target.value.toUpperCase()); setCouponError(''); }}
+                  onKeyDown={(e) => e.key === 'Enter' && (e.preventDefault(), applyCoupon())}
+                  className="checkout-coupon-input"
+                />
+                <button
+                  type="button"
+                  onClick={applyCoupon}
+                  disabled={couponLoading || !couponCode.trim()}
+                  className="checkout-coupon-btn"
+                >
+                  {couponLoading ? '...' : 'Apply'}
+                </button>
+              </div>
+            )}
+            {couponError && <p className="checkout-coupon-error">{couponError}</p>}
+          </div>
+
           <div className="checkout-totals">
             <div className="checkout-total-row">
               <span>Subtotal</span>
@@ -233,6 +299,12 @@ const Checkout = () => {
               <span>Shipping</span>
               <span>{shipping === 0 ? <span className="free-tag">FREE</span> : `₹${shipping}`}</span>
             </div>
+            {couponApplied && (
+              <div className="checkout-total-row" style={{ color: '#27ae60' }}>
+                <span>Coupon ({couponApplied.code})</span>
+                <span>− ₹{couponApplied.discount.toLocaleString('en-IN')}</span>
+              </div>
+            )}
             <div className="checkout-total-row total">
               <span>Total</span>
               <span>₹{grandTotal.toLocaleString('en-IN')}</span>

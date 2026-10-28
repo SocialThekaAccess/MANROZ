@@ -10,6 +10,7 @@ const NAV_ITEMS = [
   { to: '/admin/users', label: 'Users', icon: '👥' },
   { to: '/admin/announcements', label: 'Announcements', icon: '📢' },
   { to: '/admin/sales', label: 'Sales & Offers', icon: '🏷️' },
+  { to: '/admin/coupons', label: 'Coupons', icon: '🎟️' },
 ];
 
 const AdminLayout = () => {

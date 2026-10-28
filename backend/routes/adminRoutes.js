@@ -21,6 +21,12 @@ import {
   deleteSaleBanner,
 } from '../controllers/adminController.js';
 import { adminGetProducts, adminUpdateProduct } from '../controllers/productController.js';
+import {
+  getCoupons,
+  createCoupon,
+  updateCoupon,
+  deleteCoupon,
+} from '../controllers/couponController.js';
 
 const router = express.Router();
 
@@ -59,5 +65,11 @@ router.delete('/sales/:id', deleteSaleBanner);
 // Products
 router.get('/products', adminGetProducts);
 router.put('/products/:id', adminUpdateProduct);
+
+// Coupons
+router.get('/coupons', getCoupons);
+router.post('/coupons', createCoupon);
+router.put('/coupons/:id', updateCoupon);
+router.delete('/coupons/:id', deleteCoupon);
 
 export default router;

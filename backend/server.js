@@ -7,6 +7,7 @@ import orderRoutes from './routes/orderRoutes.js';
 import shiprocketRoutes from './routes/shiprocketRoutes.js';
 import adminRoutes from './routes/adminRoutes.js';
 import productRoutes from './routes/productRoutes.js';
+import couponRoutes from './routes/couponRoutes.js';
 
 dotenv.config();
 
@@ -38,6 +39,7 @@ app.use('/api/orders', orderRoutes);
 app.use('/api/shiprocket', shiprocketRoutes);
 app.use('/api/admin', adminRoutes);
 app.use('/api/products', productRoutes);
+app.use('/api/coupons', couponRoutes);
 
 // Health check route
 app.get('/', (req, res) => {
