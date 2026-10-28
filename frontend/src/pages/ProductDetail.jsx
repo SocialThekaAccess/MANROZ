@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
-import products from '../data/products';
+import { useProduct, useProducts } from '../hooks/useProducts';
 import { useCart } from '../context/CartContext';
 import ProductCard from '../components/ProductCard';
 
@@ -9,14 +9,23 @@ const ProductDetail = () => {
   const { addToCart } = useCart();
   const navigate = useNavigate();
 
-  const product = products.find((p) => p.handle === handle);
+  const { product, loading, error } = useProduct(handle);
+  const { products } = useProducts();
 
   const [selectedImage, setSelectedImage] = useState(0);
   const [selectedSize, setSelectedSize] = useState('');
   const [addedMsg, setAddedMsg] = useState('');
   const [sizeError, setSizeError] = useState(false);
 
-  if (!product) {
+  if (loading) {
+    return (
+      <main className="not-found">
+        <p>Loading product...</p>
+      </main>
+    );
+  }
+
+  if (!product || error) {
     return (
       <main className="not-found">
         <h2>Product not found</h2>
@@ -30,7 +39,7 @@ const ProductDetail = () => {
     : 0;
 
   const related = products
-    .filter((p) => p.category === product.category && p.id !== product.id && p.status === 'active')
+    .filter((p) => p.category === product.category && p.handle !== product.handle && p.status === 'active')
     .slice(0, 4);
 
   const handleAddToCart = () => {
@@ -223,7 +232,7 @@ const ProductDetail = () => {
           </div>
           <div className="products-grid">
             {related.map((p) => (
-              <ProductCard key={p.id} product={p} />
+              <ProductCard key={p._id || p.handle} product={p} />
             ))}
           </div>
         </section>

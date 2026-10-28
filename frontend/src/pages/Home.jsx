@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import { useState, useEffect, useRef } from 'react';
-import products from '../data/products';
+import { useProducts } from '../hooks/useProducts';
 import newCollectionBanner from '../assets/NewCollection.png';
 import ProductCard from '../components/ProductCard';
 import VideoCarousel from '../components/VideoCarousel';
@@ -12,46 +12,14 @@ import HappyCustomers from '../components/HappyCustomers';
 const featured = products.filter((p) => p.featured && p.status !== 'archived').slice(0, 4);
 
 // Get multiple images per category for hover slideshow
-const getCatImages = (cat) => {
-  const catProducts = products.filter((p) => p.category === cat && p.images?.length);
+const getCatImages = (prods, cat) => {
+  const catProducts = prods.filter((p) => p.category === cat && p.images?.length);
   if (cat === 'Lehenga') {
-    // Only show images from the first featured lehenga product
     const first = catProducts.find((p) => p.featured) || catProducts[0];
     return first ? first.images.slice(0, 6) : [];
   }
-  // Coord Set & Suit: mix images from multiple products
   return catProducts.flatMap((p) => p.images.slice(0, 2)).slice(0, 6);
 };
-
-const categoryData = [
-  {
-    name: 'Lehenga',
-    label: 'Lehengas',
-    subtitle: 'Wedding & Festive',
-    tag: 'New Season',
-    count: products.filter((p) => p.category === 'Lehenga').length,
-    images: getCatImages('Lehenga'),
-    startDelay: 0,
-  },
-  {
-    name: 'Coord Set',
-    label: 'Coord Sets',
-    subtitle: 'Casual & Semi-formal',
-    tag: 'Best Sellers',
-    count: products.filter((p) => p.category === 'Coord Set').length,
-    images: getCatImages('Coord Set'),
-    startDelay: 800,
-  },
-  {
-    name: 'Suit',
-    label: 'Suits',
-    subtitle: 'Elegant & Timeless',
-    tag: 'Premium',
-    count: products.filter((p) => p.category === 'Suit').length,
-    images: getCatImages('Suit'),
-    startDelay: 1600,
-  },
-];
 
 // Single category card with auto image cycle
 const CatCard = ({ cat }) => {
@@ -142,8 +110,41 @@ const CatCard = ({ cat }) => {
 };
 
 const Home = () => {
-  return (
-    <main>
+  const { products } = useProducts();
+
+  const featured = products.filter((p) => p.featured && p.status !== 'archived').slice(0, 4);
+
+  const categoryData = [
+    {
+      name: 'Lehenga',
+      label: 'Lehengas',
+      subtitle: 'Wedding & Festive',
+      tag: 'New Season',
+      count: products.filter((p) => p.category === 'Lehenga').length,
+      images: getCatImages(products, 'Lehenga'),
+      startDelay: 0,
+    },
+    {
+      name: 'Coord Set',
+      label: 'Coord Sets',
+      subtitle: 'Casual & Semi-formal',
+      tag: 'Best Sellers',
+      count: products.filter((p) => p.category === 'Coord Set').length,
+      images: getCatImages(products, 'Coord Set'),
+      startDelay: 800,
+    },
+    {
+      name: 'Suit',
+      label: 'Suits',
+      subtitle: 'Elegant & Timeless',
+      tag: 'Premium',
+      count: products.filter((p) => p.category === 'Suit').length,
+      images: getCatImages(products, 'Suit'),
+      startDelay: 1600,
+    },
+  ];
+
+  return (    <main>
       {/* Festive Sale Banner + Marquee — TOP */}
       <HomeSection />
 
@@ -175,7 +176,7 @@ const Home = () => {
         </div>
         <div className="products-grid">
           {featured.map((p) => (
-            <ProductCard key={p.id} product={p} />
+            <ProductCard key={p._id || p.handle} product={p} />
           ))}
         </div>
         <div className="section-footer">

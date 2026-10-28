@@ -1,9 +1,8 @@
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo } from 'react';
 import { useSearchParams } from 'react-router-dom';
-import products from '../data/products';
+import { useProducts } from '../hooks/useProducts';
 import ProductCard from '../components/ProductCard';
 
-const allCategories = ['All', ...new Set(products.map((p) => p.category))];
 const sortOptions = [
   { label: 'Featured', value: 'featured' },
   { label: 'Price: Low to High', value: 'price_asc' },
@@ -12,22 +11,25 @@ const sortOptions = [
 ];
 
 const Shop = () => {
+  const { products, loading, error } = useProducts();
   const [searchParams, setSearchParams] = useSearchParams();
   const [sort, setSort] = useState('featured');
   const [search, setSearch] = useState('');
 
   const selectedCategory = searchParams.get('category') || 'All';
 
+  const allCategories = useMemo(() => {
+    const cats = [...new Set(products.map((p) => p.category))];
+    return ['All', ...cats];
+  }, [products]);
+
   const setCategory = (cat) => {
-    if (cat === 'All') {
-      setSearchParams({});
-    } else {
-      setSearchParams({ category: cat });
-    }
+    if (cat === 'All') setSearchParams({});
+    else setSearchParams({ category: cat });
   };
 
   const filtered = useMemo(() => {
-    // Show all except archived — soldout products show honge with badge
+    // Show all except archived — soldout products show with badge
     let list = products.filter((p) => p.status !== 'archived');
 
     if (selectedCategory !== 'All') {
@@ -39,31 +41,26 @@ const Shop = () => {
       list = list.filter(
         (p) =>
           p.title.toLowerCase().includes(q) ||
-          p.description.toLowerCase().includes(q) ||
+          (p.description || '').toLowerCase().includes(q) ||
           p.category.toLowerCase().includes(q)
       );
     }
 
     switch (sort) {
-      case 'price_asc':
-        return [...list].sort((a, b) => a.basePrice - b.basePrice);
-      case 'price_desc':
-        return [...list].sort((a, b) => b.basePrice - a.basePrice);
-      case 'name_asc':
-        return [...list].sort((a, b) => a.title.localeCompare(b.title));
-      default:
-        return list;
+      case 'price_asc':  return [...list].sort((a, b) => a.basePrice - b.basePrice);
+      case 'price_desc': return [...list].sort((a, b) => b.basePrice - a.basePrice);
+      case 'name_asc':   return [...list].sort((a, b) => a.title.localeCompare(b.title));
+      default:           return list;
     }
-  }, [selectedCategory, sort, search]);
+  }, [products, selectedCategory, sort, search]);
 
   return (
     <main className="shop-page">
       <div className="shop-header">
         <h1>Shop</h1>
-        <p>{filtered.length} products</p>
+        <p>{loading ? '...' : `${filtered.length} products`}</p>
       </div>
 
-      {/* Search */}
       <div className="shop-search-bar">
         <input
           type="text"
@@ -75,7 +72,6 @@ const Shop = () => {
       </div>
 
       <div className="shop-layout">
-        {/* Filters Sidebar */}
         <aside className="shop-sidebar">
           <div className="filter-group">
             <h4>Category</h4>
@@ -94,30 +90,25 @@ const Shop = () => {
           </div>
         </aside>
 
-        {/* Products */}
         <div className="shop-content">
           <div className="shop-toolbar">
-            <select
-              value={sort}
-              onChange={(e) => setSort(e.target.value)}
-              className="sort-select"
-            >
+            <select value={sort} onChange={(e) => setSort(e.target.value)} className="sort-select">
               {sortOptions.map((o) => (
-                <option key={o.value} value={o.value}>
-                  {o.label}
-                </option>
+                <option key={o.value} value={o.value}>{o.label}</option>
               ))}
             </select>
           </div>
 
-          {filtered.length === 0 ? (
-            <div className="empty-state">
-              <p>No products found. Try a different filter.</p>
-            </div>
+          {loading ? (
+            <div className="empty-state"><p>Loading products...</p></div>
+          ) : error ? (
+            <div className="empty-state"><p>{error}</p></div>
+          ) : filtered.length === 0 ? (
+            <div className="empty-state"><p>No products found. Try a different filter.</p></div>
           ) : (
             <div className="products-grid">
               {filtered.map((p) => (
-                <ProductCard key={p.id} product={p} />
+                <ProductCard key={p._id || p.handle} product={p} />
               ))}
             </div>
           )}
