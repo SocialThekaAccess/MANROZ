@@ -107,6 +107,24 @@ const CatCard = ({ cat }) => {
   );
 };
 
+const FALLBACK_IMAGES = {
+  Lehenga: [
+    'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978022/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_4.jpg',
+    'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978017/manroz/products/heavy-black-pink-lehnga/heavy-black-pink-lehnga_1.jpg',
+    'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978381/manroz/products/white-lehnga-with-designer-choli/white-lehnga-with-designer-choli_1.jpg',
+  ],
+  'Coord Set': [
+    'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978025/manroz/products/purple-coord-set-with-jacket/purple-coord-set-with-jacket_1.jpg',
+    'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978057/manroz/products/green-coord-set-with-silver-stone/green-coord-set-with-silver-stone_1.jpg',
+    'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978201/manroz/products/black-coord-set-with-pink-neck-work/black-coord-set-with-pink-neck-work_1.jpg',
+  ],
+  Suit: [
+    'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978151/manroz/products/red-shimmery-suit/red-shimmery-suit_1.jpg',
+    'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978087/manroz/products/blue-heavy-embroided-suit-with-neck-work/blue-heavy-embroided-suit-with-neck-work_1.jpg',
+    'https://res.cloudinary.com/oaaxsftf/image/upload/v1791978063/manroz/products/cream-coord-set-with-a-line-cut/cream-coord-set-with-a-line-cut_1.jpg',
+  ],
+};
+
 const Home = () => {
   const { products } = useProducts();
 
@@ -119,7 +137,9 @@ const Home = () => {
       subtitle: 'Wedding & Festive',
       tag: 'New Season',
       count: products.filter((p) => p.category === 'Lehenga').length,
-      images: getCatImages(products, 'Lehenga'),
+      images: getCatImages(products, 'Lehenga').length > 0
+        ? getCatImages(products, 'Lehenga')
+        : FALLBACK_IMAGES['Lehenga'],
       startDelay: 0,
     },
     {
@@ -128,7 +148,9 @@ const Home = () => {
       subtitle: 'Casual & Semi-formal',
       tag: 'Best Sellers',
       count: products.filter((p) => p.category === 'Coord Set').length,
-      images: getCatImages(products, 'Coord Set'),
+      images: getCatImages(products, 'Coord Set').length > 0
+        ? getCatImages(products, 'Coord Set')
+        : FALLBACK_IMAGES['Coord Set'],
       startDelay: 800,
     },
     {
@@ -137,7 +159,9 @@ const Home = () => {
       subtitle: 'Elegant & Timeless',
       tag: 'Premium',
       count: products.filter((p) => p.category === 'Suit').length,
-      images: getCatImages(products, 'Suit'),
+      images: getCatImages(products, 'Suit').length > 0
+        ? getCatImages(products, 'Suit')
+        : FALLBACK_IMAGES['Suit'],
       startDelay: 1600,
     },
   ];
@@ -158,7 +182,7 @@ const Home = () => {
         </div>
         <div className="cat-grid-new">
           {categoryData.map((cat) => (
-            <CatCard key={cat.name} cat={cat} />
+            <CatCard key={`${cat.name}-${products.length}`} cat={cat} />
           ))}
         </div>
       </section>
